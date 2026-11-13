@@ -1,0 +1,1651 @@
+date,location,topic,rating,sentiment
+17-08-2026,AI Block,Network,4.25,Positive
+17-08-2026,AI Block,Classrooms,4.41,Positive
+17-08-2026,AI Block,Cleanliness,4.31,Positive
+17-08-2026,AI Block,Facilities,3.9,Neutral
+17-08-2026,AI Block,Campus Experience,4.2,Positive
+17-08-2026,A Block,Network,3.96,Neutral
+17-08-2026,A Block,Classrooms,3.98,Neutral
+17-08-2026,A Block,Cleanliness,3.86,Neutral
+17-08-2026,A Block,Facilities,3.98,Neutral
+17-08-2026,A Block,Campus Experience,4.21,Positive
+17-08-2026,B Block,Network,3.78,Neutral
+17-08-2026,B Block,Classrooms,4,Positive
+17-08-2026,B Block,Cleanliness,4.39,Positive
+17-08-2026,B Block,Facilities,3.88,Neutral
+17-08-2026,B Block,Campus Experience,3.9,Neutral
+17-08-2026,C Block,Network,4.3,Positive
+17-08-2026,C Block,Classrooms,4.12,Positive
+17-08-2026,C Block,Cleanliness,4.07,Positive
+17-08-2026,C Block,Facilities,4.51,Positive
+17-08-2026,C Block,Campus Experience,3.77,Neutral
+17-08-2026,D Block,Network,3.87,Neutral
+17-08-2026,D Block,Classrooms,3.78,Neutral
+17-08-2026,D Block,Cleanliness,3.5,Neutral
+17-08-2026,D Block,Facilities,3.68,Neutral
+17-08-2026,D Block,Campus Experience,3.89,Neutral
+17-08-2026,Cafeteria,Network,3.42,Neutral
+17-08-2026,Cafeteria,Classrooms,3.77,Neutral
+17-08-2026,Cafeteria,Cleanliness,3.73,Neutral
+17-08-2026,Cafeteria,Facilities,4.05,Positive
+17-08-2026,Cafeteria,Campus Experience,3.88,Neutral
+17-08-2026,Main Stage Area,Network,3.99,Neutral
+17-08-2026,Main Stage Area,Classrooms,3.98,Neutral
+17-08-2026,Main Stage Area,Cleanliness,3.89,Neutral
+17-08-2026,Main Stage Area,Facilities,3.88,Neutral
+17-08-2026,Main Stage Area,Campus Experience,4.01,Positive
+17-08-2026,C Block Auditorium 1,Network,3.96,Neutral
+17-08-2026,C Block Auditorium 1,Classrooms,3.84,Neutral
+17-08-2026,C Block Auditorium 1,Cleanliness,4.11,Positive
+17-08-2026,C Block Auditorium 1,Facilities,4.31,Positive
+17-08-2026,C Block Auditorium 1,Campus Experience,4,Neutral
+17-08-2026,C Block Auditorium 2,Network,3.53,Neutral
+17-08-2026,C Block Auditorium 2,Classrooms,4.33,Positive
+17-08-2026,C Block Auditorium 2,Cleanliness,4.2,Positive
+17-08-2026,C Block Auditorium 2,Facilities,4.1,Positive
+17-08-2026,C Block Auditorium 2,Campus Experience,4.16,Positive
+17-08-2026,Cricket Nets,Network,4.11,Positive
+17-08-2026,Cricket Nets,Classrooms,4.3,Positive
+17-08-2026,Cricket Nets,Cleanliness,3.92,Neutral
+17-08-2026,Cricket Nets,Facilities,3.97,Neutral
+17-08-2026,Cricket Nets,Campus Experience,4.46,Positive
+17-08-2026,Basketball Court,Network,4.18,Positive
+17-08-2026,Basketball Court,Classrooms,3.72,Neutral
+17-08-2026,Basketball Court,Cleanliness,3.65,Neutral
+17-08-2026,Basketball Court,Facilities,4.54,Positive
+17-08-2026,Basketball Court,Campus Experience,3.56,Neutral
+18-08-2026,AI Block,Network,4.28,Positive
+18-08-2026,AI Block,Classrooms,3.93,Neutral
+18-08-2026,AI Block,Cleanliness,4.16,Positive
+18-08-2026,AI Block,Facilities,4.36,Positive
+18-08-2026,AI Block,Campus Experience,3.62,Neutral
+18-08-2026,A Block,Network,3.96,Neutral
+18-08-2026,A Block,Classrooms,4.34,Positive
+18-08-2026,A Block,Cleanliness,4.24,Positive
+18-08-2026,A Block,Facilities,4.52,Positive
+18-08-2026,A Block,Campus Experience,3.79,Neutral
+18-08-2026,B Block,Network,3.9,Neutral
+18-08-2026,B Block,Classrooms,3.95,Neutral
+18-08-2026,B Block,Cleanliness,4.07,Positive
+18-08-2026,B Block,Facilities,3.86,Neutral
+18-08-2026,B Block,Campus Experience,3.87,Neutral
+18-08-2026,C Block,Network,3.99,Neutral
+18-08-2026,C Block,Classrooms,4.14,Positive
+18-08-2026,C Block,Cleanliness,4.17,Positive
+18-08-2026,C Block,Facilities,3.96,Neutral
+18-08-2026,C Block,Campus Experience,4.13,Positive
+18-08-2026,D Block,Network,4.34,Positive
+18-08-2026,D Block,Classrooms,3.58,Neutral
+18-08-2026,D Block,Cleanliness,4.17,Positive
+18-08-2026,D Block,Facilities,3.95,Neutral
+18-08-2026,D Block,Campus Experience,3.79,Neutral
+18-08-2026,Cafeteria,Network,3.76,Neutral
+18-08-2026,Cafeteria,Classrooms,3.54,Neutral
+18-08-2026,Cafeteria,Cleanliness,3.76,Neutral
+18-08-2026,Cafeteria,Facilities,3.3,Neutral
+18-08-2026,Cafeteria,Campus Experience,3.8,Neutral
+18-08-2026,Main Stage Area,Network,3.98,Neutral
+18-08-2026,Main Stage Area,Classrooms,4.35,Positive
+18-08-2026,Main Stage Area,Cleanliness,3.91,Neutral
+18-08-2026,Main Stage Area,Facilities,3.82,Neutral
+18-08-2026,Main Stage Area,Campus Experience,3.84,Neutral
+18-08-2026,C Block Auditorium 1,Network,3.89,Neutral
+18-08-2026,C Block Auditorium 1,Classrooms,4.51,Positive
+18-08-2026,C Block Auditorium 1,Cleanliness,4.23,Positive
+18-08-2026,C Block Auditorium 1,Facilities,4.35,Positive
+18-08-2026,C Block Auditorium 1,Campus Experience,4.5,Positive
+18-08-2026,C Block Auditorium 2,Network,4.05,Positive
+18-08-2026,C Block Auditorium 2,Classrooms,4.12,Positive
+18-08-2026,C Block Auditorium 2,Cleanliness,4.28,Positive
+18-08-2026,C Block Auditorium 2,Facilities,4.25,Positive
+18-08-2026,C Block Auditorium 2,Campus Experience,3.96,Neutral
+18-08-2026,Cricket Nets,Network,3.95,Neutral
+18-08-2026,Cricket Nets,Classrooms,3.86,Neutral
+18-08-2026,Cricket Nets,Cleanliness,4.07,Positive
+18-08-2026,Cricket Nets,Facilities,3.51,Neutral
+18-08-2026,Cricket Nets,Campus Experience,4.27,Positive
+18-08-2026,Basketball Court,Network,3.75,Neutral
+18-08-2026,Basketball Court,Classrooms,3.85,Neutral
+18-08-2026,Basketball Court,Cleanliness,3.89,Neutral
+18-08-2026,Basketball Court,Facilities,3.95,Neutral
+18-08-2026,Basketball Court,Campus Experience,3.9,Neutral
+19-08-2026,AI Block,Network,4.14,Positive
+19-08-2026,AI Block,Classrooms,4.01,Positive
+19-08-2026,AI Block,Cleanliness,4.62,Positive
+19-08-2026,AI Block,Facilities,4.04,Positive
+19-08-2026,AI Block,Campus Experience,4.17,Positive
+19-08-2026,A Block,Network,3.51,Neutral
+19-08-2026,A Block,Classrooms,3.99,Neutral
+19-08-2026,A Block,Cleanliness,3.79,Neutral
+19-08-2026,A Block,Facilities,4.49,Positive
+19-08-2026,A Block,Campus Experience,4.05,Positive
+19-08-2026,B Block,Network,4.21,Positive
+19-08-2026,B Block,Classrooms,4.32,Positive
+19-08-2026,B Block,Cleanliness,4.51,Positive
+19-08-2026,B Block,Facilities,3.51,Neutral
+19-08-2026,B Block,Campus Experience,4.1,Positive
+19-08-2026,C Block,Network,4.21,Positive
+19-08-2026,C Block,Classrooms,4.38,Positive
+19-08-2026,C Block,Cleanliness,3.99,Neutral
+19-08-2026,C Block,Facilities,4.01,Positive
+19-08-2026,C Block,Campus Experience,4.12,Positive
+19-08-2026,D Block,Network,4.07,Positive
+19-08-2026,D Block,Classrooms,4.09,Positive
+19-08-2026,D Block,Cleanliness,3.44,Neutral
+19-08-2026,D Block,Facilities,3.77,Neutral
+19-08-2026,D Block,Campus Experience,3.92,Neutral
+19-08-2026,Cafeteria,Network,3.7,Neutral
+19-08-2026,Cafeteria,Classrooms,4.13,Positive
+19-08-2026,Cafeteria,Cleanliness,3.94,Neutral
+19-08-2026,Cafeteria,Facilities,3.67,Neutral
+19-08-2026,Cafeteria,Campus Experience,3.69,Neutral
+19-08-2026,Main Stage Area,Network,4.2,Positive
+19-08-2026,Main Stage Area,Classrooms,4.36,Positive
+19-08-2026,Main Stage Area,Cleanliness,4.01,Positive
+19-08-2026,Main Stage Area,Facilities,3.79,Neutral
+19-08-2026,Main Stage Area,Campus Experience,4.19,Positive
+19-08-2026,C Block Auditorium 1,Network,3.71,Neutral
+19-08-2026,C Block Auditorium 1,Classrooms,4.01,Positive
+19-08-2026,C Block Auditorium 1,Cleanliness,4.47,Positive
+19-08-2026,C Block Auditorium 1,Facilities,4.01,Positive
+19-08-2026,C Block Auditorium 1,Campus Experience,4.41,Positive
+19-08-2026,C Block Auditorium 2,Network,4.54,Positive
+19-08-2026,C Block Auditorium 2,Classrooms,4.66,Positive
+19-08-2026,C Block Auditorium 2,Cleanliness,4.35,Positive
+19-08-2026,C Block Auditorium 2,Facilities,4.55,Positive
+19-08-2026,C Block Auditorium 2,Campus Experience,4.46,Positive
+19-08-2026,Cricket Nets,Network,3.69,Neutral
+19-08-2026,Cricket Nets,Classrooms,4.3,Positive
+19-08-2026,Cricket Nets,Cleanliness,3.93,Neutral
+19-08-2026,Cricket Nets,Facilities,3.86,Neutral
+19-08-2026,Cricket Nets,Campus Experience,3.6,Neutral
+19-08-2026,Basketball Court,Network,3.74,Neutral
+19-08-2026,Basketball Court,Classrooms,4.04,Positive
+19-08-2026,Basketball Court,Cleanliness,4.42,Positive
+19-08-2026,Basketball Court,Facilities,4.38,Positive
+19-08-2026,Basketball Court,Campus Experience,4.1,Positive
+20-08-2026,AI Block,Network,3.98,Neutral
+20-08-2026,AI Block,Classrooms,4.55,Positive
+20-08-2026,AI Block,Cleanliness,4.05,Positive
+20-08-2026,AI Block,Facilities,3.84,Neutral
+20-08-2026,AI Block,Campus Experience,4.51,Positive
+20-08-2026,A Block,Network,3.82,Neutral
+20-08-2026,A Block,Classrooms,4.12,Positive
+20-08-2026,A Block,Cleanliness,3.82,Neutral
+20-08-2026,A Block,Facilities,3.99,Neutral
+20-08-2026,A Block,Campus Experience,4.17,Positive
+20-08-2026,B Block,Network,3.75,Neutral
+20-08-2026,B Block,Classrooms,4.03,Positive
+20-08-2026,B Block,Cleanliness,4.3,Positive
+20-08-2026,B Block,Facilities,4.62,Positive
+20-08-2026,B Block,Campus Experience,4.25,Positive
+20-08-2026,C Block,Network,4.48,Positive
+20-08-2026,C Block,Classrooms,4.03,Positive
+20-08-2026,C Block,Cleanliness,4.01,Positive
+20-08-2026,C Block,Facilities,4.57,Positive
+20-08-2026,C Block,Campus Experience,4.49,Positive
+20-08-2026,D Block,Network,4.06,Positive
+20-08-2026,D Block,Classrooms,3.6,Neutral
+20-08-2026,D Block,Cleanliness,3.84,Neutral
+20-08-2026,D Block,Facilities,3.95,Neutral
+20-08-2026,D Block,Campus Experience,3.8,Neutral
+20-08-2026,Cafeteria,Network,3.96,Neutral
+20-08-2026,Cafeteria,Classrooms,3.76,Neutral
+20-08-2026,Cafeteria,Cleanliness,3.81,Neutral
+20-08-2026,Cafeteria,Facilities,3.75,Neutral
+20-08-2026,Cafeteria,Campus Experience,3.75,Neutral
+20-08-2026,Main Stage Area,Network,4.07,Positive
+20-08-2026,Main Stage Area,Classrooms,3.99,Neutral
+20-08-2026,Main Stage Area,Cleanliness,3.48,Neutral
+20-08-2026,Main Stage Area,Facilities,4.25,Positive
+20-08-2026,Main Stage Area,Campus Experience,3.55,Neutral
+20-08-2026,C Block Auditorium 1,Network,4.04,Positive
+20-08-2026,C Block Auditorium 1,Classrooms,4.18,Positive
+20-08-2026,C Block Auditorium 1,Cleanliness,3.96,Neutral
+20-08-2026,C Block Auditorium 1,Facilities,4.17,Positive
+20-08-2026,C Block Auditorium 1,Campus Experience,4.43,Positive
+20-08-2026,C Block Auditorium 2,Network,4.48,Positive
+20-08-2026,C Block Auditorium 2,Classrooms,3.81,Neutral
+20-08-2026,C Block Auditorium 2,Cleanliness,4.24,Positive
+20-08-2026,C Block Auditorium 2,Facilities,4.33,Positive
+20-08-2026,C Block Auditorium 2,Campus Experience,3.7,Neutral
+20-08-2026,Cricket Nets,Network,3.92,Neutral
+20-08-2026,Cricket Nets,Classrooms,4.05,Positive
+20-08-2026,Cricket Nets,Cleanliness,3.81,Neutral
+20-08-2026,Cricket Nets,Facilities,4.02,Positive
+20-08-2026,Cricket Nets,Campus Experience,4.06,Positive
+20-08-2026,Basketball Court,Network,4.12,Positive
+20-08-2026,Basketball Court,Classrooms,3.91,Neutral
+20-08-2026,Basketball Court,Cleanliness,3.64,Neutral
+20-08-2026,Basketball Court,Facilities,4.08,Positive
+20-08-2026,Basketball Court,Campus Experience,3.93,Neutral
+21-08-2026,AI Block,Network,4.02,Positive
+21-08-2026,AI Block,Classrooms,4.43,Positive
+21-08-2026,AI Block,Cleanliness,3.95,Neutral
+21-08-2026,AI Block,Facilities,4.36,Positive
+21-08-2026,AI Block,Campus Experience,3.97,Neutral
+21-08-2026,A Block,Network,4.01,Positive
+21-08-2026,A Block,Classrooms,3.62,Neutral
+21-08-2026,A Block,Cleanliness,4.15,Positive
+21-08-2026,A Block,Facilities,4.05,Positive
+21-08-2026,A Block,Campus Experience,3.61,Neutral
+21-08-2026,B Block,Network,3.84,Neutral
+21-08-2026,B Block,Classrooms,3.83,Neutral
+21-08-2026,B Block,Cleanliness,3.79,Neutral
+21-08-2026,B Block,Facilities,4.07,Positive
+21-08-2026,B Block,Campus Experience,3.79,Neutral
+21-08-2026,C Block,Network,4.16,Positive
+21-08-2026,C Block,Classrooms,4.22,Positive
+21-08-2026,C Block,Cleanliness,4.42,Positive
+21-08-2026,C Block,Facilities,3.98,Neutral
+21-08-2026,C Block,Campus Experience,4.23,Positive
+21-08-2026,D Block,Network,4.25,Positive
+21-08-2026,D Block,Classrooms,3.72,Neutral
+21-08-2026,D Block,Cleanliness,4.05,Positive
+21-08-2026,D Block,Facilities,3.86,Neutral
+21-08-2026,D Block,Campus Experience,3.86,Neutral
+21-08-2026,Cafeteria,Network,3.75,Neutral
+21-08-2026,Cafeteria,Classrooms,3.6,Neutral
+21-08-2026,Cafeteria,Cleanliness,3.97,Neutral
+21-08-2026,Cafeteria,Facilities,3.79,Neutral
+21-08-2026,Cafeteria,Campus Experience,4.12,Positive
+21-08-2026,Main Stage Area,Network,3.63,Neutral
+21-08-2026,Main Stage Area,Classrooms,4.11,Positive
+21-08-2026,Main Stage Area,Cleanliness,3.71,Neutral
+21-08-2026,Main Stage Area,Facilities,4.12,Positive
+21-08-2026,Main Stage Area,Campus Experience,4.3,Positive
+21-08-2026,C Block Auditorium 1,Network,3.99,Neutral
+21-08-2026,C Block Auditorium 1,Classrooms,4.36,Positive
+21-08-2026,C Block Auditorium 1,Cleanliness,3.85,Neutral
+21-08-2026,C Block Auditorium 1,Facilities,3.86,Neutral
+21-08-2026,C Block Auditorium 1,Campus Experience,4.15,Positive
+21-08-2026,C Block Auditorium 2,Network,3.91,Neutral
+21-08-2026,C Block Auditorium 2,Classrooms,4.43,Positive
+21-08-2026,C Block Auditorium 2,Cleanliness,4.14,Positive
+21-08-2026,C Block Auditorium 2,Facilities,4.11,Positive
+21-08-2026,C Block Auditorium 2,Campus Experience,4.09,Positive
+21-08-2026,Cricket Nets,Network,4.28,Positive
+21-08-2026,Cricket Nets,Classrooms,4.05,Positive
+21-08-2026,Cricket Nets,Cleanliness,3.95,Neutral
+21-08-2026,Cricket Nets,Facilities,4.36,Positive
+21-08-2026,Cricket Nets,Campus Experience,4.39,Positive
+21-08-2026,Basketball Court,Network,3.86,Neutral
+21-08-2026,Basketball Court,Classrooms,3.79,Neutral
+21-08-2026,Basketball Court,Cleanliness,3.51,Neutral
+21-08-2026,Basketball Court,Facilities,3.47,Neutral
+21-08-2026,Basketball Court,Campus Experience,4.03,Positive
+22-08-2026,AI Block,Network,4.45,Positive
+22-08-2026,AI Block,Classrooms,4.38,Positive
+22-08-2026,AI Block,Cleanliness,4.48,Positive
+22-08-2026,AI Block,Facilities,4.07,Positive
+22-08-2026,AI Block,Campus Experience,3.89,Neutral
+22-08-2026,A Block,Network,4.01,Positive
+22-08-2026,A Block,Classrooms,3.97,Neutral
+22-08-2026,A Block,Cleanliness,4.49,Positive
+22-08-2026,A Block,Facilities,3.91,Neutral
+22-08-2026,A Block,Campus Experience,4.1,Positive
+22-08-2026,B Block,Network,4.05,Positive
+22-08-2026,B Block,Classrooms,4.04,Positive
+22-08-2026,B Block,Cleanliness,3.87,Neutral
+22-08-2026,B Block,Facilities,4,Positive
+22-08-2026,B Block,Campus Experience,4.27,Positive
+22-08-2026,C Block,Network,3.98,Neutral
+22-08-2026,C Block,Classrooms,4.11,Positive
+22-08-2026,C Block,Cleanliness,4.17,Positive
+22-08-2026,C Block,Facilities,4.09,Positive
+22-08-2026,C Block,Campus Experience,3.8,Neutral
+22-08-2026,D Block,Network,3.61,Neutral
+22-08-2026,D Block,Classrooms,4.02,Positive
+22-08-2026,D Block,Cleanliness,3.58,Neutral
+22-08-2026,D Block,Facilities,4.07,Positive
+22-08-2026,D Block,Campus Experience,3.34,Neutral
+22-08-2026,Cafeteria,Network,3.72,Neutral
+22-08-2026,Cafeteria,Classrooms,3.71,Neutral
+22-08-2026,Cafeteria,Cleanliness,4.04,Positive
+22-08-2026,Cafeteria,Facilities,3.81,Neutral
+22-08-2026,Cafeteria,Campus Experience,3.5,Neutral
+22-08-2026,Main Stage Area,Network,3.93,Neutral
+22-08-2026,Main Stage Area,Classrooms,5,Positive
+22-08-2026,Main Stage Area,Cleanliness,3.64,Neutral
+22-08-2026,Main Stage Area,Facilities,4.24,Positive
+22-08-2026,Main Stage Area,Campus Experience,4.08,Positive
+22-08-2026,C Block Auditorium 1,Network,4.17,Positive
+22-08-2026,C Block Auditorium 1,Classrooms,4.04,Positive
+22-08-2026,C Block Auditorium 1,Cleanliness,4.17,Positive
+22-08-2026,C Block Auditorium 1,Facilities,3.94,Neutral
+22-08-2026,C Block Auditorium 1,Campus Experience,3.89,Neutral
+22-08-2026,C Block Auditorium 2,Network,4.1,Positive
+22-08-2026,C Block Auditorium 2,Classrooms,4.23,Positive
+22-08-2026,C Block Auditorium 2,Cleanliness,4.06,Positive
+22-08-2026,C Block Auditorium 2,Facilities,4.16,Positive
+22-08-2026,C Block Auditorium 2,Campus Experience,4.27,Positive
+22-08-2026,Cricket Nets,Network,3.94,Neutral
+22-08-2026,Cricket Nets,Classrooms,4.17,Positive
+22-08-2026,Cricket Nets,Cleanliness,4.39,Positive
+22-08-2026,Cricket Nets,Facilities,4.38,Positive
+22-08-2026,Cricket Nets,Campus Experience,3.87,Neutral
+22-08-2026,Basketball Court,Network,4.1,Positive
+22-08-2026,Basketball Court,Classrooms,4.57,Positive
+22-08-2026,Basketball Court,Cleanliness,4.01,Positive
+22-08-2026,Basketball Court,Facilities,3.95,Neutral
+22-08-2026,Basketball Court,Campus Experience,3.93,Neutral
+23-08-2026,AI Block,Network,4.04,Positive
+23-08-2026,AI Block,Classrooms,4.11,Positive
+23-08-2026,AI Block,Cleanliness,4.33,Positive
+23-08-2026,AI Block,Facilities,4.04,Positive
+23-08-2026,AI Block,Campus Experience,4.01,Positive
+23-08-2026,A Block,Network,3.94,Neutral
+23-08-2026,A Block,Classrooms,4.32,Positive
+23-08-2026,A Block,Cleanliness,3.89,Neutral
+23-08-2026,A Block,Facilities,4.19,Positive
+23-08-2026,A Block,Campus Experience,4.2,Positive
+23-08-2026,B Block,Network,3.96,Neutral
+23-08-2026,B Block,Classrooms,3.94,Neutral
+23-08-2026,B Block,Cleanliness,3.68,Neutral
+23-08-2026,B Block,Facilities,4.24,Positive
+23-08-2026,B Block,Campus Experience,4.29,Positive
+23-08-2026,C Block,Network,4.24,Positive
+23-08-2026,C Block,Classrooms,4.3,Positive
+23-08-2026,C Block,Cleanliness,4.79,Positive
+23-08-2026,C Block,Facilities,4.21,Positive
+23-08-2026,C Block,Campus Experience,4.41,Positive
+23-08-2026,D Block,Network,4.15,Positive
+23-08-2026,D Block,Classrooms,3.76,Neutral
+23-08-2026,D Block,Cleanliness,3.89,Neutral
+23-08-2026,D Block,Facilities,3.82,Neutral
+23-08-2026,D Block,Campus Experience,3.86,Neutral
+23-08-2026,Cafeteria,Network,3.43,Neutral
+23-08-2026,Cafeteria,Classrooms,3.7,Neutral
+23-08-2026,Cafeteria,Cleanliness,3.88,Neutral
+23-08-2026,Cafeteria,Facilities,4.29,Positive
+23-08-2026,Cafeteria,Campus Experience,3.76,Neutral
+23-08-2026,Main Stage Area,Network,4.14,Positive
+23-08-2026,Main Stage Area,Classrooms,3.8,Neutral
+23-08-2026,Main Stage Area,Cleanliness,3.94,Neutral
+23-08-2026,Main Stage Area,Facilities,4,Positive
+23-08-2026,Main Stage Area,Campus Experience,4.25,Positive
+23-08-2026,C Block Auditorium 1,Network,3.84,Neutral
+23-08-2026,C Block Auditorium 1,Classrooms,4.43,Positive
+23-08-2026,C Block Auditorium 1,Cleanliness,4.22,Positive
+23-08-2026,C Block Auditorium 1,Facilities,3.89,Neutral
+23-08-2026,C Block Auditorium 1,Campus Experience,4.06,Positive
+23-08-2026,C Block Auditorium 2,Network,3.9,Neutral
+23-08-2026,C Block Auditorium 2,Classrooms,4.09,Positive
+23-08-2026,C Block Auditorium 2,Cleanliness,4.32,Positive
+23-08-2026,C Block Auditorium 2,Facilities,4.39,Positive
+23-08-2026,C Block Auditorium 2,Campus Experience,4.04,Positive
+23-08-2026,Cricket Nets,Network,3.56,Neutral
+23-08-2026,Cricket Nets,Classrooms,3.77,Neutral
+23-08-2026,Cricket Nets,Cleanliness,4.04,Positive
+23-08-2026,Cricket Nets,Facilities,3.81,Neutral
+23-08-2026,Cricket Nets,Campus Experience,4.11,Positive
+23-08-2026,Basketball Court,Network,3.89,Neutral
+23-08-2026,Basketball Court,Classrooms,4.49,Positive
+23-08-2026,Basketball Court,Cleanliness,4.27,Positive
+23-08-2026,Basketball Court,Facilities,3.83,Neutral
+23-08-2026,Basketball Court,Campus Experience,3.93,Neutral
+24-08-2026,AI Block,Network,4.17,Positive
+24-08-2026,AI Block,Classrooms,4.45,Positive
+24-08-2026,AI Block,Cleanliness,3.62,Neutral
+24-08-2026,AI Block,Facilities,4,Positive
+24-08-2026,AI Block,Campus Experience,3.84,Neutral
+24-08-2026,A Block,Network,4.02,Positive
+24-08-2026,A Block,Classrooms,4.1,Positive
+24-08-2026,A Block,Cleanliness,4.5,Positive
+24-08-2026,A Block,Facilities,3.58,Neutral
+24-08-2026,A Block,Campus Experience,4.35,Positive
+24-08-2026,B Block,Network,3.87,Neutral
+24-08-2026,B Block,Classrooms,3.33,Neutral
+24-08-2026,B Block,Cleanliness,4.07,Positive
+24-08-2026,B Block,Facilities,3.96,Neutral
+24-08-2026,B Block,Campus Experience,3.71,Neutral
+24-08-2026,C Block,Network,3.93,Neutral
+24-08-2026,C Block,Classrooms,3.97,Neutral
+24-08-2026,C Block,Cleanliness,4.21,Positive
+24-08-2026,C Block,Facilities,3.87,Neutral
+24-08-2026,C Block,Campus Experience,3.91,Neutral
+24-08-2026,D Block,Network,4.21,Positive
+24-08-2026,D Block,Classrooms,3.56,Neutral
+24-08-2026,D Block,Cleanliness,3.65,Neutral
+24-08-2026,D Block,Facilities,3.56,Neutral
+24-08-2026,D Block,Campus Experience,4.11,Positive
+24-08-2026,Cafeteria,Network,3.51,Neutral
+24-08-2026,Cafeteria,Classrooms,4.19,Positive
+24-08-2026,Cafeteria,Cleanliness,3.65,Neutral
+24-08-2026,Cafeteria,Facilities,3.6,Neutral
+24-08-2026,Cafeteria,Campus Experience,3.86,Neutral
+24-08-2026,Main Stage Area,Network,4.53,Positive
+24-08-2026,Main Stage Area,Classrooms,3.82,Neutral
+24-08-2026,Main Stage Area,Cleanliness,3.63,Neutral
+24-08-2026,Main Stage Area,Facilities,4.05,Positive
+24-08-2026,Main Stage Area,Campus Experience,4.17,Positive
+24-08-2026,C Block Auditorium 1,Network,3.78,Neutral
+24-08-2026,C Block Auditorium 1,Classrooms,4.8,Positive
+24-08-2026,C Block Auditorium 1,Cleanliness,4.17,Positive
+24-08-2026,C Block Auditorium 1,Facilities,4.44,Positive
+24-08-2026,C Block Auditorium 1,Campus Experience,4.3,Positive
+24-08-2026,C Block Auditorium 2,Network,4.26,Positive
+24-08-2026,C Block Auditorium 2,Classrooms,4.1,Positive
+24-08-2026,C Block Auditorium 2,Cleanliness,4.59,Positive
+24-08-2026,C Block Auditorium 2,Facilities,4.53,Positive
+24-08-2026,C Block Auditorium 2,Campus Experience,4.05,Positive
+24-08-2026,Cricket Nets,Network,4.7,Positive
+24-08-2026,Cricket Nets,Classrooms,4.24,Positive
+24-08-2026,Cricket Nets,Cleanliness,4.08,Positive
+24-08-2026,Cricket Nets,Facilities,3.93,Neutral
+24-08-2026,Cricket Nets,Campus Experience,4.03,Positive
+24-08-2026,Basketball Court,Network,4.05,Positive
+24-08-2026,Basketball Court,Classrooms,4.2,Positive
+24-08-2026,Basketball Court,Cleanliness,3.94,Neutral
+24-08-2026,Basketball Court,Facilities,4.21,Positive
+24-08-2026,Basketball Court,Campus Experience,3.98,Neutral
+25-08-2026,AI Block,Network,4.21,Positive
+25-08-2026,AI Block,Classrooms,3.89,Neutral
+25-08-2026,AI Block,Cleanliness,4.13,Positive
+25-08-2026,AI Block,Facilities,3.86,Neutral
+25-08-2026,AI Block,Campus Experience,4.01,Positive
+25-08-2026,A Block,Network,4.11,Positive
+25-08-2026,A Block,Classrooms,4.05,Positive
+25-08-2026,A Block,Cleanliness,4.23,Positive
+25-08-2026,A Block,Facilities,3.86,Neutral
+25-08-2026,A Block,Campus Experience,3.88,Neutral
+25-08-2026,B Block,Network,4.18,Positive
+25-08-2026,B Block,Classrooms,3.78,Neutral
+25-08-2026,B Block,Cleanliness,4.36,Positive
+25-08-2026,B Block,Facilities,3.96,Neutral
+25-08-2026,B Block,Campus Experience,3.97,Neutral
+25-08-2026,C Block,Network,3.93,Neutral
+25-08-2026,C Block,Classrooms,4.63,Positive
+25-08-2026,C Block,Cleanliness,3.99,Neutral
+25-08-2026,C Block,Facilities,3.95,Neutral
+25-08-2026,C Block,Campus Experience,4.2,Positive
+25-08-2026,D Block,Network,4.19,Positive
+25-08-2026,D Block,Classrooms,4.1,Positive
+25-08-2026,D Block,Cleanliness,4.16,Positive
+25-08-2026,D Block,Facilities,3.92,Neutral
+25-08-2026,D Block,Campus Experience,4.36,Positive
+25-08-2026,Cafeteria,Network,3.88,Neutral
+25-08-2026,Cafeteria,Classrooms,3.66,Neutral
+25-08-2026,Cafeteria,Cleanliness,3.98,Neutral
+25-08-2026,Cafeteria,Facilities,3.79,Neutral
+25-08-2026,Cafeteria,Campus Experience,4.04,Positive
+25-08-2026,Main Stage Area,Network,4.04,Positive
+25-08-2026,Main Stage Area,Classrooms,4.43,Positive
+25-08-2026,Main Stage Area,Cleanliness,4.28,Positive
+25-08-2026,Main Stage Area,Facilities,4.48,Positive
+25-08-2026,Main Stage Area,Campus Experience,4.18,Positive
+25-08-2026,C Block Auditorium 1,Network,4.28,Positive
+25-08-2026,C Block Auditorium 1,Classrooms,3.81,Neutral
+25-08-2026,C Block Auditorium 1,Cleanliness,4.46,Positive
+25-08-2026,C Block Auditorium 1,Facilities,4.55,Positive
+25-08-2026,C Block Auditorium 1,Campus Experience,3.91,Neutral
+25-08-2026,C Block Auditorium 2,Network,3.71,Neutral
+25-08-2026,C Block Auditorium 2,Classrooms,3.87,Neutral
+25-08-2026,C Block Auditorium 2,Cleanliness,4.21,Positive
+25-08-2026,C Block Auditorium 2,Facilities,3.82,Neutral
+25-08-2026,C Block Auditorium 2,Campus Experience,3.77,Neutral
+25-08-2026,Cricket Nets,Network,3.77,Neutral
+25-08-2026,Cricket Nets,Classrooms,3.92,Neutral
+25-08-2026,Cricket Nets,Cleanliness,3.42,Neutral
+25-08-2026,Cricket Nets,Facilities,3.99,Neutral
+25-08-2026,Cricket Nets,Campus Experience,3.71,Neutral
+25-08-2026,Basketball Court,Network,3.39,Neutral
+25-08-2026,Basketball Court,Classrooms,3.94,Neutral
+25-08-2026,Basketball Court,Cleanliness,3.81,Neutral
+25-08-2026,Basketball Court,Facilities,3.82,Neutral
+25-08-2026,Basketball Court,Campus Experience,4.03,Positive
+26-08-2026,AI Block,Network,4.38,Positive
+26-08-2026,AI Block,Classrooms,4.09,Positive
+26-08-2026,AI Block,Cleanliness,4.22,Positive
+26-08-2026,AI Block,Facilities,4.2,Positive
+26-08-2026,AI Block,Campus Experience,4.54,Positive
+26-08-2026,A Block,Network,4,Neutral
+26-08-2026,A Block,Classrooms,3.89,Neutral
+26-08-2026,A Block,Cleanliness,3.84,Neutral
+26-08-2026,A Block,Facilities,4.09,Positive
+26-08-2026,A Block,Campus Experience,3.58,Neutral
+26-08-2026,B Block,Network,3.95,Neutral
+26-08-2026,B Block,Classrooms,4.34,Positive
+26-08-2026,B Block,Cleanliness,4.2,Positive
+26-08-2026,B Block,Facilities,4.08,Positive
+26-08-2026,B Block,Campus Experience,4.13,Positive
+26-08-2026,C Block,Network,4.19,Positive
+26-08-2026,C Block,Classrooms,4.15,Positive
+26-08-2026,C Block,Cleanliness,4.12,Positive
+26-08-2026,C Block,Facilities,4.05,Positive
+26-08-2026,C Block,Campus Experience,3.49,Neutral
+26-08-2026,D Block,Network,3.62,Neutral
+26-08-2026,D Block,Classrooms,4.3,Positive
+26-08-2026,D Block,Cleanliness,4.12,Positive
+26-08-2026,D Block,Facilities,3.66,Neutral
+26-08-2026,D Block,Campus Experience,3.37,Neutral
+26-08-2026,Cafeteria,Network,4.39,Positive
+26-08-2026,Cafeteria,Classrooms,3.23,Neutral
+26-08-2026,Cafeteria,Cleanliness,3.83,Neutral
+26-08-2026,Cafeteria,Facilities,3.93,Neutral
+26-08-2026,Cafeteria,Campus Experience,4.04,Positive
+26-08-2026,Main Stage Area,Network,4.14,Positive
+26-08-2026,Main Stage Area,Classrooms,4.19,Positive
+26-08-2026,Main Stage Area,Cleanliness,4.01,Positive
+26-08-2026,Main Stage Area,Facilities,4.05,Positive
+26-08-2026,Main Stage Area,Campus Experience,3.95,Neutral
+26-08-2026,C Block Auditorium 1,Network,3.86,Neutral
+26-08-2026,C Block Auditorium 1,Classrooms,4.39,Positive
+26-08-2026,C Block Auditorium 1,Cleanliness,4.24,Positive
+26-08-2026,C Block Auditorium 1,Facilities,3.97,Neutral
+26-08-2026,C Block Auditorium 1,Campus Experience,4.56,Positive
+26-08-2026,C Block Auditorium 2,Network,4.2,Positive
+26-08-2026,C Block Auditorium 2,Classrooms,3.69,Neutral
+26-08-2026,C Block Auditorium 2,Cleanliness,4.15,Positive
+26-08-2026,C Block Auditorium 2,Facilities,4.23,Positive
+26-08-2026,C Block Auditorium 2,Campus Experience,4.19,Positive
+26-08-2026,Cricket Nets,Network,3.98,Neutral
+26-08-2026,Cricket Nets,Classrooms,4.04,Positive
+26-08-2026,Cricket Nets,Cleanliness,3.93,Neutral
+26-08-2026,Cricket Nets,Facilities,3.94,Neutral
+26-08-2026,Cricket Nets,Campus Experience,3.93,Neutral
+26-08-2026,Basketball Court,Network,4.21,Positive
+26-08-2026,Basketball Court,Classrooms,3.64,Neutral
+26-08-2026,Basketball Court,Cleanliness,3.97,Neutral
+26-08-2026,Basketball Court,Facilities,4.08,Positive
+26-08-2026,Basketball Court,Campus Experience,4.21,Positive
+27-08-2026,AI Block,Network,4.24,Positive
+27-08-2026,AI Block,Classrooms,4.29,Positive
+27-08-2026,AI Block,Cleanliness,4.03,Positive
+27-08-2026,AI Block,Facilities,3.83,Neutral
+27-08-2026,AI Block,Campus Experience,3.95,Neutral
+27-08-2026,A Block,Network,3.71,Neutral
+27-08-2026,A Block,Classrooms,3.85,Neutral
+27-08-2026,A Block,Cleanliness,3.91,Neutral
+27-08-2026,A Block,Facilities,4.05,Positive
+27-08-2026,A Block,Campus Experience,4.19,Positive
+27-08-2026,B Block,Network,3.86,Neutral
+27-08-2026,B Block,Classrooms,4.16,Positive
+27-08-2026,B Block,Cleanliness,4.14,Positive
+27-08-2026,B Block,Facilities,3.85,Neutral
+27-08-2026,B Block,Campus Experience,3.54,Neutral
+27-08-2026,C Block,Network,4.32,Positive
+27-08-2026,C Block,Classrooms,3.92,Neutral
+27-08-2026,C Block,Cleanliness,3.36,Neutral
+27-08-2026,C Block,Facilities,3.84,Neutral
+27-08-2026,C Block,Campus Experience,3.97,Neutral
+27-08-2026,D Block,Network,4.1,Positive
+27-08-2026,D Block,Classrooms,3.47,Neutral
+27-08-2026,D Block,Cleanliness,4.09,Positive
+27-08-2026,D Block,Facilities,3.48,Neutral
+27-08-2026,D Block,Campus Experience,4.39,Positive
+27-08-2026,Cafeteria,Network,4.15,Positive
+27-08-2026,Cafeteria,Classrooms,3.39,Neutral
+27-08-2026,Cafeteria,Cleanliness,4.44,Positive
+27-08-2026,Cafeteria,Facilities,3.96,Neutral
+27-08-2026,Cafeteria,Campus Experience,3.51,Neutral
+27-08-2026,Main Stage Area,Network,3.73,Neutral
+27-08-2026,Main Stage Area,Classrooms,4.13,Positive
+27-08-2026,Main Stage Area,Cleanliness,3.95,Neutral
+27-08-2026,Main Stage Area,Facilities,4.14,Positive
+27-08-2026,Main Stage Area,Campus Experience,3.59,Neutral
+27-08-2026,C Block Auditorium 1,Network,4.1,Positive
+27-08-2026,C Block Auditorium 1,Classrooms,4.32,Positive
+27-08-2026,C Block Auditorium 1,Cleanliness,4.58,Positive
+27-08-2026,C Block Auditorium 1,Facilities,4.02,Positive
+27-08-2026,C Block Auditorium 1,Campus Experience,4.28,Positive
+27-08-2026,C Block Auditorium 2,Network,4.06,Positive
+27-08-2026,C Block Auditorium 2,Classrooms,4.62,Positive
+27-08-2026,C Block Auditorium 2,Cleanliness,4.48,Positive
+27-08-2026,C Block Auditorium 2,Facilities,4.66,Positive
+27-08-2026,C Block Auditorium 2,Campus Experience,4.44,Positive
+27-08-2026,Cricket Nets,Network,4.07,Positive
+27-08-2026,Cricket Nets,Classrooms,3.51,Neutral
+27-08-2026,Cricket Nets,Cleanliness,3.96,Neutral
+27-08-2026,Cricket Nets,Facilities,3.75,Neutral
+27-08-2026,Cricket Nets,Campus Experience,4.42,Positive
+27-08-2026,Basketball Court,Network,3.77,Neutral
+27-08-2026,Basketball Court,Classrooms,4.17,Positive
+27-08-2026,Basketball Court,Cleanliness,3.95,Neutral
+27-08-2026,Basketball Court,Facilities,4.15,Positive
+27-08-2026,Basketball Court,Campus Experience,3.64,Neutral
+28-08-2026,AI Block,Network,3.77,Neutral
+28-08-2026,AI Block,Classrooms,4.32,Positive
+28-08-2026,AI Block,Cleanliness,4.13,Positive
+28-08-2026,AI Block,Facilities,4.01,Positive
+28-08-2026,AI Block,Campus Experience,3.88,Neutral
+28-08-2026,A Block,Network,4.23,Positive
+28-08-2026,A Block,Classrooms,3.8,Neutral
+28-08-2026,A Block,Cleanliness,3.95,Neutral
+28-08-2026,A Block,Facilities,4.19,Positive
+28-08-2026,A Block,Campus Experience,3.84,Neutral
+28-08-2026,B Block,Network,4,Neutral
+28-08-2026,B Block,Classrooms,4.02,Positive
+28-08-2026,B Block,Cleanliness,3.76,Neutral
+28-08-2026,B Block,Facilities,3.61,Neutral
+28-08-2026,B Block,Campus Experience,3.9,Neutral
+28-08-2026,C Block,Network,4.19,Positive
+28-08-2026,C Block,Classrooms,3.99,Neutral
+28-08-2026,C Block,Cleanliness,4.23,Positive
+28-08-2026,C Block,Facilities,4.23,Positive
+28-08-2026,C Block,Campus Experience,4.03,Positive
+28-08-2026,D Block,Network,3.78,Neutral
+28-08-2026,D Block,Classrooms,4.08,Positive
+28-08-2026,D Block,Cleanliness,3.74,Neutral
+28-08-2026,D Block,Facilities,4.05,Positive
+28-08-2026,D Block,Campus Experience,4.04,Positive
+28-08-2026,Cafeteria,Network,3.45,Neutral
+28-08-2026,Cafeteria,Classrooms,3.87,Neutral
+28-08-2026,Cafeteria,Cleanliness,3.91,Neutral
+28-08-2026,Cafeteria,Facilities,3.44,Neutral
+28-08-2026,Cafeteria,Campus Experience,3.81,Neutral
+28-08-2026,Main Stage Area,Network,4.17,Positive
+28-08-2026,Main Stage Area,Classrooms,4.27,Positive
+28-08-2026,Main Stage Area,Cleanliness,4,Positive
+28-08-2026,Main Stage Area,Facilities,3.88,Neutral
+28-08-2026,Main Stage Area,Campus Experience,3.8,Neutral
+28-08-2026,C Block Auditorium 1,Network,4.06,Positive
+28-08-2026,C Block Auditorium 1,Classrooms,3.83,Neutral
+28-08-2026,C Block Auditorium 1,Cleanliness,4.07,Positive
+28-08-2026,C Block Auditorium 1,Facilities,4.1,Positive
+28-08-2026,C Block Auditorium 1,Campus Experience,4.22,Positive
+28-08-2026,C Block Auditorium 2,Network,4.24,Positive
+28-08-2026,C Block Auditorium 2,Classrooms,4.63,Positive
+28-08-2026,C Block Auditorium 2,Cleanliness,4.02,Positive
+28-08-2026,C Block Auditorium 2,Facilities,4.05,Positive
+28-08-2026,C Block Auditorium 2,Campus Experience,4.2,Positive
+28-08-2026,Cricket Nets,Network,3.58,Neutral
+28-08-2026,Cricket Nets,Classrooms,4.02,Positive
+28-08-2026,Cricket Nets,Cleanliness,4.08,Positive
+28-08-2026,Cricket Nets,Facilities,3.84,Neutral
+28-08-2026,Cricket Nets,Campus Experience,3.7,Neutral
+28-08-2026,Basketball Court,Network,3.63,Neutral
+28-08-2026,Basketball Court,Classrooms,4.41,Positive
+28-08-2026,Basketball Court,Cleanliness,3.9,Neutral
+28-08-2026,Basketball Court,Facilities,3.92,Neutral
+28-08-2026,Basketball Court,Campus Experience,4.14,Positive
+29-08-2026,AI Block,Network,3.4,Neutral
+29-08-2026,AI Block,Classrooms,4.06,Positive
+29-08-2026,AI Block,Cleanliness,4.12,Positive
+29-08-2026,AI Block,Facilities,4.12,Positive
+29-08-2026,AI Block,Campus Experience,3.74,Neutral
+29-08-2026,A Block,Network,3.95,Neutral
+29-08-2026,A Block,Classrooms,4.21,Positive
+29-08-2026,A Block,Cleanliness,4.13,Positive
+29-08-2026,A Block,Facilities,4.16,Positive
+29-08-2026,A Block,Campus Experience,3.84,Neutral
+29-08-2026,B Block,Network,4.35,Positive
+29-08-2026,B Block,Classrooms,4.1,Positive
+29-08-2026,B Block,Cleanliness,3.67,Neutral
+29-08-2026,B Block,Facilities,4.17,Positive
+29-08-2026,B Block,Campus Experience,4.12,Positive
+29-08-2026,C Block,Network,4.51,Positive
+29-08-2026,C Block,Classrooms,3.95,Neutral
+29-08-2026,C Block,Cleanliness,4.38,Positive
+29-08-2026,C Block,Facilities,3.62,Neutral
+29-08-2026,C Block,Campus Experience,4.09,Positive
+29-08-2026,D Block,Network,3.58,Neutral
+29-08-2026,D Block,Classrooms,4.34,Positive
+29-08-2026,D Block,Cleanliness,3.26,Neutral
+29-08-2026,D Block,Facilities,4.13,Positive
+29-08-2026,D Block,Campus Experience,3.99,Neutral
+29-08-2026,Cafeteria,Network,3.84,Neutral
+29-08-2026,Cafeteria,Classrooms,3.5,Neutral
+29-08-2026,Cafeteria,Cleanliness,3.21,Neutral
+29-08-2026,Cafeteria,Facilities,3.92,Neutral
+29-08-2026,Cafeteria,Campus Experience,3.89,Neutral
+29-08-2026,Main Stage Area,Network,4.21,Positive
+29-08-2026,Main Stage Area,Classrooms,3.67,Neutral
+29-08-2026,Main Stage Area,Cleanliness,4.36,Positive
+29-08-2026,Main Stage Area,Facilities,3.92,Neutral
+29-08-2026,Main Stage Area,Campus Experience,4.11,Positive
+29-08-2026,C Block Auditorium 1,Network,4.03,Positive
+29-08-2026,C Block Auditorium 1,Classrooms,4.3,Positive
+29-08-2026,C Block Auditorium 1,Cleanliness,4.27,Positive
+29-08-2026,C Block Auditorium 1,Facilities,4.34,Positive
+29-08-2026,C Block Auditorium 1,Campus Experience,4.12,Positive
+29-08-2026,C Block Auditorium 2,Network,3.8,Neutral
+29-08-2026,C Block Auditorium 2,Classrooms,4.29,Positive
+29-08-2026,C Block Auditorium 2,Cleanliness,4.35,Positive
+29-08-2026,C Block Auditorium 2,Facilities,4.53,Positive
+29-08-2026,C Block Auditorium 2,Campus Experience,4.23,Positive
+29-08-2026,Cricket Nets,Network,4.4,Positive
+29-08-2026,Cricket Nets,Classrooms,3.82,Neutral
+29-08-2026,Cricket Nets,Cleanliness,4.3,Positive
+29-08-2026,Cricket Nets,Facilities,4,Neutral
+29-08-2026,Cricket Nets,Campus Experience,4.18,Positive
+29-08-2026,Basketball Court,Network,3.75,Neutral
+29-08-2026,Basketball Court,Classrooms,4.36,Positive
+29-08-2026,Basketball Court,Cleanliness,3.9,Neutral
+29-08-2026,Basketball Court,Facilities,4.26,Positive
+29-08-2026,Basketball Court,Campus Experience,4.09,Positive
+30-08-2026,AI Block,Network,3.91,Neutral
+30-08-2026,AI Block,Classrooms,4.47,Positive
+30-08-2026,AI Block,Cleanliness,3.83,Neutral
+30-08-2026,AI Block,Facilities,4.26,Positive
+30-08-2026,AI Block,Campus Experience,4.2,Positive
+30-08-2026,A Block,Network,3.94,Neutral
+30-08-2026,A Block,Classrooms,3.79,Neutral
+30-08-2026,A Block,Cleanliness,4.41,Positive
+30-08-2026,A Block,Facilities,3.88,Neutral
+30-08-2026,A Block,Campus Experience,3.82,Neutral
+30-08-2026,B Block,Network,4.16,Positive
+30-08-2026,B Block,Classrooms,4.2,Positive
+30-08-2026,B Block,Cleanliness,4.14,Positive
+30-08-2026,B Block,Facilities,4.37,Positive
+30-08-2026,B Block,Campus Experience,4.24,Positive
+30-08-2026,C Block,Network,3.9,Neutral
+30-08-2026,C Block,Classrooms,4.28,Positive
+30-08-2026,C Block,Cleanliness,4.25,Positive
+30-08-2026,C Block,Facilities,3.77,Neutral
+30-08-2026,C Block,Campus Experience,4.06,Positive
+30-08-2026,D Block,Network,4.13,Positive
+30-08-2026,D Block,Classrooms,4.01,Positive
+30-08-2026,D Block,Cleanliness,3.83,Neutral
+30-08-2026,D Block,Facilities,4.14,Positive
+30-08-2026,D Block,Campus Experience,3.89,Neutral
+30-08-2026,Cafeteria,Network,3.51,Neutral
+30-08-2026,Cafeteria,Classrooms,4.03,Positive
+30-08-2026,Cafeteria,Cleanliness,3.82,Neutral
+30-08-2026,Cafeteria,Facilities,3.4,Neutral
+30-08-2026,Cafeteria,Campus Experience,4.14,Positive
+30-08-2026,Main Stage Area,Network,3.68,Neutral
+30-08-2026,Main Stage Area,Classrooms,3.74,Neutral
+30-08-2026,Main Stage Area,Cleanliness,4.25,Positive
+30-08-2026,Main Stage Area,Facilities,3.95,Neutral
+30-08-2026,Main Stage Area,Campus Experience,4.42,Positive
+30-08-2026,C Block Auditorium 1,Network,4.75,Positive
+30-08-2026,C Block Auditorium 1,Classrooms,4.27,Positive
+30-08-2026,C Block Auditorium 1,Cleanliness,4.39,Positive
+30-08-2026,C Block Auditorium 1,Facilities,4.11,Positive
+30-08-2026,C Block Auditorium 1,Campus Experience,3.86,Neutral
+30-08-2026,C Block Auditorium 2,Network,4.58,Positive
+30-08-2026,C Block Auditorium 2,Classrooms,3.98,Neutral
+30-08-2026,C Block Auditorium 2,Cleanliness,4.88,Positive
+30-08-2026,C Block Auditorium 2,Facilities,4.31,Positive
+30-08-2026,C Block Auditorium 2,Campus Experience,4.25,Positive
+30-08-2026,Cricket Nets,Network,3.82,Neutral
+30-08-2026,Cricket Nets,Classrooms,3.82,Neutral
+30-08-2026,Cricket Nets,Cleanliness,4.05,Positive
+30-08-2026,Cricket Nets,Facilities,3.44,Neutral
+30-08-2026,Cricket Nets,Campus Experience,4.28,Positive
+30-08-2026,Basketball Court,Network,3.59,Neutral
+30-08-2026,Basketball Court,Classrooms,3.83,Neutral
+30-08-2026,Basketball Court,Cleanliness,3.99,Neutral
+30-08-2026,Basketball Court,Facilities,3.52,Neutral
+30-08-2026,Basketball Court,Campus Experience,3.98,Neutral
+31-08-2026,AI Block,Network,3.84,Neutral
+31-08-2026,AI Block,Classrooms,4.16,Positive
+31-08-2026,AI Block,Cleanliness,4.29,Positive
+31-08-2026,AI Block,Facilities,3.9,Neutral
+31-08-2026,AI Block,Campus Experience,4.15,Positive
+31-08-2026,A Block,Network,4.26,Positive
+31-08-2026,A Block,Classrooms,4.31,Positive
+31-08-2026,A Block,Cleanliness,4.16,Positive
+31-08-2026,A Block,Facilities,4.64,Positive
+31-08-2026,A Block,Campus Experience,4.09,Positive
+31-08-2026,B Block,Network,3.84,Neutral
+31-08-2026,B Block,Classrooms,4.49,Positive
+31-08-2026,B Block,Cleanliness,4.33,Positive
+31-08-2026,B Block,Facilities,3.86,Neutral
+31-08-2026,B Block,Campus Experience,4.33,Positive
+31-08-2026,C Block,Network,3.83,Neutral
+31-08-2026,C Block,Classrooms,4.11,Positive
+31-08-2026,C Block,Cleanliness,3.84,Neutral
+31-08-2026,C Block,Facilities,4.09,Positive
+31-08-2026,C Block,Campus Experience,4.35,Positive
+31-08-2026,D Block,Network,4.31,Positive
+31-08-2026,D Block,Classrooms,4.03,Positive
+31-08-2026,D Block,Cleanliness,3.7,Neutral
+31-08-2026,D Block,Facilities,3.91,Neutral
+31-08-2026,D Block,Campus Experience,3.77,Neutral
+31-08-2026,Cafeteria,Network,4.16,Positive
+31-08-2026,Cafeteria,Classrooms,3.96,Neutral
+31-08-2026,Cafeteria,Cleanliness,3.32,Neutral
+31-08-2026,Cafeteria,Facilities,4.03,Positive
+31-08-2026,Cafeteria,Campus Experience,3.5,Neutral
+31-08-2026,Main Stage Area,Network,4.37,Positive
+31-08-2026,Main Stage Area,Classrooms,3.93,Neutral
+31-08-2026,Main Stage Area,Cleanliness,3.62,Neutral
+31-08-2026,Main Stage Area,Facilities,3.7,Neutral
+31-08-2026,Main Stage Area,Campus Experience,4.13,Positive
+31-08-2026,C Block Auditorium 1,Network,3.53,Neutral
+31-08-2026,C Block Auditorium 1,Classrooms,4.04,Positive
+31-08-2026,C Block Auditorium 1,Cleanliness,4.04,Positive
+31-08-2026,C Block Auditorium 1,Facilities,3.69,Neutral
+31-08-2026,C Block Auditorium 1,Campus Experience,3.67,Neutral
+31-08-2026,C Block Auditorium 2,Network,3.93,Neutral
+31-08-2026,C Block Auditorium 2,Classrooms,4.32,Positive
+31-08-2026,C Block Auditorium 2,Cleanliness,4.18,Positive
+31-08-2026,C Block Auditorium 2,Facilities,4.34,Positive
+31-08-2026,C Block Auditorium 2,Campus Experience,4.25,Positive
+31-08-2026,Cricket Nets,Network,4.04,Positive
+31-08-2026,Cricket Nets,Classrooms,3.97,Neutral
+31-08-2026,Cricket Nets,Cleanliness,3.98,Neutral
+31-08-2026,Cricket Nets,Facilities,3.92,Neutral
+31-08-2026,Cricket Nets,Campus Experience,4.05,Positive
+31-08-2026,Basketball Court,Network,4.01,Positive
+31-08-2026,Basketball Court,Classrooms,3.53,Neutral
+31-08-2026,Basketball Court,Cleanliness,3.99,Neutral
+31-08-2026,Basketball Court,Facilities,4.22,Positive
+31-08-2026,Basketball Court,Campus Experience,3.83,Neutral
+01-09-2026,AI Block,Network,4.29,Positive
+01-09-2026,AI Block,Classrooms,3.58,Neutral
+01-09-2026,AI Block,Cleanliness,4.34,Positive
+01-09-2026,AI Block,Facilities,4.14,Positive
+01-09-2026,AI Block,Campus Experience,3.99,Neutral
+01-09-2026,A Block,Network,4.05,Positive
+01-09-2026,A Block,Classrooms,4.34,Positive
+01-09-2026,A Block,Cleanliness,4.03,Positive
+01-09-2026,A Block,Facilities,4.05,Positive
+01-09-2026,A Block,Campus Experience,4.4,Positive
+01-09-2026,B Block,Network,4.48,Positive
+01-09-2026,B Block,Classrooms,4,Positive
+01-09-2026,B Block,Cleanliness,4.33,Positive
+01-09-2026,B Block,Facilities,3.89,Neutral
+01-09-2026,B Block,Campus Experience,4.25,Positive
+01-09-2026,C Block,Network,4.36,Positive
+01-09-2026,C Block,Classrooms,4.15,Positive
+01-09-2026,C Block,Cleanliness,4.18,Positive
+01-09-2026,C Block,Facilities,4.2,Positive
+01-09-2026,C Block,Campus Experience,3.93,Neutral
+01-09-2026,D Block,Network,3.68,Neutral
+01-09-2026,D Block,Classrooms,3.69,Neutral
+01-09-2026,D Block,Cleanliness,3.77,Neutral
+01-09-2026,D Block,Facilities,3.95,Neutral
+01-09-2026,D Block,Campus Experience,3.68,Neutral
+01-09-2026,Cafeteria,Network,3.6,Neutral
+01-09-2026,Cafeteria,Classrooms,3.5,Neutral
+01-09-2026,Cafeteria,Cleanliness,3.5,Neutral
+01-09-2026,Cafeteria,Facilities,4.03,Positive
+01-09-2026,Cafeteria,Campus Experience,3.82,Neutral
+01-09-2026,Main Stage Area,Network,3.91,Neutral
+01-09-2026,Main Stage Area,Classrooms,3.86,Neutral
+01-09-2026,Main Stage Area,Cleanliness,4.18,Positive
+01-09-2026,Main Stage Area,Facilities,3.63,Neutral
+01-09-2026,Main Stage Area,Campus Experience,3.98,Neutral
+01-09-2026,C Block Auditorium 1,Network,4.04,Positive
+01-09-2026,C Block Auditorium 1,Classrooms,4.42,Positive
+01-09-2026,C Block Auditorium 1,Cleanliness,3.86,Neutral
+01-09-2026,C Block Auditorium 1,Facilities,4.3,Positive
+01-09-2026,C Block Auditorium 1,Campus Experience,3.67,Neutral
+01-09-2026,C Block Auditorium 2,Network,4.51,Positive
+01-09-2026,C Block Auditorium 2,Classrooms,4.22,Positive
+01-09-2026,C Block Auditorium 2,Cleanliness,4.35,Positive
+01-09-2026,C Block Auditorium 2,Facilities,3.55,Neutral
+01-09-2026,C Block Auditorium 2,Campus Experience,4.05,Positive
+01-09-2026,Cricket Nets,Network,4.21,Positive
+01-09-2026,Cricket Nets,Classrooms,3.23,Neutral
+01-09-2026,Cricket Nets,Cleanliness,3.87,Neutral
+01-09-2026,Cricket Nets,Facilities,3.74,Neutral
+01-09-2026,Cricket Nets,Campus Experience,4.26,Positive
+01-09-2026,Basketball Court,Network,4.07,Positive
+01-09-2026,Basketball Court,Classrooms,4.65,Positive
+01-09-2026,Basketball Court,Cleanliness,3.92,Neutral
+01-09-2026,Basketball Court,Facilities,4.01,Positive
+01-09-2026,Basketball Court,Campus Experience,4.04,Positive
+02-09-2026,AI Block,Network,4.33,Positive
+02-09-2026,AI Block,Classrooms,3.82,Neutral
+02-09-2026,AI Block,Cleanliness,3.89,Neutral
+02-09-2026,AI Block,Facilities,4.2,Positive
+02-09-2026,AI Block,Campus Experience,3.67,Neutral
+02-09-2026,A Block,Network,4.57,Positive
+02-09-2026,A Block,Classrooms,4.15,Positive
+02-09-2026,A Block,Cleanliness,4.27,Positive
+02-09-2026,A Block,Facilities,4.06,Positive
+02-09-2026,A Block,Campus Experience,4.18,Positive
+02-09-2026,B Block,Network,4.07,Positive
+02-09-2026,B Block,Classrooms,3.73,Neutral
+02-09-2026,B Block,Cleanliness,3.97,Neutral
+02-09-2026,B Block,Facilities,4.1,Positive
+02-09-2026,B Block,Campus Experience,3.71,Neutral
+02-09-2026,C Block,Network,4.16,Positive
+02-09-2026,C Block,Classrooms,4.28,Positive
+02-09-2026,C Block,Cleanliness,4.05,Positive
+02-09-2026,C Block,Facilities,4.4,Positive
+02-09-2026,C Block,Campus Experience,3.76,Neutral
+02-09-2026,D Block,Network,3.82,Neutral
+02-09-2026,D Block,Classrooms,4,Neutral
+02-09-2026,D Block,Cleanliness,3.86,Neutral
+02-09-2026,D Block,Facilities,3.55,Neutral
+02-09-2026,D Block,Campus Experience,3.69,Neutral
+02-09-2026,Cafeteria,Network,3.58,Neutral
+02-09-2026,Cafeteria,Classrooms,4.32,Positive
+02-09-2026,Cafeteria,Cleanliness,3.63,Neutral
+02-09-2026,Cafeteria,Facilities,3.74,Neutral
+02-09-2026,Cafeteria,Campus Experience,3.85,Neutral
+02-09-2026,Main Stage Area,Network,3.84,Neutral
+02-09-2026,Main Stage Area,Classrooms,3.5,Neutral
+02-09-2026,Main Stage Area,Cleanliness,3.98,Neutral
+02-09-2026,Main Stage Area,Facilities,4.21,Positive
+02-09-2026,Main Stage Area,Campus Experience,3.93,Neutral
+02-09-2026,C Block Auditorium 1,Network,3.94,Neutral
+02-09-2026,C Block Auditorium 1,Classrooms,4.42,Positive
+02-09-2026,C Block Auditorium 1,Cleanliness,4.11,Positive
+02-09-2026,C Block Auditorium 1,Facilities,3.77,Neutral
+02-09-2026,C Block Auditorium 1,Campus Experience,4.41,Positive
+02-09-2026,C Block Auditorium 2,Network,4.34,Positive
+02-09-2026,C Block Auditorium 2,Classrooms,3.88,Neutral
+02-09-2026,C Block Auditorium 2,Cleanliness,4.35,Positive
+02-09-2026,C Block Auditorium 2,Facilities,3.85,Neutral
+02-09-2026,C Block Auditorium 2,Campus Experience,3.85,Neutral
+02-09-2026,Cricket Nets,Network,4.29,Positive
+02-09-2026,Cricket Nets,Classrooms,3.61,Neutral
+02-09-2026,Cricket Nets,Cleanliness,4.15,Positive
+02-09-2026,Cricket Nets,Facilities,3.93,Neutral
+02-09-2026,Cricket Nets,Campus Experience,4.47,Positive
+02-09-2026,Basketball Court,Network,4.03,Positive
+02-09-2026,Basketball Court,Classrooms,4.01,Positive
+02-09-2026,Basketball Court,Cleanliness,3.52,Neutral
+02-09-2026,Basketball Court,Facilities,4.2,Positive
+02-09-2026,Basketball Court,Campus Experience,4.01,Positive
+03-09-2026,AI Block,Network,3.87,Neutral
+03-09-2026,AI Block,Classrooms,3.91,Neutral
+03-09-2026,AI Block,Cleanliness,3.97,Neutral
+03-09-2026,AI Block,Facilities,3.93,Neutral
+03-09-2026,AI Block,Campus Experience,4.34,Positive
+03-09-2026,A Block,Network,3.9,Neutral
+03-09-2026,A Block,Classrooms,4.17,Positive
+03-09-2026,A Block,Cleanliness,3.63,Neutral
+03-09-2026,A Block,Facilities,4.26,Positive
+03-09-2026,A Block,Campus Experience,3.65,Neutral
+03-09-2026,B Block,Network,4.34,Positive
+03-09-2026,B Block,Classrooms,4.15,Positive
+03-09-2026,B Block,Cleanliness,4.11,Positive
+03-09-2026,B Block,Facilities,4.45,Positive
+03-09-2026,B Block,Campus Experience,4.29,Positive
+03-09-2026,C Block,Network,3.83,Neutral
+03-09-2026,C Block,Classrooms,3.8,Neutral
+03-09-2026,C Block,Cleanliness,3.83,Neutral
+03-09-2026,C Block,Facilities,4.17,Positive
+03-09-2026,C Block,Campus Experience,3.98,Neutral
+03-09-2026,D Block,Network,4.01,Positive
+03-09-2026,D Block,Classrooms,3.76,Neutral
+03-09-2026,D Block,Cleanliness,4.03,Positive
+03-09-2026,D Block,Facilities,4.14,Positive
+03-09-2026,D Block,Campus Experience,3.41,Neutral
+03-09-2026,Cafeteria,Network,3.63,Neutral
+03-09-2026,Cafeteria,Classrooms,3.82,Neutral
+03-09-2026,Cafeteria,Cleanliness,3.78,Neutral
+03-09-2026,Cafeteria,Facilities,3.91,Neutral
+03-09-2026,Cafeteria,Campus Experience,3.66,Neutral
+03-09-2026,Main Stage Area,Network,4.11,Positive
+03-09-2026,Main Stage Area,Classrooms,3.65,Neutral
+03-09-2026,Main Stage Area,Cleanliness,4.19,Positive
+03-09-2026,Main Stage Area,Facilities,4.12,Positive
+03-09-2026,Main Stage Area,Campus Experience,4.09,Positive
+03-09-2026,C Block Auditorium 1,Network,4,Neutral
+03-09-2026,C Block Auditorium 1,Classrooms,4.19,Positive
+03-09-2026,C Block Auditorium 1,Cleanliness,4.3,Positive
+03-09-2026,C Block Auditorium 1,Facilities,4.65,Positive
+03-09-2026,C Block Auditorium 1,Campus Experience,3.88,Neutral
+03-09-2026,C Block Auditorium 2,Network,4.11,Positive
+03-09-2026,C Block Auditorium 2,Classrooms,4.05,Positive
+03-09-2026,C Block Auditorium 2,Cleanliness,3.88,Neutral
+03-09-2026,C Block Auditorium 2,Facilities,4.53,Positive
+03-09-2026,C Block Auditorium 2,Campus Experience,4.14,Positive
+03-09-2026,Cricket Nets,Network,3.83,Neutral
+03-09-2026,Cricket Nets,Classrooms,3.56,Neutral
+03-09-2026,Cricket Nets,Cleanliness,3.96,Neutral
+03-09-2026,Cricket Nets,Facilities,4.13,Positive
+03-09-2026,Cricket Nets,Campus Experience,3.78,Neutral
+03-09-2026,Basketball Court,Network,4.27,Positive
+03-09-2026,Basketball Court,Classrooms,3.78,Neutral
+03-09-2026,Basketball Court,Cleanliness,3.98,Neutral
+03-09-2026,Basketball Court,Facilities,4.39,Positive
+03-09-2026,Basketball Court,Campus Experience,4.39,Positive
+04-09-2026,AI Block,Network,4.35,Positive
+04-09-2026,AI Block,Classrooms,3.82,Neutral
+04-09-2026,AI Block,Cleanliness,4.12,Positive
+04-09-2026,AI Block,Facilities,3.84,Neutral
+04-09-2026,AI Block,Campus Experience,3.96,Neutral
+04-09-2026,A Block,Network,4.58,Positive
+04-09-2026,A Block,Classrooms,4.26,Positive
+04-09-2026,A Block,Cleanliness,4.11,Positive
+04-09-2026,A Block,Facilities,3.85,Neutral
+04-09-2026,A Block,Campus Experience,4.17,Positive
+04-09-2026,B Block,Network,3.59,Neutral
+04-09-2026,B Block,Classrooms,4.19,Positive
+04-09-2026,B Block,Cleanliness,3.9,Neutral
+04-09-2026,B Block,Facilities,4.15,Positive
+04-09-2026,B Block,Campus Experience,3.88,Neutral
+04-09-2026,C Block,Network,3.77,Neutral
+04-09-2026,C Block,Classrooms,3.72,Neutral
+04-09-2026,C Block,Cleanliness,4.29,Positive
+04-09-2026,C Block,Facilities,4.43,Positive
+04-09-2026,C Block,Campus Experience,4.07,Positive
+04-09-2026,D Block,Network,3.44,Neutral
+04-09-2026,D Block,Classrooms,3.77,Neutral
+04-09-2026,D Block,Cleanliness,4.07,Positive
+04-09-2026,D Block,Facilities,4.08,Positive
+04-09-2026,D Block,Campus Experience,4.12,Positive
+04-09-2026,Cafeteria,Network,3.7,Neutral
+04-09-2026,Cafeteria,Classrooms,3.93,Neutral
+04-09-2026,Cafeteria,Cleanliness,3.99,Neutral
+04-09-2026,Cafeteria,Facilities,3.99,Neutral
+04-09-2026,Cafeteria,Campus Experience,3.6,Neutral
+04-09-2026,Main Stage Area,Network,3.96,Neutral
+04-09-2026,Main Stage Area,Classrooms,4.18,Positive
+04-09-2026,Main Stage Area,Cleanliness,3.93,Neutral
+04-09-2026,Main Stage Area,Facilities,4.34,Positive
+04-09-2026,Main Stage Area,Campus Experience,4.01,Positive
+04-09-2026,C Block Auditorium 1,Network,4.51,Positive
+04-09-2026,C Block Auditorium 1,Classrooms,4.28,Positive
+04-09-2026,C Block Auditorium 1,Cleanliness,4.49,Positive
+04-09-2026,C Block Auditorium 1,Facilities,4.02,Positive
+04-09-2026,C Block Auditorium 1,Campus Experience,4.43,Positive
+04-09-2026,C Block Auditorium 2,Network,3.93,Neutral
+04-09-2026,C Block Auditorium 2,Classrooms,4.42,Positive
+04-09-2026,C Block Auditorium 2,Cleanliness,4.21,Positive
+04-09-2026,C Block Auditorium 2,Facilities,4.26,Positive
+04-09-2026,C Block Auditorium 2,Campus Experience,4.12,Positive
+04-09-2026,Cricket Nets,Network,4.44,Positive
+04-09-2026,Cricket Nets,Classrooms,3.79,Neutral
+04-09-2026,Cricket Nets,Cleanliness,3.89,Neutral
+04-09-2026,Cricket Nets,Facilities,3.97,Neutral
+04-09-2026,Cricket Nets,Campus Experience,4.25,Positive
+04-09-2026,Basketball Court,Network,3.76,Neutral
+04-09-2026,Basketball Court,Classrooms,4.52,Positive
+04-09-2026,Basketball Court,Cleanliness,3.89,Neutral
+04-09-2026,Basketball Court,Facilities,3.68,Neutral
+04-09-2026,Basketball Court,Campus Experience,4.45,Positive
+05-09-2026,AI Block,Network,4.39,Positive
+05-09-2026,AI Block,Classrooms,4.03,Positive
+05-09-2026,AI Block,Cleanliness,3.89,Neutral
+05-09-2026,AI Block,Facilities,4.09,Positive
+05-09-2026,AI Block,Campus Experience,4.22,Positive
+05-09-2026,A Block,Network,4,Neutral
+05-09-2026,A Block,Classrooms,3.47,Neutral
+05-09-2026,A Block,Cleanliness,3.79,Neutral
+05-09-2026,A Block,Facilities,3.44,Neutral
+05-09-2026,A Block,Campus Experience,4.26,Positive
+05-09-2026,B Block,Network,3.88,Neutral
+05-09-2026,B Block,Classrooms,4.01,Positive
+05-09-2026,B Block,Cleanliness,3.54,Neutral
+05-09-2026,B Block,Facilities,3.99,Neutral
+05-09-2026,B Block,Campus Experience,3.6,Neutral
+05-09-2026,C Block,Network,3.72,Neutral
+05-09-2026,C Block,Classrooms,4.22,Positive
+05-09-2026,C Block,Cleanliness,4.36,Positive
+05-09-2026,C Block,Facilities,4.18,Positive
+05-09-2026,C Block,Campus Experience,4.15,Positive
+05-09-2026,D Block,Network,3.97,Neutral
+05-09-2026,D Block,Classrooms,3.91,Neutral
+05-09-2026,D Block,Cleanliness,4.42,Positive
+05-09-2026,D Block,Facilities,3.85,Neutral
+05-09-2026,D Block,Campus Experience,4.02,Positive
+05-09-2026,Cafeteria,Network,3.85,Neutral
+05-09-2026,Cafeteria,Classrooms,3.97,Neutral
+05-09-2026,Cafeteria,Cleanliness,3.63,Neutral
+05-09-2026,Cafeteria,Facilities,3.58,Neutral
+05-09-2026,Cafeteria,Campus Experience,4.24,Positive
+05-09-2026,Main Stage Area,Network,4.08,Positive
+05-09-2026,Main Stage Area,Classrooms,3.99,Neutral
+05-09-2026,Main Stage Area,Cleanliness,3.88,Neutral
+05-09-2026,Main Stage Area,Facilities,4.05,Positive
+05-09-2026,Main Stage Area,Campus Experience,4.04,Positive
+05-09-2026,C Block Auditorium 1,Network,4.22,Positive
+05-09-2026,C Block Auditorium 1,Classrooms,4.35,Positive
+05-09-2026,C Block Auditorium 1,Cleanliness,3.93,Neutral
+05-09-2026,C Block Auditorium 1,Facilities,3.98,Neutral
+05-09-2026,C Block Auditorium 1,Campus Experience,4.34,Positive
+05-09-2026,C Block Auditorium 2,Network,4.39,Positive
+05-09-2026,C Block Auditorium 2,Classrooms,3.96,Neutral
+05-09-2026,C Block Auditorium 2,Cleanliness,4.24,Positive
+05-09-2026,C Block Auditorium 2,Facilities,4.49,Positive
+05-09-2026,C Block Auditorium 2,Campus Experience,4.19,Positive
+05-09-2026,Cricket Nets,Network,3.48,Neutral
+05-09-2026,Cricket Nets,Classrooms,4.34,Positive
+05-09-2026,Cricket Nets,Cleanliness,3.84,Neutral
+05-09-2026,Cricket Nets,Facilities,3.9,Neutral
+05-09-2026,Cricket Nets,Campus Experience,3.85,Neutral
+05-09-2026,Basketball Court,Network,3.91,Neutral
+05-09-2026,Basketball Court,Classrooms,3.85,Neutral
+05-09-2026,Basketball Court,Cleanliness,3.64,Neutral
+05-09-2026,Basketball Court,Facilities,4.28,Positive
+05-09-2026,Basketball Court,Campus Experience,3.94,Neutral
+06-09-2026,AI Block,Network,4.56,Positive
+06-09-2026,AI Block,Classrooms,4.3,Positive
+06-09-2026,AI Block,Cleanliness,3.86,Neutral
+06-09-2026,AI Block,Facilities,3.76,Neutral
+06-09-2026,AI Block,Campus Experience,4.34,Positive
+06-09-2026,A Block,Network,3.49,Neutral
+06-09-2026,A Block,Classrooms,3.92,Neutral
+06-09-2026,A Block,Cleanliness,4.29,Positive
+06-09-2026,A Block,Facilities,3.76,Neutral
+06-09-2026,A Block,Campus Experience,3.51,Neutral
+06-09-2026,B Block,Network,3.89,Neutral
+06-09-2026,B Block,Classrooms,4.02,Positive
+06-09-2026,B Block,Cleanliness,3.76,Neutral
+06-09-2026,B Block,Facilities,4.51,Positive
+06-09-2026,B Block,Campus Experience,4,Positive
+06-09-2026,C Block,Network,4.13,Positive
+06-09-2026,C Block,Classrooms,3.87,Neutral
+06-09-2026,C Block,Cleanliness,4.01,Positive
+06-09-2026,C Block,Facilities,4.38,Positive
+06-09-2026,C Block,Campus Experience,3.76,Neutral
+06-09-2026,D Block,Network,3.87,Neutral
+06-09-2026,D Block,Classrooms,4.17,Positive
+06-09-2026,D Block,Cleanliness,3.67,Neutral
+06-09-2026,D Block,Facilities,4.07,Positive
+06-09-2026,D Block,Campus Experience,4.05,Positive
+06-09-2026,Cafeteria,Network,3.85,Neutral
+06-09-2026,Cafeteria,Classrooms,3.37,Neutral
+06-09-2026,Cafeteria,Cleanliness,3.75,Neutral
+06-09-2026,Cafeteria,Facilities,3.85,Neutral
+06-09-2026,Cafeteria,Campus Experience,4.04,Positive
+06-09-2026,Main Stage Area,Network,3.86,Neutral
+06-09-2026,Main Stage Area,Classrooms,4.05,Positive
+06-09-2026,Main Stage Area,Cleanliness,3.42,Neutral
+06-09-2026,Main Stage Area,Facilities,3.88,Neutral
+06-09-2026,Main Stage Area,Campus Experience,4.05,Positive
+06-09-2026,C Block Auditorium 1,Network,3.37,Neutral
+06-09-2026,C Block Auditorium 1,Classrooms,4.58,Positive
+06-09-2026,C Block Auditorium 1,Cleanliness,4.09,Positive
+06-09-2026,C Block Auditorium 1,Facilities,4.69,Positive
+06-09-2026,C Block Auditorium 1,Campus Experience,4.04,Positive
+06-09-2026,C Block Auditorium 2,Network,4.4,Positive
+06-09-2026,C Block Auditorium 2,Classrooms,4.14,Positive
+06-09-2026,C Block Auditorium 2,Cleanliness,3.87,Neutral
+06-09-2026,C Block Auditorium 2,Facilities,4.34,Positive
+06-09-2026,C Block Auditorium 2,Campus Experience,4.77,Positive
+06-09-2026,Cricket Nets,Network,3.71,Neutral
+06-09-2026,Cricket Nets,Classrooms,3.91,Neutral
+06-09-2026,Cricket Nets,Cleanliness,3.67,Neutral
+06-09-2026,Cricket Nets,Facilities,4.09,Positive
+06-09-2026,Cricket Nets,Campus Experience,4.23,Positive
+06-09-2026,Basketball Court,Network,4.06,Positive
+06-09-2026,Basketball Court,Classrooms,3.78,Neutral
+06-09-2026,Basketball Court,Cleanliness,4.09,Positive
+06-09-2026,Basketball Court,Facilities,4.11,Positive
+06-09-2026,Basketball Court,Campus Experience,4.16,Positive
+07-09-2026,AI Block,Network,4.02,Positive
+07-09-2026,AI Block,Classrooms,4.13,Positive
+07-09-2026,AI Block,Cleanliness,4.23,Positive
+07-09-2026,AI Block,Facilities,4.6,Positive
+07-09-2026,AI Block,Campus Experience,3.98,Neutral
+07-09-2026,A Block,Network,4.1,Positive
+07-09-2026,A Block,Classrooms,3.97,Neutral
+07-09-2026,A Block,Cleanliness,3.36,Neutral
+07-09-2026,A Block,Facilities,4.41,Positive
+07-09-2026,A Block,Campus Experience,4.25,Positive
+07-09-2026,B Block,Network,4.05,Positive
+07-09-2026,B Block,Classrooms,3.85,Neutral
+07-09-2026,B Block,Cleanliness,3.56,Neutral
+07-09-2026,B Block,Facilities,4.12,Positive
+07-09-2026,B Block,Campus Experience,3.91,Neutral
+07-09-2026,C Block,Network,4.24,Positive
+07-09-2026,C Block,Classrooms,3.58,Neutral
+07-09-2026,C Block,Cleanliness,4.06,Positive
+07-09-2026,C Block,Facilities,3.97,Neutral
+07-09-2026,C Block,Campus Experience,4.17,Positive
+07-09-2026,D Block,Network,3.83,Neutral
+07-09-2026,D Block,Classrooms,4.15,Positive
+07-09-2026,D Block,Cleanliness,3.95,Neutral
+07-09-2026,D Block,Facilities,4.15,Positive
+07-09-2026,D Block,Campus Experience,4.03,Positive
+07-09-2026,Cafeteria,Network,3.9,Neutral
+07-09-2026,Cafeteria,Classrooms,3.79,Neutral
+07-09-2026,Cafeteria,Cleanliness,3.65,Neutral
+07-09-2026,Cafeteria,Facilities,3.72,Neutral
+07-09-2026,Cafeteria,Campus Experience,4.19,Positive
+07-09-2026,Main Stage Area,Network,3.98,Neutral
+07-09-2026,Main Stage Area,Classrooms,4.36,Positive
+07-09-2026,Main Stage Area,Cleanliness,3.9,Neutral
+07-09-2026,Main Stage Area,Facilities,3.95,Neutral
+07-09-2026,Main Stage Area,Campus Experience,4.14,Positive
+07-09-2026,C Block Auditorium 1,Network,4.33,Positive
+07-09-2026,C Block Auditorium 1,Classrooms,4.01,Positive
+07-09-2026,C Block Auditorium 1,Cleanliness,4.22,Positive
+07-09-2026,C Block Auditorium 1,Facilities,4.33,Positive
+07-09-2026,C Block Auditorium 1,Campus Experience,3.82,Neutral
+07-09-2026,C Block Auditorium 2,Network,4.08,Positive
+07-09-2026,C Block Auditorium 2,Classrooms,4.17,Positive
+07-09-2026,C Block Auditorium 2,Cleanliness,4.47,Positive
+07-09-2026,C Block Auditorium 2,Facilities,4.21,Positive
+07-09-2026,C Block Auditorium 2,Campus Experience,4.21,Positive
+07-09-2026,Cricket Nets,Network,4.86,Positive
+07-09-2026,Cricket Nets,Classrooms,4.41,Positive
+07-09-2026,Cricket Nets,Cleanliness,3.95,Neutral
+07-09-2026,Cricket Nets,Facilities,3.85,Neutral
+07-09-2026,Cricket Nets,Campus Experience,4.24,Positive
+07-09-2026,Basketball Court,Network,4.34,Positive
+07-09-2026,Basketball Court,Classrooms,3.87,Neutral
+07-09-2026,Basketball Court,Cleanliness,3.97,Neutral
+07-09-2026,Basketball Court,Facilities,4.42,Positive
+07-09-2026,Basketball Court,Campus Experience,4.38,Positive
+08-09-2026,AI Block,Network,3.95,Neutral
+08-09-2026,AI Block,Classrooms,4.31,Positive
+08-09-2026,AI Block,Cleanliness,4.13,Positive
+08-09-2026,AI Block,Facilities,3.9,Neutral
+08-09-2026,AI Block,Campus Experience,4.19,Positive
+08-09-2026,A Block,Network,4.27,Positive
+08-09-2026,A Block,Classrooms,3.9,Neutral
+08-09-2026,A Block,Cleanliness,4.29,Positive
+08-09-2026,A Block,Facilities,4.46,Positive
+08-09-2026,A Block,Campus Experience,4.11,Positive
+08-09-2026,B Block,Network,3.9,Neutral
+08-09-2026,B Block,Classrooms,3.82,Neutral
+08-09-2026,B Block,Cleanliness,3.44,Neutral
+08-09-2026,B Block,Facilities,4.21,Positive
+08-09-2026,B Block,Campus Experience,3.2,Neutral
+08-09-2026,C Block,Network,2.77,Negative
+08-09-2026,C Block,Classrooms,4.12,Positive
+08-09-2026,C Block,Cleanliness,4.02,Positive
+08-09-2026,C Block,Facilities,4.29,Positive
+08-09-2026,C Block,Campus Experience,4.18,Positive
+08-09-2026,D Block,Network,4.2,Positive
+08-09-2026,D Block,Classrooms,3.53,Neutral
+08-09-2026,D Block,Cleanliness,3.78,Neutral
+08-09-2026,D Block,Facilities,4.09,Positive
+08-09-2026,D Block,Campus Experience,4.56,Positive
+08-09-2026,Cafeteria,Network,3.68,Neutral
+08-09-2026,Cafeteria,Classrooms,4.19,Positive
+08-09-2026,Cafeteria,Cleanliness,3.8,Neutral
+08-09-2026,Cafeteria,Facilities,3.87,Neutral
+08-09-2026,Cafeteria,Campus Experience,3.68,Neutral
+08-09-2026,Main Stage Area,Network,3.95,Neutral
+08-09-2026,Main Stage Area,Classrooms,4.1,Positive
+08-09-2026,Main Stage Area,Cleanliness,4.13,Positive
+08-09-2026,Main Stage Area,Facilities,3.99,Neutral
+08-09-2026,Main Stage Area,Campus Experience,4.44,Positive
+08-09-2026,C Block Auditorium 1,Network,3.87,Neutral
+08-09-2026,C Block Auditorium 1,Classrooms,4.75,Positive
+08-09-2026,C Block Auditorium 1,Cleanliness,4.27,Positive
+08-09-2026,C Block Auditorium 1,Facilities,4.29,Positive
+08-09-2026,C Block Auditorium 1,Campus Experience,4.64,Positive
+08-09-2026,C Block Auditorium 2,Network,4.51,Positive
+08-09-2026,C Block Auditorium 2,Classrooms,4.09,Positive
+08-09-2026,C Block Auditorium 2,Cleanliness,3.82,Neutral
+08-09-2026,C Block Auditorium 2,Facilities,4.4,Positive
+08-09-2026,C Block Auditorium 2,Campus Experience,4.3,Positive
+08-09-2026,Cricket Nets,Network,3.52,Neutral
+08-09-2026,Cricket Nets,Classrooms,4.2,Positive
+08-09-2026,Cricket Nets,Cleanliness,3.88,Neutral
+08-09-2026,Cricket Nets,Facilities,3.87,Neutral
+08-09-2026,Cricket Nets,Campus Experience,4.24,Positive
+08-09-2026,Basketball Court,Network,4.23,Positive
+08-09-2026,Basketball Court,Classrooms,3.79,Neutral
+08-09-2026,Basketball Court,Cleanliness,3.99,Neutral
+08-09-2026,Basketball Court,Facilities,4.14,Positive
+08-09-2026,Basketball Court,Campus Experience,3.46,Neutral
+09-09-2026,AI Block,Network,4.19,Positive
+09-09-2026,AI Block,Classrooms,4.11,Positive
+09-09-2026,AI Block,Cleanliness,4.06,Positive
+09-09-2026,AI Block,Facilities,3.99,Neutral
+09-09-2026,AI Block,Campus Experience,4.2,Positive
+09-09-2026,A Block,Network,4.03,Positive
+09-09-2026,A Block,Classrooms,3.88,Neutral
+09-09-2026,A Block,Cleanliness,4.25,Positive
+09-09-2026,A Block,Facilities,4.28,Positive
+09-09-2026,A Block,Campus Experience,4.21,Positive
+09-09-2026,B Block,Network,4.16,Positive
+09-09-2026,B Block,Classrooms,4.02,Positive
+09-09-2026,B Block,Cleanliness,3.77,Neutral
+09-09-2026,B Block,Facilities,4.06,Positive
+09-09-2026,B Block,Campus Experience,3.9,Neutral
+09-09-2026,C Block,Network,3.01,Neutral
+09-09-2026,C Block,Classrooms,4.13,Positive
+09-09-2026,C Block,Cleanliness,4.09,Positive
+09-09-2026,C Block,Facilities,3.71,Neutral
+09-09-2026,C Block,Campus Experience,4.57,Positive
+09-09-2026,D Block,Network,4.1,Positive
+09-09-2026,D Block,Classrooms,4.15,Positive
+09-09-2026,D Block,Cleanliness,3.79,Neutral
+09-09-2026,D Block,Facilities,4.16,Positive
+09-09-2026,D Block,Campus Experience,3.88,Neutral
+09-09-2026,Cafeteria,Network,3.7,Neutral
+09-09-2026,Cafeteria,Classrooms,3.18,Neutral
+09-09-2026,Cafeteria,Cleanliness,4.09,Positive
+09-09-2026,Cafeteria,Facilities,3.79,Neutral
+09-09-2026,Cafeteria,Campus Experience,3.71,Neutral
+09-09-2026,Main Stage Area,Network,4.23,Positive
+09-09-2026,Main Stage Area,Classrooms,4.43,Positive
+09-09-2026,Main Stage Area,Cleanliness,3.96,Neutral
+09-09-2026,Main Stage Area,Facilities,4.17,Positive
+09-09-2026,Main Stage Area,Campus Experience,3.72,Neutral
+09-09-2026,C Block Auditorium 1,Network,4.26,Positive
+09-09-2026,C Block Auditorium 1,Classrooms,4.05,Positive
+09-09-2026,C Block Auditorium 1,Cleanliness,4.58,Positive
+09-09-2026,C Block Auditorium 1,Facilities,4.66,Positive
+09-09-2026,C Block Auditorium 1,Campus Experience,3.43,Neutral
+09-09-2026,C Block Auditorium 2,Network,4.08,Positive
+09-09-2026,C Block Auditorium 2,Classrooms,4.01,Positive
+09-09-2026,C Block Auditorium 2,Cleanliness,4.12,Positive
+09-09-2026,C Block Auditorium 2,Facilities,4.05,Positive
+09-09-2026,C Block Auditorium 2,Campus Experience,4.24,Positive
+09-09-2026,Cricket Nets,Network,4.28,Positive
+09-09-2026,Cricket Nets,Classrooms,4.06,Positive
+09-09-2026,Cricket Nets,Cleanliness,4.2,Positive
+09-09-2026,Cricket Nets,Facilities,4.46,Positive
+09-09-2026,Cricket Nets,Campus Experience,3.93,Neutral
+09-09-2026,Basketball Court,Network,3.81,Neutral
+09-09-2026,Basketball Court,Classrooms,3.8,Neutral
+09-09-2026,Basketball Court,Cleanliness,3.75,Neutral
+09-09-2026,Basketball Court,Facilities,3.81,Neutral
+09-09-2026,Basketball Court,Campus Experience,4.21,Positive
+10-09-2026,AI Block,Network,4.3,Positive
+10-09-2026,AI Block,Classrooms,4.28,Positive
+10-09-2026,AI Block,Cleanliness,4.17,Positive
+10-09-2026,AI Block,Facilities,4.14,Positive
+10-09-2026,AI Block,Campus Experience,3.94,Neutral
+10-09-2026,A Block,Network,3.51,Neutral
+10-09-2026,A Block,Classrooms,3.6,Neutral
+10-09-2026,A Block,Cleanliness,3.98,Neutral
+10-09-2026,A Block,Facilities,3.76,Neutral
+10-09-2026,A Block,Campus Experience,4.08,Positive
+10-09-2026,B Block,Network,4.63,Positive
+10-09-2026,B Block,Classrooms,4.04,Positive
+10-09-2026,B Block,Cleanliness,3.79,Neutral
+10-09-2026,B Block,Facilities,4.04,Positive
+10-09-2026,B Block,Campus Experience,3.39,Neutral
+10-09-2026,C Block,Network,2.85,Negative
+10-09-2026,C Block,Classrooms,4.25,Positive
+10-09-2026,C Block,Cleanliness,4.24,Positive
+10-09-2026,C Block,Facilities,3.94,Neutral
+10-09-2026,C Block,Campus Experience,4.06,Positive
+10-09-2026,D Block,Network,4.01,Positive
+10-09-2026,D Block,Classrooms,3.67,Neutral
+10-09-2026,D Block,Cleanliness,4.17,Positive
+10-09-2026,D Block,Facilities,3.38,Neutral
+10-09-2026,D Block,Campus Experience,3.61,Neutral
+10-09-2026,Cafeteria,Network,3.85,Neutral
+10-09-2026,Cafeteria,Classrooms,3.81,Neutral
+10-09-2026,Cafeteria,Cleanliness,4.11,Positive
+10-09-2026,Cafeteria,Facilities,3.56,Neutral
+10-09-2026,Cafeteria,Campus Experience,3.51,Neutral
+10-09-2026,Main Stage Area,Network,4,Neutral
+10-09-2026,Main Stage Area,Classrooms,4.57,Positive
+10-09-2026,Main Stage Area,Cleanliness,3.78,Neutral
+10-09-2026,Main Stage Area,Facilities,4.32,Positive
+10-09-2026,Main Stage Area,Campus Experience,3.69,Neutral
+10-09-2026,C Block Auditorium 1,Network,4.45,Positive
+10-09-2026,C Block Auditorium 1,Classrooms,4.21,Positive
+10-09-2026,C Block Auditorium 1,Cleanliness,4.21,Positive
+10-09-2026,C Block Auditorium 1,Facilities,4.16,Positive
+10-09-2026,C Block Auditorium 1,Campus Experience,3.75,Neutral
+10-09-2026,C Block Auditorium 2,Network,3.94,Neutral
+10-09-2026,C Block Auditorium 2,Classrooms,4.35,Positive
+10-09-2026,C Block Auditorium 2,Cleanliness,4.3,Positive
+10-09-2026,C Block Auditorium 2,Facilities,4.19,Positive
+10-09-2026,C Block Auditorium 2,Campus Experience,4.12,Positive
+10-09-2026,Cricket Nets,Network,4.17,Positive
+10-09-2026,Cricket Nets,Classrooms,3.69,Neutral
+10-09-2026,Cricket Nets,Cleanliness,4.61,Positive
+10-09-2026,Cricket Nets,Facilities,3.71,Neutral
+10-09-2026,Cricket Nets,Campus Experience,4.17,Positive
+10-09-2026,Basketball Court,Network,4.25,Positive
+10-09-2026,Basketball Court,Classrooms,4.21,Positive
+10-09-2026,Basketball Court,Cleanliness,3.66,Neutral
+10-09-2026,Basketball Court,Facilities,3.81,Neutral
+10-09-2026,Basketball Court,Campus Experience,3.97,Neutral
+11-09-2026,AI Block,Network,4.05,Positive
+11-09-2026,AI Block,Classrooms,4.37,Positive
+11-09-2026,AI Block,Cleanliness,4.14,Positive
+11-09-2026,AI Block,Facilities,4.21,Positive
+11-09-2026,AI Block,Campus Experience,4.14,Positive
+11-09-2026,A Block,Network,4.34,Positive
+11-09-2026,A Block,Classrooms,4.14,Positive
+11-09-2026,A Block,Cleanliness,4,Positive
+11-09-2026,A Block,Facilities,4.18,Positive
+11-09-2026,A Block,Campus Experience,3.71,Neutral
+11-09-2026,B Block,Network,4.11,Positive
+11-09-2026,B Block,Classrooms,4.12,Positive
+11-09-2026,B Block,Cleanliness,4.05,Positive
+11-09-2026,B Block,Facilities,3.99,Neutral
+11-09-2026,B Block,Campus Experience,3.73,Neutral
+11-09-2026,C Block,Network,3.15,Neutral
+11-09-2026,C Block,Classrooms,4.25,Positive
+11-09-2026,C Block,Cleanliness,4.3,Positive
+11-09-2026,C Block,Facilities,4.09,Positive
+11-09-2026,C Block,Campus Experience,4.15,Positive
+11-09-2026,D Block,Network,3.78,Neutral
+11-09-2026,D Block,Classrooms,4,Positive
+11-09-2026,D Block,Cleanliness,4.09,Positive
+11-09-2026,D Block,Facilities,3.93,Neutral
+11-09-2026,D Block,Campus Experience,3.59,Neutral
+11-09-2026,Cafeteria,Network,3.39,Neutral
+11-09-2026,Cafeteria,Classrooms,4.18,Positive
+11-09-2026,Cafeteria,Cleanliness,3.92,Neutral
+11-09-2026,Cafeteria,Facilities,3.87,Neutral
+11-09-2026,Cafeteria,Campus Experience,3.8,Neutral
+11-09-2026,Main Stage Area,Network,3.55,Neutral
+11-09-2026,Main Stage Area,Classrooms,3.59,Neutral
+11-09-2026,Main Stage Area,Cleanliness,4.23,Positive
+11-09-2026,Main Stage Area,Facilities,3.75,Neutral
+11-09-2026,Main Stage Area,Campus Experience,3.81,Neutral
+11-09-2026,C Block Auditorium 1,Network,3.76,Neutral
+11-09-2026,C Block Auditorium 1,Classrooms,4.16,Positive
+11-09-2026,C Block Auditorium 1,Cleanliness,4.48,Positive
+11-09-2026,C Block Auditorium 1,Facilities,3.86,Neutral
+11-09-2026,C Block Auditorium 1,Campus Experience,4.84,Positive
+11-09-2026,C Block Auditorium 2,Network,4.4,Positive
+11-09-2026,C Block Auditorium 2,Classrooms,4.62,Positive
+11-09-2026,C Block Auditorium 2,Cleanliness,4.02,Positive
+11-09-2026,C Block Auditorium 2,Facilities,3.88,Neutral
+11-09-2026,C Block Auditorium 2,Campus Experience,4.29,Positive
+11-09-2026,Cricket Nets,Network,3.57,Neutral
+11-09-2026,Cricket Nets,Classrooms,4.51,Positive
+11-09-2026,Cricket Nets,Cleanliness,4.08,Positive
+11-09-2026,Cricket Nets,Facilities,4.14,Positive
+11-09-2026,Cricket Nets,Campus Experience,4.01,Positive
+11-09-2026,Basketball Court,Network,4.08,Positive
+11-09-2026,Basketball Court,Classrooms,4.09,Positive
+11-09-2026,Basketball Court,Cleanliness,4.18,Positive
+11-09-2026,Basketball Court,Facilities,4.03,Positive
+11-09-2026,Basketball Court,Campus Experience,3.96,Neutral
+12-09-2026,AI Block,Network,4.4,Positive
+12-09-2026,AI Block,Classrooms,4.45,Positive
+12-09-2026,AI Block,Cleanliness,4.25,Positive
+12-09-2026,AI Block,Facilities,4.24,Positive
+12-09-2026,AI Block,Campus Experience,3.93,Neutral
+12-09-2026,A Block,Network,4.29,Positive
+12-09-2026,A Block,Classrooms,4.4,Positive
+12-09-2026,A Block,Cleanliness,3.86,Neutral
+12-09-2026,A Block,Facilities,4.24,Positive
+12-09-2026,A Block,Campus Experience,3.71,Neutral
+12-09-2026,B Block,Network,3.97,Neutral
+12-09-2026,B Block,Classrooms,3.68,Neutral
+12-09-2026,B Block,Cleanliness,4.2,Positive
+12-09-2026,B Block,Facilities,3.71,Neutral
+12-09-2026,B Block,Campus Experience,3.94,Neutral
+12-09-2026,C Block,Network,2.51,Negative
+12-09-2026,C Block,Classrooms,4.19,Positive
+12-09-2026,C Block,Cleanliness,3.8,Neutral
+12-09-2026,C Block,Facilities,4.15,Positive
+12-09-2026,C Block,Campus Experience,4.17,Positive
+12-09-2026,D Block,Network,3.92,Neutral
+12-09-2026,D Block,Classrooms,3.49,Neutral
+12-09-2026,D Block,Cleanliness,4.08,Positive
+12-09-2026,D Block,Facilities,3.9,Neutral
+12-09-2026,D Block,Campus Experience,3.79,Neutral
+12-09-2026,Cafeteria,Network,3.5,Neutral
+12-09-2026,Cafeteria,Classrooms,3.88,Neutral
+12-09-2026,Cafeteria,Cleanliness,3.32,Neutral
+12-09-2026,Cafeteria,Facilities,3.73,Neutral
+12-09-2026,Cafeteria,Campus Experience,3.71,Neutral
+12-09-2026,Main Stage Area,Network,3.65,Neutral
+12-09-2026,Main Stage Area,Classrooms,4.03,Positive
+12-09-2026,Main Stage Area,Cleanliness,3.98,Neutral
+12-09-2026,Main Stage Area,Facilities,4.41,Positive
+12-09-2026,Main Stage Area,Campus Experience,4.06,Positive
+12-09-2026,C Block Auditorium 1,Network,4.5,Positive
+12-09-2026,C Block Auditorium 1,Classrooms,4.4,Positive
+12-09-2026,C Block Auditorium 1,Cleanliness,4.1,Positive
+12-09-2026,C Block Auditorium 1,Facilities,4.52,Positive
+12-09-2026,C Block Auditorium 1,Campus Experience,4.09,Positive
+12-09-2026,C Block Auditorium 2,Network,4.23,Positive
+12-09-2026,C Block Auditorium 2,Classrooms,4.01,Positive
+12-09-2026,C Block Auditorium 2,Cleanliness,4.57,Positive
+12-09-2026,C Block Auditorium 2,Facilities,3.86,Neutral
+12-09-2026,C Block Auditorium 2,Campus Experience,4.49,Positive
+12-09-2026,Cricket Nets,Network,3.94,Neutral
+12-09-2026,Cricket Nets,Classrooms,3.68,Neutral
+12-09-2026,Cricket Nets,Cleanliness,4.08,Positive
+12-09-2026,Cricket Nets,Facilities,4.45,Positive
+12-09-2026,Cricket Nets,Campus Experience,4.24,Positive
+12-09-2026,Basketball Court,Network,3.62,Neutral
+12-09-2026,Basketball Court,Classrooms,4.05,Positive
+12-09-2026,Basketball Court,Cleanliness,4.41,Positive
+12-09-2026,Basketball Court,Facilities,4.24,Positive
+12-09-2026,Basketball Court,Campus Experience,3.85,Neutral
+13-09-2026,AI Block,Network,3.8,Neutral
+13-09-2026,AI Block,Classrooms,4.16,Positive
+13-09-2026,AI Block,Cleanliness,3.94,Neutral
+13-09-2026,AI Block,Facilities,4.54,Positive
+13-09-2026,AI Block,Campus Experience,4.52,Positive
+13-09-2026,A Block,Network,3.9,Neutral
+13-09-2026,A Block,Classrooms,3.43,Neutral
+13-09-2026,A Block,Cleanliness,4.03,Positive
+13-09-2026,A Block,Facilities,3.87,Neutral
+13-09-2026,A Block,Campus Experience,4.03,Positive
+13-09-2026,B Block,Network,4.13,Positive
+13-09-2026,B Block,Classrooms,4.28,Positive
+13-09-2026,B Block,Cleanliness,3.82,Neutral
+13-09-2026,B Block,Facilities,4.36,Positive
+13-09-2026,B Block,Campus Experience,3.97,Neutral
+13-09-2026,C Block,Network,2.57,Negative
+13-09-2026,C Block,Classrooms,3.69,Neutral
+13-09-2026,C Block,Cleanliness,4.21,Positive
+13-09-2026,C Block,Facilities,3.89,Neutral
+13-09-2026,C Block,Campus Experience,3.85,Neutral
+13-09-2026,D Block,Network,4.26,Positive
+13-09-2026,D Block,Classrooms,4.27,Positive
+13-09-2026,D Block,Cleanliness,3.87,Neutral
+13-09-2026,D Block,Facilities,3.44,Neutral
+13-09-2026,D Block,Campus Experience,4.05,Positive
+13-09-2026,Cafeteria,Network,3.76,Neutral
+13-09-2026,Cafeteria,Classrooms,4.25,Positive
+13-09-2026,Cafeteria,Cleanliness,3.15,Neutral
+13-09-2026,Cafeteria,Facilities,3.82,Neutral
+13-09-2026,Cafeteria,Campus Experience,3.81,Neutral
+13-09-2026,Main Stage Area,Network,4.04,Positive
+13-09-2026,Main Stage Area,Classrooms,3.75,Neutral
+13-09-2026,Main Stage Area,Cleanliness,4.27,Positive
+13-09-2026,Main Stage Area,Facilities,4.02,Positive
+13-09-2026,Main Stage Area,Campus Experience,4.21,Positive
+13-09-2026,C Block Auditorium 1,Network,4.28,Positive
+13-09-2026,C Block Auditorium 1,Classrooms,4.83,Positive
+13-09-2026,C Block Auditorium 1,Cleanliness,4.54,Positive
+13-09-2026,C Block Auditorium 1,Facilities,4.41,Positive
+13-09-2026,C Block Auditorium 1,Campus Experience,3.94,Neutral
+13-09-2026,C Block Auditorium 2,Network,4.11,Positive
+13-09-2026,C Block Auditorium 2,Classrooms,3.88,Neutral
+13-09-2026,C Block Auditorium 2,Cleanliness,4.13,Positive
+13-09-2026,C Block Auditorium 2,Facilities,4.24,Positive
+13-09-2026,C Block Auditorium 2,Campus Experience,3.79,Neutral
+13-09-2026,Cricket Nets,Network,4.02,Positive
+13-09-2026,Cricket Nets,Classrooms,4.3,Positive
+13-09-2026,Cricket Nets,Cleanliness,4.32,Positive
+13-09-2026,Cricket Nets,Facilities,3.97,Neutral
+13-09-2026,Cricket Nets,Campus Experience,4.09,Positive
+13-09-2026,Basketball Court,Network,4.06,Positive
+13-09-2026,Basketball Court,Classrooms,3.81,Neutral
+13-09-2026,Basketball Court,Cleanliness,3.79,Neutral
+13-09-2026,Basketball Court,Facilities,3.79,Neutral
+13-09-2026,Basketball Court,Campus Experience,4.57,Positive
+14-09-2026,AI Block,Network,4.08,Positive
+14-09-2026,AI Block,Classrooms,4.19,Positive
+14-09-2026,AI Block,Cleanliness,4.25,Positive
+14-09-2026,AI Block,Facilities,4.12,Positive
+14-09-2026,AI Block,Campus Experience,4.1,Positive
+14-09-2026,A Block,Network,4.35,Positive
+14-09-2026,A Block,Classrooms,4.11,Positive
+14-09-2026,A Block,Cleanliness,3.98,Neutral
+14-09-2026,A Block,Facilities,3.88,Neutral
+14-09-2026,A Block,Campus Experience,3.58,Neutral
+14-09-2026,B Block,Network,4.72,Positive
+14-09-2026,B Block,Classrooms,4.01,Positive
+14-09-2026,B Block,Cleanliness,4.34,Positive
+14-09-2026,B Block,Facilities,3.88,Neutral
+14-09-2026,B Block,Campus Experience,4.25,Positive
+14-09-2026,C Block,Network,3.13,Neutral
+14-09-2026,C Block,Classrooms,3.55,Neutral
+14-09-2026,C Block,Cleanliness,4.22,Positive
+14-09-2026,C Block,Facilities,4.38,Positive
+14-09-2026,C Block,Campus Experience,3.93,Neutral
+14-09-2026,D Block,Network,4.24,Positive
+14-09-2026,D Block,Classrooms,3.92,Neutral
+14-09-2026,D Block,Cleanliness,4.12,Positive
+14-09-2026,D Block,Facilities,3.89,Neutral
+14-09-2026,D Block,Campus Experience,4.2,Positive
+14-09-2026,Cafeteria,Network,3.63,Neutral
+14-09-2026,Cafeteria,Classrooms,3.9,Neutral
+14-09-2026,Cafeteria,Cleanliness,4.36,Positive
+14-09-2026,Cafeteria,Facilities,4.14,Positive
+14-09-2026,Cafeteria,Campus Experience,4.14,Positive
+14-09-2026,Main Stage Area,Network,3.8,Neutral
+14-09-2026,Main Stage Area,Classrooms,4.62,Positive
+14-09-2026,Main Stage Area,Cleanliness,4.05,Positive
+14-09-2026,Main Stage Area,Facilities,4.02,Positive
+14-09-2026,Main Stage Area,Campus Experience,4.05,Positive
+14-09-2026,C Block Auditorium 1,Network,4.11,Positive
+14-09-2026,C Block Auditorium 1,Classrooms,4.34,Positive
+14-09-2026,C Block Auditorium 1,Cleanliness,3.69,Neutral
+14-09-2026,C Block Auditorium 1,Facilities,3.5,Neutral
+14-09-2026,C Block Auditorium 1,Campus Experience,4.17,Positive
+14-09-2026,C Block Auditorium 2,Network,4.46,Positive
+14-09-2026,C Block Auditorium 2,Classrooms,4,Neutral
+14-09-2026,C Block Auditorium 2,Cleanliness,4.01,Positive
+14-09-2026,C Block Auditorium 2,Facilities,3.94,Neutral
+14-09-2026,C Block Auditorium 2,Campus Experience,4.08,Positive
+14-09-2026,Cricket Nets,Network,3.64,Neutral
+14-09-2026,Cricket Nets,Classrooms,4.03,Positive
+14-09-2026,Cricket Nets,Cleanliness,3.99,Neutral
+14-09-2026,Cricket Nets,Facilities,4.2,Positive
+14-09-2026,Cricket Nets,Campus Experience,4,Positive
+14-09-2026,Basketball Court,Network,3.95,Neutral
+14-09-2026,Basketball Court,Classrooms,4.09,Positive
+14-09-2026,Basketball Court,Cleanliness,3.95,Neutral
+14-09-2026,Basketball Court,Facilities,4.53,Positive
+14-09-2026,Basketball Court,Campus Experience,3.88,Neutral
+15-09-2026,AI Block,Network,4.21,Positive
+15-09-2026,AI Block,Classrooms,4.21,Positive
+15-09-2026,AI Block,Cleanliness,4.36,Positive
+15-09-2026,AI Block,Facilities,3.7,Neutral
+15-09-2026,AI Block,Campus Experience,4.25,Positive
+15-09-2026,A Block,Network,3.87,Neutral
+15-09-2026,A Block,Classrooms,3.51,Neutral
+15-09-2026,A Block,Cleanliness,3.77,Neutral
+15-09-2026,A Block,Facilities,4.18,Positive
+15-09-2026,A Block,Campus Experience,3.87,Neutral
+15-09-2026,B Block,Network,3.73,Neutral
+15-09-2026,B Block,Classrooms,4.4,Positive
+15-09-2026,B Block,Cleanliness,4.07,Positive
+15-09-2026,B Block,Facilities,4.33,Positive
+15-09-2026,B Block,Campus Experience,4.17,Positive
+15-09-2026,C Block,Network,2.53,Negative
+15-09-2026,C Block,Classrooms,4.39,Positive
+15-09-2026,C Block,Cleanliness,4.06,Positive
+15-09-2026,C Block,Facilities,4.24,Positive
+15-09-2026,C Block,Campus Experience,3.83,Neutral
+15-09-2026,D Block,Network,3.79,Neutral
+15-09-2026,D Block,Classrooms,3.86,Neutral
+15-09-2026,D Block,Cleanliness,3.51,Neutral
+15-09-2026,D Block,Facilities,3.77,Neutral
+15-09-2026,D Block,Campus Experience,3.57,Neutral
+15-09-2026,Cafeteria,Network,3.86,Neutral
+15-09-2026,Cafeteria,Classrooms,3.93,Neutral
+15-09-2026,Cafeteria,Cleanliness,3.95,Neutral
+15-09-2026,Cafeteria,Facilities,3.61,Neutral
+15-09-2026,Cafeteria,Campus Experience,3.73,Neutral
+15-09-2026,Main Stage Area,Network,3.97,Neutral
+15-09-2026,Main Stage Area,Classrooms,4.51,Positive
+15-09-2026,Main Stage Area,Cleanliness,4.08,Positive
+15-09-2026,Main Stage Area,Facilities,3.87,Neutral
+15-09-2026,Main Stage Area,Campus Experience,3.82,Neutral
+15-09-2026,C Block Auditorium 1,Network,4.45,Positive
+15-09-2026,C Block Auditorium 1,Classrooms,4.61,Positive
+15-09-2026,C Block Auditorium 1,Cleanliness,4.12,Positive
+15-09-2026,C Block Auditorium 1,Facilities,4.05,Positive
+15-09-2026,C Block Auditorium 1,Campus Experience,4.37,Positive
+15-09-2026,C Block Auditorium 2,Network,3.78,Neutral
+15-09-2026,C Block Auditorium 2,Classrooms,4.53,Positive
+15-09-2026,C Block Auditorium 2,Cleanliness,3.95,Neutral
+15-09-2026,C Block Auditorium 2,Facilities,4.08,Positive
+15-09-2026,C Block Auditorium 2,Campus Experience,3.92,Neutral
+15-09-2026,Cricket Nets,Network,3.95,Neutral
+15-09-2026,Cricket Nets,Classrooms,3.97,Neutral
+15-09-2026,Cricket Nets,Cleanliness,3.8,Neutral
+15-09-2026,Cricket Nets,Facilities,4.44,Positive
+15-09-2026,Cricket Nets,Campus Experience,3.77,Neutral
+15-09-2026,Basketball Court,Network,4.01,Positive
+15-09-2026,Basketball Court,Classrooms,4.11,Positive
+15-09-2026,Basketball Court,Cleanliness,3.69,Neutral
+15-09-2026,Basketball Court,Facilities,3.72,Neutral
+15-09-2026,Basketball Court,Campus Experience,3.42,Neutral

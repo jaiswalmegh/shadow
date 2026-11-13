@@ -1,0 +1,1651 @@
+date,location,category,ticket_count
+17-08-2026,AI Block,Network,2
+17-08-2026,AI Block,Classroom,0
+17-08-2026,AI Block,Electricity,1
+17-08-2026,AI Block,Maintenance,0
+17-08-2026,AI Block,Facilities,0
+17-08-2026,A Block,Network,0
+17-08-2026,A Block,Classroom,5
+17-08-2026,A Block,Electricity,0
+17-08-2026,A Block,Maintenance,3
+17-08-2026,A Block,Facilities,1
+17-08-2026,B Block,Network,1
+17-08-2026,B Block,Classroom,1
+17-08-2026,B Block,Electricity,1
+17-08-2026,B Block,Maintenance,3
+17-08-2026,B Block,Facilities,2
+17-08-2026,C Block,Network,1
+17-08-2026,C Block,Classroom,2
+17-08-2026,C Block,Electricity,1
+17-08-2026,C Block,Maintenance,2
+17-08-2026,C Block,Facilities,2
+17-08-2026,D Block,Network,1
+17-08-2026,D Block,Classroom,1
+17-08-2026,D Block,Electricity,2
+17-08-2026,D Block,Maintenance,3
+17-08-2026,D Block,Facilities,0
+17-08-2026,Cafeteria,Network,1
+17-08-2026,Cafeteria,Classroom,4
+17-08-2026,Cafeteria,Electricity,1
+17-08-2026,Cafeteria,Maintenance,1
+17-08-2026,Cafeteria,Facilities,3
+17-08-2026,Main Stage Area,Network,3
+17-08-2026,Main Stage Area,Classroom,0
+17-08-2026,Main Stage Area,Electricity,0
+17-08-2026,Main Stage Area,Maintenance,2
+17-08-2026,Main Stage Area,Facilities,4
+17-08-2026,C Block Auditorium 1,Network,2
+17-08-2026,C Block Auditorium 1,Classroom,2
+17-08-2026,C Block Auditorium 1,Electricity,2
+17-08-2026,C Block Auditorium 1,Maintenance,2
+17-08-2026,C Block Auditorium 1,Facilities,0
+17-08-2026,C Block Auditorium 2,Network,1
+17-08-2026,C Block Auditorium 2,Classroom,0
+17-08-2026,C Block Auditorium 2,Electricity,2
+17-08-2026,C Block Auditorium 2,Maintenance,1
+17-08-2026,C Block Auditorium 2,Facilities,2
+17-08-2026,Cricket Nets,Network,0
+17-08-2026,Cricket Nets,Classroom,0
+17-08-2026,Cricket Nets,Electricity,1
+17-08-2026,Cricket Nets,Maintenance,0
+17-08-2026,Cricket Nets,Facilities,0
+17-08-2026,Basketball Court,Network,1
+17-08-2026,Basketball Court,Classroom,1
+17-08-2026,Basketball Court,Electricity,1
+17-08-2026,Basketball Court,Maintenance,2
+17-08-2026,Basketball Court,Facilities,1
+18-08-2026,AI Block,Network,4
+18-08-2026,AI Block,Classroom,1
+18-08-2026,AI Block,Electricity,0
+18-08-2026,AI Block,Maintenance,1
+18-08-2026,AI Block,Facilities,2
+18-08-2026,A Block,Network,3
+18-08-2026,A Block,Classroom,1
+18-08-2026,A Block,Electricity,1
+18-08-2026,A Block,Maintenance,0
+18-08-2026,A Block,Facilities,0
+18-08-2026,B Block,Network,2
+18-08-2026,B Block,Classroom,3
+18-08-2026,B Block,Electricity,2
+18-08-2026,B Block,Maintenance,1
+18-08-2026,B Block,Facilities,1
+18-08-2026,C Block,Network,2
+18-08-2026,C Block,Classroom,5
+18-08-2026,C Block,Electricity,0
+18-08-2026,C Block,Maintenance,5
+18-08-2026,C Block,Facilities,0
+18-08-2026,D Block,Network,4
+18-08-2026,D Block,Classroom,1
+18-08-2026,D Block,Electricity,0
+18-08-2026,D Block,Maintenance,1
+18-08-2026,D Block,Facilities,1
+18-08-2026,Cafeteria,Network,4
+18-08-2026,Cafeteria,Classroom,7
+18-08-2026,Cafeteria,Electricity,3
+18-08-2026,Cafeteria,Maintenance,1
+18-08-2026,Cafeteria,Facilities,1
+18-08-2026,Main Stage Area,Network,3
+18-08-2026,Main Stage Area,Classroom,3
+18-08-2026,Main Stage Area,Electricity,1
+18-08-2026,Main Stage Area,Maintenance,1
+18-08-2026,Main Stage Area,Facilities,0
+18-08-2026,C Block Auditorium 1,Network,3
+18-08-2026,C Block Auditorium 1,Classroom,1
+18-08-2026,C Block Auditorium 1,Electricity,2
+18-08-2026,C Block Auditorium 1,Maintenance,1
+18-08-2026,C Block Auditorium 1,Facilities,0
+18-08-2026,C Block Auditorium 2,Network,3
+18-08-2026,C Block Auditorium 2,Classroom,1
+18-08-2026,C Block Auditorium 2,Electricity,2
+18-08-2026,C Block Auditorium 2,Maintenance,1
+18-08-2026,C Block Auditorium 2,Facilities,1
+18-08-2026,Cricket Nets,Network,0
+18-08-2026,Cricket Nets,Classroom,2
+18-08-2026,Cricket Nets,Electricity,1
+18-08-2026,Cricket Nets,Maintenance,0
+18-08-2026,Cricket Nets,Facilities,2
+18-08-2026,Basketball Court,Network,2
+18-08-2026,Basketball Court,Classroom,1
+18-08-2026,Basketball Court,Electricity,1
+18-08-2026,Basketball Court,Maintenance,1
+18-08-2026,Basketball Court,Facilities,0
+19-08-2026,AI Block,Network,1
+19-08-2026,AI Block,Classroom,1
+19-08-2026,AI Block,Electricity,1
+19-08-2026,AI Block,Maintenance,2
+19-08-2026,AI Block,Facilities,2
+19-08-2026,A Block,Network,1
+19-08-2026,A Block,Classroom,2
+19-08-2026,A Block,Electricity,1
+19-08-2026,A Block,Maintenance,3
+19-08-2026,A Block,Facilities,2
+19-08-2026,B Block,Network,3
+19-08-2026,B Block,Classroom,1
+19-08-2026,B Block,Electricity,0
+19-08-2026,B Block,Maintenance,2
+19-08-2026,B Block,Facilities,1
+19-08-2026,C Block,Network,1
+19-08-2026,C Block,Classroom,3
+19-08-2026,C Block,Electricity,0
+19-08-2026,C Block,Maintenance,1
+19-08-2026,C Block,Facilities,2
+19-08-2026,D Block,Network,4
+19-08-2026,D Block,Classroom,2
+19-08-2026,D Block,Electricity,3
+19-08-2026,D Block,Maintenance,1
+19-08-2026,D Block,Facilities,2
+19-08-2026,Cafeteria,Network,1
+19-08-2026,Cafeteria,Classroom,2
+19-08-2026,Cafeteria,Electricity,2
+19-08-2026,Cafeteria,Maintenance,1
+19-08-2026,Cafeteria,Facilities,1
+19-08-2026,Main Stage Area,Network,1
+19-08-2026,Main Stage Area,Classroom,0
+19-08-2026,Main Stage Area,Electricity,0
+19-08-2026,Main Stage Area,Maintenance,2
+19-08-2026,Main Stage Area,Facilities,1
+19-08-2026,C Block Auditorium 1,Network,4
+19-08-2026,C Block Auditorium 1,Classroom,3
+19-08-2026,C Block Auditorium 1,Electricity,0
+19-08-2026,C Block Auditorium 1,Maintenance,2
+19-08-2026,C Block Auditorium 1,Facilities,2
+19-08-2026,C Block Auditorium 2,Network,3
+19-08-2026,C Block Auditorium 2,Classroom,0
+19-08-2026,C Block Auditorium 2,Electricity,1
+19-08-2026,C Block Auditorium 2,Maintenance,0
+19-08-2026,C Block Auditorium 2,Facilities,3
+19-08-2026,Cricket Nets,Network,2
+19-08-2026,Cricket Nets,Classroom,0
+19-08-2026,Cricket Nets,Electricity,4
+19-08-2026,Cricket Nets,Maintenance,1
+19-08-2026,Cricket Nets,Facilities,2
+19-08-2026,Basketball Court,Network,0
+19-08-2026,Basketball Court,Classroom,0
+19-08-2026,Basketball Court,Electricity,1
+19-08-2026,Basketball Court,Maintenance,1
+19-08-2026,Basketball Court,Facilities,1
+20-08-2026,AI Block,Network,1
+20-08-2026,AI Block,Classroom,1
+20-08-2026,AI Block,Electricity,1
+20-08-2026,AI Block,Maintenance,1
+20-08-2026,AI Block,Facilities,1
+20-08-2026,A Block,Network,1
+20-08-2026,A Block,Classroom,2
+20-08-2026,A Block,Electricity,1
+20-08-2026,A Block,Maintenance,1
+20-08-2026,A Block,Facilities,4
+20-08-2026,B Block,Network,1
+20-08-2026,B Block,Classroom,1
+20-08-2026,B Block,Electricity,0
+20-08-2026,B Block,Maintenance,2
+20-08-2026,B Block,Facilities,3
+20-08-2026,C Block,Network,2
+20-08-2026,C Block,Classroom,2
+20-08-2026,C Block,Electricity,0
+20-08-2026,C Block,Maintenance,3
+20-08-2026,C Block,Facilities,0
+20-08-2026,D Block,Network,1
+20-08-2026,D Block,Classroom,2
+20-08-2026,D Block,Electricity,2
+20-08-2026,D Block,Maintenance,1
+20-08-2026,D Block,Facilities,3
+20-08-2026,Cafeteria,Network,1
+20-08-2026,Cafeteria,Classroom,2
+20-08-2026,Cafeteria,Electricity,1
+20-08-2026,Cafeteria,Maintenance,0
+20-08-2026,Cafeteria,Facilities,1
+20-08-2026,Main Stage Area,Network,2
+20-08-2026,Main Stage Area,Classroom,1
+20-08-2026,Main Stage Area,Electricity,1
+20-08-2026,Main Stage Area,Maintenance,0
+20-08-2026,Main Stage Area,Facilities,1
+20-08-2026,C Block Auditorium 1,Network,1
+20-08-2026,C Block Auditorium 1,Classroom,3
+20-08-2026,C Block Auditorium 1,Electricity,1
+20-08-2026,C Block Auditorium 1,Maintenance,2
+20-08-2026,C Block Auditorium 1,Facilities,0
+20-08-2026,C Block Auditorium 2,Network,1
+20-08-2026,C Block Auditorium 2,Classroom,0
+20-08-2026,C Block Auditorium 2,Electricity,0
+20-08-2026,C Block Auditorium 2,Maintenance,0
+20-08-2026,C Block Auditorium 2,Facilities,1
+20-08-2026,Cricket Nets,Network,2
+20-08-2026,Cricket Nets,Classroom,0
+20-08-2026,Cricket Nets,Electricity,0
+20-08-2026,Cricket Nets,Maintenance,2
+20-08-2026,Cricket Nets,Facilities,2
+20-08-2026,Basketball Court,Network,2
+20-08-2026,Basketball Court,Classroom,1
+20-08-2026,Basketball Court,Electricity,0
+20-08-2026,Basketball Court,Maintenance,0
+20-08-2026,Basketball Court,Facilities,1
+21-08-2026,AI Block,Network,1
+21-08-2026,AI Block,Classroom,1
+21-08-2026,AI Block,Electricity,1
+21-08-2026,AI Block,Maintenance,2
+21-08-2026,AI Block,Facilities,2
+21-08-2026,A Block,Network,1
+21-08-2026,A Block,Classroom,5
+21-08-2026,A Block,Electricity,0
+21-08-2026,A Block,Maintenance,3
+21-08-2026,A Block,Facilities,0
+21-08-2026,B Block,Network,3
+21-08-2026,B Block,Classroom,3
+21-08-2026,B Block,Electricity,0
+21-08-2026,B Block,Maintenance,1
+21-08-2026,B Block,Facilities,1
+21-08-2026,C Block,Network,1
+21-08-2026,C Block,Classroom,3
+21-08-2026,C Block,Electricity,2
+21-08-2026,C Block,Maintenance,1
+21-08-2026,C Block,Facilities,1
+21-08-2026,D Block,Network,1
+21-08-2026,D Block,Classroom,3
+21-08-2026,D Block,Electricity,3
+21-08-2026,D Block,Maintenance,2
+21-08-2026,D Block,Facilities,1
+21-08-2026,Cafeteria,Network,2
+21-08-2026,Cafeteria,Classroom,5
+21-08-2026,Cafeteria,Electricity,2
+21-08-2026,Cafeteria,Maintenance,1
+21-08-2026,Cafeteria,Facilities,2
+21-08-2026,Main Stage Area,Network,1
+21-08-2026,Main Stage Area,Classroom,0
+21-08-2026,Main Stage Area,Electricity,1
+21-08-2026,Main Stage Area,Maintenance,0
+21-08-2026,Main Stage Area,Facilities,1
+21-08-2026,C Block Auditorium 1,Network,0
+21-08-2026,C Block Auditorium 1,Classroom,1
+21-08-2026,C Block Auditorium 1,Electricity,1
+21-08-2026,C Block Auditorium 1,Maintenance,1
+21-08-2026,C Block Auditorium 1,Facilities,1
+21-08-2026,C Block Auditorium 2,Network,0
+21-08-2026,C Block Auditorium 2,Classroom,1
+21-08-2026,C Block Auditorium 2,Electricity,2
+21-08-2026,C Block Auditorium 2,Maintenance,2
+21-08-2026,C Block Auditorium 2,Facilities,3
+21-08-2026,Cricket Nets,Network,0
+21-08-2026,Cricket Nets,Classroom,4
+21-08-2026,Cricket Nets,Electricity,1
+21-08-2026,Cricket Nets,Maintenance,1
+21-08-2026,Cricket Nets,Facilities,1
+21-08-2026,Basketball Court,Network,1
+21-08-2026,Basketball Court,Classroom,1
+21-08-2026,Basketball Court,Electricity,2
+21-08-2026,Basketball Court,Maintenance,1
+21-08-2026,Basketball Court,Facilities,2
+22-08-2026,AI Block,Network,3
+22-08-2026,AI Block,Classroom,1
+22-08-2026,AI Block,Electricity,1
+22-08-2026,AI Block,Maintenance,1
+22-08-2026,AI Block,Facilities,0
+22-08-2026,A Block,Network,0
+22-08-2026,A Block,Classroom,4
+22-08-2026,A Block,Electricity,2
+22-08-2026,A Block,Maintenance,1
+22-08-2026,A Block,Facilities,2
+22-08-2026,B Block,Network,1
+22-08-2026,B Block,Classroom,0
+22-08-2026,B Block,Electricity,0
+22-08-2026,B Block,Maintenance,1
+22-08-2026,B Block,Facilities,0
+22-08-2026,C Block,Network,1
+22-08-2026,C Block,Classroom,3
+22-08-2026,C Block,Electricity,0
+22-08-2026,C Block,Maintenance,4
+22-08-2026,C Block,Facilities,0
+22-08-2026,D Block,Network,0
+22-08-2026,D Block,Classroom,1
+22-08-2026,D Block,Electricity,1
+22-08-2026,D Block,Maintenance,2
+22-08-2026,D Block,Facilities,0
+22-08-2026,Cafeteria,Network,0
+22-08-2026,Cafeteria,Classroom,5
+22-08-2026,Cafeteria,Electricity,0
+22-08-2026,Cafeteria,Maintenance,1
+22-08-2026,Cafeteria,Facilities,1
+22-08-2026,Main Stage Area,Network,0
+22-08-2026,Main Stage Area,Classroom,0
+22-08-2026,Main Stage Area,Electricity,1
+22-08-2026,Main Stage Area,Maintenance,1
+22-08-2026,Main Stage Area,Facilities,0
+22-08-2026,C Block Auditorium 1,Network,3
+22-08-2026,C Block Auditorium 1,Classroom,3
+22-08-2026,C Block Auditorium 1,Electricity,0
+22-08-2026,C Block Auditorium 1,Maintenance,2
+22-08-2026,C Block Auditorium 1,Facilities,2
+22-08-2026,C Block Auditorium 2,Network,1
+22-08-2026,C Block Auditorium 2,Classroom,1
+22-08-2026,C Block Auditorium 2,Electricity,0
+22-08-2026,C Block Auditorium 2,Maintenance,0
+22-08-2026,C Block Auditorium 2,Facilities,1
+22-08-2026,Cricket Nets,Network,0
+22-08-2026,Cricket Nets,Classroom,2
+22-08-2026,Cricket Nets,Electricity,0
+22-08-2026,Cricket Nets,Maintenance,0
+22-08-2026,Cricket Nets,Facilities,2
+22-08-2026,Basketball Court,Network,2
+22-08-2026,Basketball Court,Classroom,0
+22-08-2026,Basketball Court,Electricity,0
+22-08-2026,Basketball Court,Maintenance,1
+22-08-2026,Basketball Court,Facilities,3
+23-08-2026,AI Block,Network,3
+23-08-2026,AI Block,Classroom,0
+23-08-2026,AI Block,Electricity,2
+23-08-2026,AI Block,Maintenance,0
+23-08-2026,AI Block,Facilities,2
+23-08-2026,A Block,Network,2
+23-08-2026,A Block,Classroom,2
+23-08-2026,A Block,Electricity,1
+23-08-2026,A Block,Maintenance,1
+23-08-2026,A Block,Facilities,1
+23-08-2026,B Block,Network,3
+23-08-2026,B Block,Classroom,1
+23-08-2026,B Block,Electricity,2
+23-08-2026,B Block,Maintenance,2
+23-08-2026,B Block,Facilities,0
+23-08-2026,C Block,Network,0
+23-08-2026,C Block,Classroom,4
+23-08-2026,C Block,Electricity,1
+23-08-2026,C Block,Maintenance,2
+23-08-2026,C Block,Facilities,0
+23-08-2026,D Block,Network,1
+23-08-2026,D Block,Classroom,3
+23-08-2026,D Block,Electricity,0
+23-08-2026,D Block,Maintenance,4
+23-08-2026,D Block,Facilities,0
+23-08-2026,Cafeteria,Network,1
+23-08-2026,Cafeteria,Classroom,2
+23-08-2026,Cafeteria,Electricity,1
+23-08-2026,Cafeteria,Maintenance,1
+23-08-2026,Cafeteria,Facilities,3
+23-08-2026,Main Stage Area,Network,0
+23-08-2026,Main Stage Area,Classroom,1
+23-08-2026,Main Stage Area,Electricity,0
+23-08-2026,Main Stage Area,Maintenance,1
+23-08-2026,Main Stage Area,Facilities,3
+23-08-2026,C Block Auditorium 1,Network,3
+23-08-2026,C Block Auditorium 1,Classroom,0
+23-08-2026,C Block Auditorium 1,Electricity,2
+23-08-2026,C Block Auditorium 1,Maintenance,4
+23-08-2026,C Block Auditorium 1,Facilities,0
+23-08-2026,C Block Auditorium 2,Network,1
+23-08-2026,C Block Auditorium 2,Classroom,1
+23-08-2026,C Block Auditorium 2,Electricity,2
+23-08-2026,C Block Auditorium 2,Maintenance,2
+23-08-2026,C Block Auditorium 2,Facilities,0
+23-08-2026,Cricket Nets,Network,1
+23-08-2026,Cricket Nets,Classroom,1
+23-08-2026,Cricket Nets,Electricity,0
+23-08-2026,Cricket Nets,Maintenance,1
+23-08-2026,Cricket Nets,Facilities,1
+23-08-2026,Basketball Court,Network,1
+23-08-2026,Basketball Court,Classroom,1
+23-08-2026,Basketball Court,Electricity,0
+23-08-2026,Basketball Court,Maintenance,2
+23-08-2026,Basketball Court,Facilities,0
+24-08-2026,AI Block,Network,0
+24-08-2026,AI Block,Classroom,2
+24-08-2026,AI Block,Electricity,2
+24-08-2026,AI Block,Maintenance,2
+24-08-2026,AI Block,Facilities,2
+24-08-2026,A Block,Network,2
+24-08-2026,A Block,Classroom,0
+24-08-2026,A Block,Electricity,0
+24-08-2026,A Block,Maintenance,0
+24-08-2026,A Block,Facilities,2
+24-08-2026,B Block,Network,3
+24-08-2026,B Block,Classroom,3
+24-08-2026,B Block,Electricity,0
+24-08-2026,B Block,Maintenance,1
+24-08-2026,B Block,Facilities,2
+24-08-2026,C Block,Network,2
+24-08-2026,C Block,Classroom,0
+24-08-2026,C Block,Electricity,0
+24-08-2026,C Block,Maintenance,0
+24-08-2026,C Block,Facilities,4
+24-08-2026,D Block,Network,0
+24-08-2026,D Block,Classroom,2
+24-08-2026,D Block,Electricity,4
+24-08-2026,D Block,Maintenance,3
+24-08-2026,D Block,Facilities,2
+24-08-2026,Cafeteria,Network,1
+24-08-2026,Cafeteria,Classroom,4
+24-08-2026,Cafeteria,Electricity,3
+24-08-2026,Cafeteria,Maintenance,5
+24-08-2026,Cafeteria,Facilities,1
+24-08-2026,Main Stage Area,Network,1
+24-08-2026,Main Stage Area,Classroom,1
+24-08-2026,Main Stage Area,Electricity,0
+24-08-2026,Main Stage Area,Maintenance,1
+24-08-2026,Main Stage Area,Facilities,0
+24-08-2026,C Block Auditorium 1,Network,1
+24-08-2026,C Block Auditorium 1,Classroom,3
+24-08-2026,C Block Auditorium 1,Electricity,0
+24-08-2026,C Block Auditorium 1,Maintenance,1
+24-08-2026,C Block Auditorium 1,Facilities,2
+24-08-2026,C Block Auditorium 2,Network,2
+24-08-2026,C Block Auditorium 2,Classroom,5
+24-08-2026,C Block Auditorium 2,Electricity,1
+24-08-2026,C Block Auditorium 2,Maintenance,4
+24-08-2026,C Block Auditorium 2,Facilities,2
+24-08-2026,Cricket Nets,Network,0
+24-08-2026,Cricket Nets,Classroom,1
+24-08-2026,Cricket Nets,Electricity,3
+24-08-2026,Cricket Nets,Maintenance,1
+24-08-2026,Cricket Nets,Facilities,0
+24-08-2026,Basketball Court,Network,0
+24-08-2026,Basketball Court,Classroom,1
+24-08-2026,Basketball Court,Electricity,4
+24-08-2026,Basketball Court,Maintenance,2
+24-08-2026,Basketball Court,Facilities,1
+25-08-2026,AI Block,Network,1
+25-08-2026,AI Block,Classroom,3
+25-08-2026,AI Block,Electricity,0
+25-08-2026,AI Block,Maintenance,1
+25-08-2026,AI Block,Facilities,2
+25-08-2026,A Block,Network,1
+25-08-2026,A Block,Classroom,1
+25-08-2026,A Block,Electricity,0
+25-08-2026,A Block,Maintenance,0
+25-08-2026,A Block,Facilities,1
+25-08-2026,B Block,Network,1
+25-08-2026,B Block,Classroom,1
+25-08-2026,B Block,Electricity,3
+25-08-2026,B Block,Maintenance,1
+25-08-2026,B Block,Facilities,3
+25-08-2026,C Block,Network,1
+25-08-2026,C Block,Classroom,1
+25-08-2026,C Block,Electricity,0
+25-08-2026,C Block,Maintenance,2
+25-08-2026,C Block,Facilities,1
+25-08-2026,D Block,Network,1
+25-08-2026,D Block,Classroom,4
+25-08-2026,D Block,Electricity,1
+25-08-2026,D Block,Maintenance,3
+25-08-2026,D Block,Facilities,4
+25-08-2026,Cafeteria,Network,3
+25-08-2026,Cafeteria,Classroom,3
+25-08-2026,Cafeteria,Electricity,0
+25-08-2026,Cafeteria,Maintenance,2
+25-08-2026,Cafeteria,Facilities,2
+25-08-2026,Main Stage Area,Network,0
+25-08-2026,Main Stage Area,Classroom,2
+25-08-2026,Main Stage Area,Electricity,0
+25-08-2026,Main Stage Area,Maintenance,3
+25-08-2026,Main Stage Area,Facilities,2
+25-08-2026,C Block Auditorium 1,Network,1
+25-08-2026,C Block Auditorium 1,Classroom,1
+25-08-2026,C Block Auditorium 1,Electricity,1
+25-08-2026,C Block Auditorium 1,Maintenance,2
+25-08-2026,C Block Auditorium 1,Facilities,0
+25-08-2026,C Block Auditorium 2,Network,0
+25-08-2026,C Block Auditorium 2,Classroom,2
+25-08-2026,C Block Auditorium 2,Electricity,1
+25-08-2026,C Block Auditorium 2,Maintenance,0
+25-08-2026,C Block Auditorium 2,Facilities,0
+25-08-2026,Cricket Nets,Network,1
+25-08-2026,Cricket Nets,Classroom,2
+25-08-2026,Cricket Nets,Electricity,1
+25-08-2026,Cricket Nets,Maintenance,0
+25-08-2026,Cricket Nets,Facilities,0
+25-08-2026,Basketball Court,Network,1
+25-08-2026,Basketball Court,Classroom,0
+25-08-2026,Basketball Court,Electricity,0
+25-08-2026,Basketball Court,Maintenance,0
+25-08-2026,Basketball Court,Facilities,1
+26-08-2026,AI Block,Network,2
+26-08-2026,AI Block,Classroom,4
+26-08-2026,AI Block,Electricity,1
+26-08-2026,AI Block,Maintenance,1
+26-08-2026,AI Block,Facilities,4
+26-08-2026,A Block,Network,3
+26-08-2026,A Block,Classroom,2
+26-08-2026,A Block,Electricity,0
+26-08-2026,A Block,Maintenance,3
+26-08-2026,A Block,Facilities,0
+26-08-2026,B Block,Network,0
+26-08-2026,B Block,Classroom,3
+26-08-2026,B Block,Electricity,2
+26-08-2026,B Block,Maintenance,0
+26-08-2026,B Block,Facilities,3
+26-08-2026,C Block,Network,1
+26-08-2026,C Block,Classroom,0
+26-08-2026,C Block,Electricity,1
+26-08-2026,C Block,Maintenance,3
+26-08-2026,C Block,Facilities,1
+26-08-2026,D Block,Network,1
+26-08-2026,D Block,Classroom,1
+26-08-2026,D Block,Electricity,2
+26-08-2026,D Block,Maintenance,4
+26-08-2026,D Block,Facilities,2
+26-08-2026,Cafeteria,Network,0
+26-08-2026,Cafeteria,Classroom,2
+26-08-2026,Cafeteria,Electricity,1
+26-08-2026,Cafeteria,Maintenance,3
+26-08-2026,Cafeteria,Facilities,1
+26-08-2026,Main Stage Area,Network,1
+26-08-2026,Main Stage Area,Classroom,0
+26-08-2026,Main Stage Area,Electricity,0
+26-08-2026,Main Stage Area,Maintenance,1
+26-08-2026,Main Stage Area,Facilities,0
+26-08-2026,C Block Auditorium 1,Network,3
+26-08-2026,C Block Auditorium 1,Classroom,2
+26-08-2026,C Block Auditorium 1,Electricity,0
+26-08-2026,C Block Auditorium 1,Maintenance,1
+26-08-2026,C Block Auditorium 1,Facilities,4
+26-08-2026,C Block Auditorium 2,Network,2
+26-08-2026,C Block Auditorium 2,Classroom,0
+26-08-2026,C Block Auditorium 2,Electricity,0
+26-08-2026,C Block Auditorium 2,Maintenance,4
+26-08-2026,C Block Auditorium 2,Facilities,1
+26-08-2026,Cricket Nets,Network,2
+26-08-2026,Cricket Nets,Classroom,1
+26-08-2026,Cricket Nets,Electricity,2
+26-08-2026,Cricket Nets,Maintenance,1
+26-08-2026,Cricket Nets,Facilities,0
+26-08-2026,Basketball Court,Network,0
+26-08-2026,Basketball Court,Classroom,2
+26-08-2026,Basketball Court,Electricity,1
+26-08-2026,Basketball Court,Maintenance,1
+26-08-2026,Basketball Court,Facilities,0
+27-08-2026,AI Block,Network,3
+27-08-2026,AI Block,Classroom,3
+27-08-2026,AI Block,Electricity,3
+27-08-2026,AI Block,Maintenance,0
+27-08-2026,AI Block,Facilities,1
+27-08-2026,A Block,Network,0
+27-08-2026,A Block,Classroom,2
+27-08-2026,A Block,Electricity,4
+27-08-2026,A Block,Maintenance,0
+27-08-2026,A Block,Facilities,2
+27-08-2026,B Block,Network,4
+27-08-2026,B Block,Classroom,1
+27-08-2026,B Block,Electricity,1
+27-08-2026,B Block,Maintenance,1
+27-08-2026,B Block,Facilities,0
+27-08-2026,C Block,Network,2
+27-08-2026,C Block,Classroom,0
+27-08-2026,C Block,Electricity,0
+27-08-2026,C Block,Maintenance,0
+27-08-2026,C Block,Facilities,1
+27-08-2026,D Block,Network,2
+27-08-2026,D Block,Classroom,0
+27-08-2026,D Block,Electricity,2
+27-08-2026,D Block,Maintenance,4
+27-08-2026,D Block,Facilities,2
+27-08-2026,Cafeteria,Network,2
+27-08-2026,Cafeteria,Classroom,5
+27-08-2026,Cafeteria,Electricity,1
+27-08-2026,Cafeteria,Maintenance,2
+27-08-2026,Cafeteria,Facilities,2
+27-08-2026,Main Stage Area,Network,0
+27-08-2026,Main Stage Area,Classroom,0
+27-08-2026,Main Stage Area,Electricity,0
+27-08-2026,Main Stage Area,Maintenance,2
+27-08-2026,Main Stage Area,Facilities,0
+27-08-2026,C Block Auditorium 1,Network,1
+27-08-2026,C Block Auditorium 1,Classroom,1
+27-08-2026,C Block Auditorium 1,Electricity,2
+27-08-2026,C Block Auditorium 1,Maintenance,0
+27-08-2026,C Block Auditorium 1,Facilities,2
+27-08-2026,C Block Auditorium 2,Network,1
+27-08-2026,C Block Auditorium 2,Classroom,3
+27-08-2026,C Block Auditorium 2,Electricity,0
+27-08-2026,C Block Auditorium 2,Maintenance,0
+27-08-2026,C Block Auditorium 2,Facilities,0
+27-08-2026,Cricket Nets,Network,0
+27-08-2026,Cricket Nets,Classroom,0
+27-08-2026,Cricket Nets,Electricity,2
+27-08-2026,Cricket Nets,Maintenance,1
+27-08-2026,Cricket Nets,Facilities,1
+27-08-2026,Basketball Court,Network,0
+27-08-2026,Basketball Court,Classroom,0
+27-08-2026,Basketball Court,Electricity,2
+27-08-2026,Basketball Court,Maintenance,2
+27-08-2026,Basketball Court,Facilities,3
+28-08-2026,AI Block,Network,2
+28-08-2026,AI Block,Classroom,2
+28-08-2026,AI Block,Electricity,2
+28-08-2026,AI Block,Maintenance,2
+28-08-2026,AI Block,Facilities,0
+28-08-2026,A Block,Network,1
+28-08-2026,A Block,Classroom,2
+28-08-2026,A Block,Electricity,1
+28-08-2026,A Block,Maintenance,2
+28-08-2026,A Block,Facilities,2
+28-08-2026,B Block,Network,2
+28-08-2026,B Block,Classroom,6
+28-08-2026,B Block,Electricity,0
+28-08-2026,B Block,Maintenance,4
+28-08-2026,B Block,Facilities,2
+28-08-2026,C Block,Network,3
+28-08-2026,C Block,Classroom,5
+28-08-2026,C Block,Electricity,2
+28-08-2026,C Block,Maintenance,2
+28-08-2026,C Block,Facilities,1
+28-08-2026,D Block,Network,1
+28-08-2026,D Block,Classroom,3
+28-08-2026,D Block,Electricity,3
+28-08-2026,D Block,Maintenance,5
+28-08-2026,D Block,Facilities,5
+28-08-2026,Cafeteria,Network,1
+28-08-2026,Cafeteria,Classroom,3
+28-08-2026,Cafeteria,Electricity,0
+28-08-2026,Cafeteria,Maintenance,2
+28-08-2026,Cafeteria,Facilities,2
+28-08-2026,Main Stage Area,Network,1
+28-08-2026,Main Stage Area,Classroom,1
+28-08-2026,Main Stage Area,Electricity,2
+28-08-2026,Main Stage Area,Maintenance,0
+28-08-2026,Main Stage Area,Facilities,0
+28-08-2026,C Block Auditorium 1,Network,1
+28-08-2026,C Block Auditorium 1,Classroom,4
+28-08-2026,C Block Auditorium 1,Electricity,3
+28-08-2026,C Block Auditorium 1,Maintenance,2
+28-08-2026,C Block Auditorium 1,Facilities,0
+28-08-2026,C Block Auditorium 2,Network,0
+28-08-2026,C Block Auditorium 2,Classroom,1
+28-08-2026,C Block Auditorium 2,Electricity,2
+28-08-2026,C Block Auditorium 2,Maintenance,0
+28-08-2026,C Block Auditorium 2,Facilities,0
+28-08-2026,Cricket Nets,Network,0
+28-08-2026,Cricket Nets,Classroom,2
+28-08-2026,Cricket Nets,Electricity,1
+28-08-2026,Cricket Nets,Maintenance,1
+28-08-2026,Cricket Nets,Facilities,1
+28-08-2026,Basketball Court,Network,2
+28-08-2026,Basketball Court,Classroom,2
+28-08-2026,Basketball Court,Electricity,1
+28-08-2026,Basketball Court,Maintenance,1
+28-08-2026,Basketball Court,Facilities,0
+29-08-2026,AI Block,Network,1
+29-08-2026,AI Block,Classroom,1
+29-08-2026,AI Block,Electricity,3
+29-08-2026,AI Block,Maintenance,2
+29-08-2026,AI Block,Facilities,1
+29-08-2026,A Block,Network,1
+29-08-2026,A Block,Classroom,1
+29-08-2026,A Block,Electricity,1
+29-08-2026,A Block,Maintenance,2
+29-08-2026,A Block,Facilities,1
+29-08-2026,B Block,Network,0
+29-08-2026,B Block,Classroom,5
+29-08-2026,B Block,Electricity,1
+29-08-2026,B Block,Maintenance,3
+29-08-2026,B Block,Facilities,3
+29-08-2026,C Block,Network,0
+29-08-2026,C Block,Classroom,3
+29-08-2026,C Block,Electricity,0
+29-08-2026,C Block,Maintenance,3
+29-08-2026,C Block,Facilities,5
+29-08-2026,D Block,Network,2
+29-08-2026,D Block,Classroom,1
+29-08-2026,D Block,Electricity,1
+29-08-2026,D Block,Maintenance,2
+29-08-2026,D Block,Facilities,1
+29-08-2026,Cafeteria,Network,3
+29-08-2026,Cafeteria,Classroom,2
+29-08-2026,Cafeteria,Electricity,2
+29-08-2026,Cafeteria,Maintenance,3
+29-08-2026,Cafeteria,Facilities,3
+29-08-2026,Main Stage Area,Network,0
+29-08-2026,Main Stage Area,Classroom,1
+29-08-2026,Main Stage Area,Electricity,2
+29-08-2026,Main Stage Area,Maintenance,2
+29-08-2026,Main Stage Area,Facilities,1
+29-08-2026,C Block Auditorium 1,Network,1
+29-08-2026,C Block Auditorium 1,Classroom,1
+29-08-2026,C Block Auditorium 1,Electricity,0
+29-08-2026,C Block Auditorium 1,Maintenance,1
+29-08-2026,C Block Auditorium 1,Facilities,0
+29-08-2026,C Block Auditorium 2,Network,2
+29-08-2026,C Block Auditorium 2,Classroom,1
+29-08-2026,C Block Auditorium 2,Electricity,0
+29-08-2026,C Block Auditorium 2,Maintenance,1
+29-08-2026,C Block Auditorium 2,Facilities,0
+29-08-2026,Cricket Nets,Network,3
+29-08-2026,Cricket Nets,Classroom,0
+29-08-2026,Cricket Nets,Electricity,1
+29-08-2026,Cricket Nets,Maintenance,3
+29-08-2026,Cricket Nets,Facilities,0
+29-08-2026,Basketball Court,Network,1
+29-08-2026,Basketball Court,Classroom,0
+29-08-2026,Basketball Court,Electricity,1
+29-08-2026,Basketball Court,Maintenance,2
+29-08-2026,Basketball Court,Facilities,1
+30-08-2026,AI Block,Network,0
+30-08-2026,AI Block,Classroom,2
+30-08-2026,AI Block,Electricity,2
+30-08-2026,AI Block,Maintenance,5
+30-08-2026,AI Block,Facilities,3
+30-08-2026,A Block,Network,0
+30-08-2026,A Block,Classroom,3
+30-08-2026,A Block,Electricity,2
+30-08-2026,A Block,Maintenance,4
+30-08-2026,A Block,Facilities,1
+30-08-2026,B Block,Network,3
+30-08-2026,B Block,Classroom,1
+30-08-2026,B Block,Electricity,3
+30-08-2026,B Block,Maintenance,2
+30-08-2026,B Block,Facilities,0
+30-08-2026,C Block,Network,4
+30-08-2026,C Block,Classroom,1
+30-08-2026,C Block,Electricity,1
+30-08-2026,C Block,Maintenance,2
+30-08-2026,C Block,Facilities,0
+30-08-2026,D Block,Network,2
+30-08-2026,D Block,Classroom,4
+30-08-2026,D Block,Electricity,0
+30-08-2026,D Block,Maintenance,3
+30-08-2026,D Block,Facilities,2
+30-08-2026,Cafeteria,Network,0
+30-08-2026,Cafeteria,Classroom,2
+30-08-2026,Cafeteria,Electricity,1
+30-08-2026,Cafeteria,Maintenance,1
+30-08-2026,Cafeteria,Facilities,1
+30-08-2026,Main Stage Area,Network,1
+30-08-2026,Main Stage Area,Classroom,2
+30-08-2026,Main Stage Area,Electricity,1
+30-08-2026,Main Stage Area,Maintenance,0
+30-08-2026,Main Stage Area,Facilities,2
+30-08-2026,C Block Auditorium 1,Network,0
+30-08-2026,C Block Auditorium 1,Classroom,0
+30-08-2026,C Block Auditorium 1,Electricity,1
+30-08-2026,C Block Auditorium 1,Maintenance,2
+30-08-2026,C Block Auditorium 1,Facilities,2
+30-08-2026,C Block Auditorium 2,Network,0
+30-08-2026,C Block Auditorium 2,Classroom,2
+30-08-2026,C Block Auditorium 2,Electricity,1
+30-08-2026,C Block Auditorium 2,Maintenance,3
+30-08-2026,C Block Auditorium 2,Facilities,4
+30-08-2026,Cricket Nets,Network,0
+30-08-2026,Cricket Nets,Classroom,1
+30-08-2026,Cricket Nets,Electricity,2
+30-08-2026,Cricket Nets,Maintenance,0
+30-08-2026,Cricket Nets,Facilities,1
+30-08-2026,Basketball Court,Network,0
+30-08-2026,Basketball Court,Classroom,2
+30-08-2026,Basketball Court,Electricity,1
+30-08-2026,Basketball Court,Maintenance,1
+30-08-2026,Basketball Court,Facilities,0
+31-08-2026,AI Block,Network,3
+31-08-2026,AI Block,Classroom,1
+31-08-2026,AI Block,Electricity,2
+31-08-2026,AI Block,Maintenance,1
+31-08-2026,AI Block,Facilities,1
+31-08-2026,A Block,Network,0
+31-08-2026,A Block,Classroom,3
+31-08-2026,A Block,Electricity,1
+31-08-2026,A Block,Maintenance,3
+31-08-2026,A Block,Facilities,4
+31-08-2026,B Block,Network,4
+31-08-2026,B Block,Classroom,3
+31-08-2026,B Block,Electricity,2
+31-08-2026,B Block,Maintenance,4
+31-08-2026,B Block,Facilities,1
+31-08-2026,C Block,Network,2
+31-08-2026,C Block,Classroom,4
+31-08-2026,C Block,Electricity,1
+31-08-2026,C Block,Maintenance,3
+31-08-2026,C Block,Facilities,1
+31-08-2026,D Block,Network,2
+31-08-2026,D Block,Classroom,3
+31-08-2026,D Block,Electricity,3
+31-08-2026,D Block,Maintenance,1
+31-08-2026,D Block,Facilities,0
+31-08-2026,Cafeteria,Network,0
+31-08-2026,Cafeteria,Classroom,1
+31-08-2026,Cafeteria,Electricity,2
+31-08-2026,Cafeteria,Maintenance,3
+31-08-2026,Cafeteria,Facilities,1
+31-08-2026,Main Stage Area,Network,2
+31-08-2026,Main Stage Area,Classroom,2
+31-08-2026,Main Stage Area,Electricity,0
+31-08-2026,Main Stage Area,Maintenance,0
+31-08-2026,Main Stage Area,Facilities,1
+31-08-2026,C Block Auditorium 1,Network,4
+31-08-2026,C Block Auditorium 1,Classroom,2
+31-08-2026,C Block Auditorium 1,Electricity,3
+31-08-2026,C Block Auditorium 1,Maintenance,3
+31-08-2026,C Block Auditorium 1,Facilities,1
+31-08-2026,C Block Auditorium 2,Network,0
+31-08-2026,C Block Auditorium 2,Classroom,0
+31-08-2026,C Block Auditorium 2,Electricity,3
+31-08-2026,C Block Auditorium 2,Maintenance,0
+31-08-2026,C Block Auditorium 2,Facilities,2
+31-08-2026,Cricket Nets,Network,1
+31-08-2026,Cricket Nets,Classroom,2
+31-08-2026,Cricket Nets,Electricity,0
+31-08-2026,Cricket Nets,Maintenance,2
+31-08-2026,Cricket Nets,Facilities,1
+31-08-2026,Basketball Court,Network,0
+31-08-2026,Basketball Court,Classroom,1
+31-08-2026,Basketball Court,Electricity,1
+31-08-2026,Basketball Court,Maintenance,0
+31-08-2026,Basketball Court,Facilities,0
+01-09-2026,AI Block,Network,2
+01-09-2026,AI Block,Classroom,2
+01-09-2026,AI Block,Electricity,1
+01-09-2026,AI Block,Maintenance,2
+01-09-2026,AI Block,Facilities,3
+01-09-2026,A Block,Network,2
+01-09-2026,A Block,Classroom,3
+01-09-2026,A Block,Electricity,0
+01-09-2026,A Block,Maintenance,1
+01-09-2026,A Block,Facilities,1
+01-09-2026,B Block,Network,1
+01-09-2026,B Block,Classroom,2
+01-09-2026,B Block,Electricity,1
+01-09-2026,B Block,Maintenance,2
+01-09-2026,B Block,Facilities,3
+01-09-2026,C Block,Network,2
+01-09-2026,C Block,Classroom,2
+01-09-2026,C Block,Electricity,3
+01-09-2026,C Block,Maintenance,4
+01-09-2026,C Block,Facilities,2
+01-09-2026,D Block,Network,2
+01-09-2026,D Block,Classroom,2
+01-09-2026,D Block,Electricity,1
+01-09-2026,D Block,Maintenance,3
+01-09-2026,D Block,Facilities,1
+01-09-2026,Cafeteria,Network,4
+01-09-2026,Cafeteria,Classroom,3
+01-09-2026,Cafeteria,Electricity,2
+01-09-2026,Cafeteria,Maintenance,4
+01-09-2026,Cafeteria,Facilities,1
+01-09-2026,Main Stage Area,Network,0
+01-09-2026,Main Stage Area,Classroom,3
+01-09-2026,Main Stage Area,Electricity,0
+01-09-2026,Main Stage Area,Maintenance,1
+01-09-2026,Main Stage Area,Facilities,1
+01-09-2026,C Block Auditorium 1,Network,0
+01-09-2026,C Block Auditorium 1,Classroom,1
+01-09-2026,C Block Auditorium 1,Electricity,0
+01-09-2026,C Block Auditorium 1,Maintenance,2
+01-09-2026,C Block Auditorium 1,Facilities,2
+01-09-2026,C Block Auditorium 2,Network,3
+01-09-2026,C Block Auditorium 2,Classroom,2
+01-09-2026,C Block Auditorium 2,Electricity,1
+01-09-2026,C Block Auditorium 2,Maintenance,0
+01-09-2026,C Block Auditorium 2,Facilities,0
+01-09-2026,Cricket Nets,Network,0
+01-09-2026,Cricket Nets,Classroom,0
+01-09-2026,Cricket Nets,Electricity,0
+01-09-2026,Cricket Nets,Maintenance,1
+01-09-2026,Cricket Nets,Facilities,0
+01-09-2026,Basketball Court,Network,0
+01-09-2026,Basketball Court,Classroom,2
+01-09-2026,Basketball Court,Electricity,0
+01-09-2026,Basketball Court,Maintenance,0
+01-09-2026,Basketball Court,Facilities,1
+02-09-2026,AI Block,Network,2
+02-09-2026,AI Block,Classroom,0
+02-09-2026,AI Block,Electricity,0
+02-09-2026,AI Block,Maintenance,0
+02-09-2026,AI Block,Facilities,1
+02-09-2026,A Block,Network,2
+02-09-2026,A Block,Classroom,2
+02-09-2026,A Block,Electricity,0
+02-09-2026,A Block,Maintenance,2
+02-09-2026,A Block,Facilities,2
+02-09-2026,B Block,Network,2
+02-09-2026,B Block,Classroom,2
+02-09-2026,B Block,Electricity,2
+02-09-2026,B Block,Maintenance,0
+02-09-2026,B Block,Facilities,2
+02-09-2026,C Block,Network,2
+02-09-2026,C Block,Classroom,0
+02-09-2026,C Block,Electricity,3
+02-09-2026,C Block,Maintenance,1
+02-09-2026,C Block,Facilities,1
+02-09-2026,D Block,Network,5
+02-09-2026,D Block,Classroom,2
+02-09-2026,D Block,Electricity,2
+02-09-2026,D Block,Maintenance,0
+02-09-2026,D Block,Facilities,0
+02-09-2026,Cafeteria,Network,5
+02-09-2026,Cafeteria,Classroom,1
+02-09-2026,Cafeteria,Electricity,1
+02-09-2026,Cafeteria,Maintenance,1
+02-09-2026,Cafeteria,Facilities,0
+02-09-2026,Main Stage Area,Network,0
+02-09-2026,Main Stage Area,Classroom,3
+02-09-2026,Main Stage Area,Electricity,3
+02-09-2026,Main Stage Area,Maintenance,0
+02-09-2026,Main Stage Area,Facilities,1
+02-09-2026,C Block Auditorium 1,Network,2
+02-09-2026,C Block Auditorium 1,Classroom,2
+02-09-2026,C Block Auditorium 1,Electricity,0
+02-09-2026,C Block Auditorium 1,Maintenance,2
+02-09-2026,C Block Auditorium 1,Facilities,1
+02-09-2026,C Block Auditorium 2,Network,1
+02-09-2026,C Block Auditorium 2,Classroom,5
+02-09-2026,C Block Auditorium 2,Electricity,1
+02-09-2026,C Block Auditorium 2,Maintenance,0
+02-09-2026,C Block Auditorium 2,Facilities,1
+02-09-2026,Cricket Nets,Network,1
+02-09-2026,Cricket Nets,Classroom,1
+02-09-2026,Cricket Nets,Electricity,1
+02-09-2026,Cricket Nets,Maintenance,2
+02-09-2026,Cricket Nets,Facilities,1
+02-09-2026,Basketball Court,Network,1
+02-09-2026,Basketball Court,Classroom,1
+02-09-2026,Basketball Court,Electricity,3
+02-09-2026,Basketball Court,Maintenance,0
+02-09-2026,Basketball Court,Facilities,0
+03-09-2026,AI Block,Network,1
+03-09-2026,AI Block,Classroom,5
+03-09-2026,AI Block,Electricity,1
+03-09-2026,AI Block,Maintenance,2
+03-09-2026,AI Block,Facilities,1
+03-09-2026,A Block,Network,3
+03-09-2026,A Block,Classroom,5
+03-09-2026,A Block,Electricity,1
+03-09-2026,A Block,Maintenance,2
+03-09-2026,A Block,Facilities,2
+03-09-2026,B Block,Network,2
+03-09-2026,B Block,Classroom,2
+03-09-2026,B Block,Electricity,0
+03-09-2026,B Block,Maintenance,2
+03-09-2026,B Block,Facilities,1
+03-09-2026,C Block,Network,2
+03-09-2026,C Block,Classroom,2
+03-09-2026,C Block,Electricity,1
+03-09-2026,C Block,Maintenance,3
+03-09-2026,C Block,Facilities,1
+03-09-2026,D Block,Network,1
+03-09-2026,D Block,Classroom,3
+03-09-2026,D Block,Electricity,1
+03-09-2026,D Block,Maintenance,2
+03-09-2026,D Block,Facilities,3
+03-09-2026,Cafeteria,Network,2
+03-09-2026,Cafeteria,Classroom,5
+03-09-2026,Cafeteria,Electricity,1
+03-09-2026,Cafeteria,Maintenance,3
+03-09-2026,Cafeteria,Facilities,1
+03-09-2026,Main Stage Area,Network,1
+03-09-2026,Main Stage Area,Classroom,1
+03-09-2026,Main Stage Area,Electricity,0
+03-09-2026,Main Stage Area,Maintenance,0
+03-09-2026,Main Stage Area,Facilities,1
+03-09-2026,C Block Auditorium 1,Network,0
+03-09-2026,C Block Auditorium 1,Classroom,1
+03-09-2026,C Block Auditorium 1,Electricity,0
+03-09-2026,C Block Auditorium 1,Maintenance,0
+03-09-2026,C Block Auditorium 1,Facilities,2
+03-09-2026,C Block Auditorium 2,Network,3
+03-09-2026,C Block Auditorium 2,Classroom,2
+03-09-2026,C Block Auditorium 2,Electricity,1
+03-09-2026,C Block Auditorium 2,Maintenance,2
+03-09-2026,C Block Auditorium 2,Facilities,1
+03-09-2026,Cricket Nets,Network,1
+03-09-2026,Cricket Nets,Classroom,1
+03-09-2026,Cricket Nets,Electricity,0
+03-09-2026,Cricket Nets,Maintenance,1
+03-09-2026,Cricket Nets,Facilities,0
+03-09-2026,Basketball Court,Network,1
+03-09-2026,Basketball Court,Classroom,2
+03-09-2026,Basketball Court,Electricity,3
+03-09-2026,Basketball Court,Maintenance,0
+03-09-2026,Basketball Court,Facilities,1
+04-09-2026,AI Block,Network,2
+04-09-2026,AI Block,Classroom,0
+04-09-2026,AI Block,Electricity,0
+04-09-2026,AI Block,Maintenance,3
+04-09-2026,AI Block,Facilities,1
+04-09-2026,A Block,Network,1
+04-09-2026,A Block,Classroom,0
+04-09-2026,A Block,Electricity,0
+04-09-2026,A Block,Maintenance,0
+04-09-2026,A Block,Facilities,2
+04-09-2026,B Block,Network,1
+04-09-2026,B Block,Classroom,2
+04-09-2026,B Block,Electricity,0
+04-09-2026,B Block,Maintenance,2
+04-09-2026,B Block,Facilities,1
+04-09-2026,C Block,Network,2
+04-09-2026,C Block,Classroom,1
+04-09-2026,C Block,Electricity,1
+04-09-2026,C Block,Maintenance,3
+04-09-2026,C Block,Facilities,2
+04-09-2026,D Block,Network,2
+04-09-2026,D Block,Classroom,0
+04-09-2026,D Block,Electricity,3
+04-09-2026,D Block,Maintenance,1
+04-09-2026,D Block,Facilities,1
+04-09-2026,Cafeteria,Network,3
+04-09-2026,Cafeteria,Classroom,1
+04-09-2026,Cafeteria,Electricity,4
+04-09-2026,Cafeteria,Maintenance,2
+04-09-2026,Cafeteria,Facilities,0
+04-09-2026,Main Stage Area,Network,0
+04-09-2026,Main Stage Area,Classroom,3
+04-09-2026,Main Stage Area,Electricity,1
+04-09-2026,Main Stage Area,Maintenance,0
+04-09-2026,Main Stage Area,Facilities,0
+04-09-2026,C Block Auditorium 1,Network,0
+04-09-2026,C Block Auditorium 1,Classroom,1
+04-09-2026,C Block Auditorium 1,Electricity,1
+04-09-2026,C Block Auditorium 1,Maintenance,0
+04-09-2026,C Block Auditorium 1,Facilities,0
+04-09-2026,C Block Auditorium 2,Network,2
+04-09-2026,C Block Auditorium 2,Classroom,1
+04-09-2026,C Block Auditorium 2,Electricity,3
+04-09-2026,C Block Auditorium 2,Maintenance,1
+04-09-2026,C Block Auditorium 2,Facilities,5
+04-09-2026,Cricket Nets,Network,3
+04-09-2026,Cricket Nets,Classroom,0
+04-09-2026,Cricket Nets,Electricity,1
+04-09-2026,Cricket Nets,Maintenance,0
+04-09-2026,Cricket Nets,Facilities,2
+04-09-2026,Basketball Court,Network,2
+04-09-2026,Basketball Court,Classroom,2
+04-09-2026,Basketball Court,Electricity,0
+04-09-2026,Basketball Court,Maintenance,0
+04-09-2026,Basketball Court,Facilities,2
+05-09-2026,AI Block,Network,1
+05-09-2026,AI Block,Classroom,2
+05-09-2026,AI Block,Electricity,3
+05-09-2026,AI Block,Maintenance,1
+05-09-2026,AI Block,Facilities,0
+05-09-2026,A Block,Network,0
+05-09-2026,A Block,Classroom,2
+05-09-2026,A Block,Electricity,0
+05-09-2026,A Block,Maintenance,3
+05-09-2026,A Block,Facilities,1
+05-09-2026,B Block,Network,3
+05-09-2026,B Block,Classroom,3
+05-09-2026,B Block,Electricity,3
+05-09-2026,B Block,Maintenance,1
+05-09-2026,B Block,Facilities,0
+05-09-2026,C Block,Network,1
+05-09-2026,C Block,Classroom,2
+05-09-2026,C Block,Electricity,0
+05-09-2026,C Block,Maintenance,3
+05-09-2026,C Block,Facilities,4
+05-09-2026,D Block,Network,1
+05-09-2026,D Block,Classroom,2
+05-09-2026,D Block,Electricity,1
+05-09-2026,D Block,Maintenance,3
+05-09-2026,D Block,Facilities,1
+05-09-2026,Cafeteria,Network,1
+05-09-2026,Cafeteria,Classroom,3
+05-09-2026,Cafeteria,Electricity,1
+05-09-2026,Cafeteria,Maintenance,3
+05-09-2026,Cafeteria,Facilities,3
+05-09-2026,Main Stage Area,Network,1
+05-09-2026,Main Stage Area,Classroom,1
+05-09-2026,Main Stage Area,Electricity,1
+05-09-2026,Main Stage Area,Maintenance,2
+05-09-2026,Main Stage Area,Facilities,3
+05-09-2026,C Block Auditorium 1,Network,0
+05-09-2026,C Block Auditorium 1,Classroom,1
+05-09-2026,C Block Auditorium 1,Electricity,2
+05-09-2026,C Block Auditorium 1,Maintenance,4
+05-09-2026,C Block Auditorium 1,Facilities,0
+05-09-2026,C Block Auditorium 2,Network,2
+05-09-2026,C Block Auditorium 2,Classroom,2
+05-09-2026,C Block Auditorium 2,Electricity,4
+05-09-2026,C Block Auditorium 2,Maintenance,0
+05-09-2026,C Block Auditorium 2,Facilities,0
+05-09-2026,Cricket Nets,Network,1
+05-09-2026,Cricket Nets,Classroom,1
+05-09-2026,Cricket Nets,Electricity,0
+05-09-2026,Cricket Nets,Maintenance,2
+05-09-2026,Cricket Nets,Facilities,1
+05-09-2026,Basketball Court,Network,1
+05-09-2026,Basketball Court,Classroom,2
+05-09-2026,Basketball Court,Electricity,1
+05-09-2026,Basketball Court,Maintenance,0
+05-09-2026,Basketball Court,Facilities,2
+06-09-2026,AI Block,Network,2
+06-09-2026,AI Block,Classroom,1
+06-09-2026,AI Block,Electricity,0
+06-09-2026,AI Block,Maintenance,1
+06-09-2026,AI Block,Facilities,2
+06-09-2026,A Block,Network,0
+06-09-2026,A Block,Classroom,2
+06-09-2026,A Block,Electricity,0
+06-09-2026,A Block,Maintenance,2
+06-09-2026,A Block,Facilities,1
+06-09-2026,B Block,Network,1
+06-09-2026,B Block,Classroom,2
+06-09-2026,B Block,Electricity,1
+06-09-2026,B Block,Maintenance,1
+06-09-2026,B Block,Facilities,2
+06-09-2026,C Block,Network,3
+06-09-2026,C Block,Classroom,0
+06-09-2026,C Block,Electricity,4
+06-09-2026,C Block,Maintenance,2
+06-09-2026,C Block,Facilities,0
+06-09-2026,D Block,Network,3
+06-09-2026,D Block,Classroom,3
+06-09-2026,D Block,Electricity,3
+06-09-2026,D Block,Maintenance,3
+06-09-2026,D Block,Facilities,2
+06-09-2026,Cafeteria,Network,1
+06-09-2026,Cafeteria,Classroom,3
+06-09-2026,Cafeteria,Electricity,3
+06-09-2026,Cafeteria,Maintenance,1
+06-09-2026,Cafeteria,Facilities,1
+06-09-2026,Main Stage Area,Network,1
+06-09-2026,Main Stage Area,Classroom,1
+06-09-2026,Main Stage Area,Electricity,0
+06-09-2026,Main Stage Area,Maintenance,1
+06-09-2026,Main Stage Area,Facilities,1
+06-09-2026,C Block Auditorium 1,Network,0
+06-09-2026,C Block Auditorium 1,Classroom,1
+06-09-2026,C Block Auditorium 1,Electricity,1
+06-09-2026,C Block Auditorium 1,Maintenance,2
+06-09-2026,C Block Auditorium 1,Facilities,1
+06-09-2026,C Block Auditorium 2,Network,3
+06-09-2026,C Block Auditorium 2,Classroom,0
+06-09-2026,C Block Auditorium 2,Electricity,1
+06-09-2026,C Block Auditorium 2,Maintenance,0
+06-09-2026,C Block Auditorium 2,Facilities,1
+06-09-2026,Cricket Nets,Network,3
+06-09-2026,Cricket Nets,Classroom,2
+06-09-2026,Cricket Nets,Electricity,2
+06-09-2026,Cricket Nets,Maintenance,1
+06-09-2026,Cricket Nets,Facilities,1
+06-09-2026,Basketball Court,Network,1
+06-09-2026,Basketball Court,Classroom,0
+06-09-2026,Basketball Court,Electricity,1
+06-09-2026,Basketball Court,Maintenance,1
+06-09-2026,Basketball Court,Facilities,1
+07-09-2026,AI Block,Network,3
+07-09-2026,AI Block,Classroom,2
+07-09-2026,AI Block,Electricity,2
+07-09-2026,AI Block,Maintenance,3
+07-09-2026,AI Block,Facilities,2
+07-09-2026,A Block,Network,3
+07-09-2026,A Block,Classroom,3
+07-09-2026,A Block,Electricity,0
+07-09-2026,A Block,Maintenance,0
+07-09-2026,A Block,Facilities,0
+07-09-2026,B Block,Network,1
+07-09-2026,B Block,Classroom,3
+07-09-2026,B Block,Electricity,0
+07-09-2026,B Block,Maintenance,1
+07-09-2026,B Block,Facilities,3
+07-09-2026,C Block,Network,2
+07-09-2026,C Block,Classroom,1
+07-09-2026,C Block,Electricity,0
+07-09-2026,C Block,Maintenance,0
+07-09-2026,C Block,Facilities,0
+07-09-2026,D Block,Network,2
+07-09-2026,D Block,Classroom,5
+07-09-2026,D Block,Electricity,1
+07-09-2026,D Block,Maintenance,1
+07-09-2026,D Block,Facilities,0
+07-09-2026,Cafeteria,Network,0
+07-09-2026,Cafeteria,Classroom,2
+07-09-2026,Cafeteria,Electricity,1
+07-09-2026,Cafeteria,Maintenance,5
+07-09-2026,Cafeteria,Facilities,1
+07-09-2026,Main Stage Area,Network,0
+07-09-2026,Main Stage Area,Classroom,3
+07-09-2026,Main Stage Area,Electricity,1
+07-09-2026,Main Stage Area,Maintenance,1
+07-09-2026,Main Stage Area,Facilities,2
+07-09-2026,C Block Auditorium 1,Network,0
+07-09-2026,C Block Auditorium 1,Classroom,2
+07-09-2026,C Block Auditorium 1,Electricity,1
+07-09-2026,C Block Auditorium 1,Maintenance,1
+07-09-2026,C Block Auditorium 1,Facilities,2
+07-09-2026,C Block Auditorium 2,Network,2
+07-09-2026,C Block Auditorium 2,Classroom,2
+07-09-2026,C Block Auditorium 2,Electricity,0
+07-09-2026,C Block Auditorium 2,Maintenance,1
+07-09-2026,C Block Auditorium 2,Facilities,1
+07-09-2026,Cricket Nets,Network,0
+07-09-2026,Cricket Nets,Classroom,0
+07-09-2026,Cricket Nets,Electricity,4
+07-09-2026,Cricket Nets,Maintenance,1
+07-09-2026,Cricket Nets,Facilities,3
+07-09-2026,Basketball Court,Network,0
+07-09-2026,Basketball Court,Classroom,3
+07-09-2026,Basketball Court,Electricity,1
+07-09-2026,Basketball Court,Maintenance,2
+07-09-2026,Basketball Court,Facilities,1
+08-09-2026,AI Block,Network,2
+08-09-2026,AI Block,Classroom,1
+08-09-2026,AI Block,Electricity,1
+08-09-2026,AI Block,Maintenance,0
+08-09-2026,AI Block,Facilities,0
+08-09-2026,A Block,Network,2
+08-09-2026,A Block,Classroom,3
+08-09-2026,A Block,Electricity,0
+08-09-2026,A Block,Maintenance,2
+08-09-2026,A Block,Facilities,1
+08-09-2026,B Block,Network,3
+08-09-2026,B Block,Classroom,0
+08-09-2026,B Block,Electricity,0
+08-09-2026,B Block,Maintenance,1
+08-09-2026,B Block,Facilities,3
+08-09-2026,C Block,Network,12
+08-09-2026,C Block,Classroom,4
+08-09-2026,C Block,Electricity,1
+08-09-2026,C Block,Maintenance,0
+08-09-2026,C Block,Facilities,1
+08-09-2026,D Block,Network,1
+08-09-2026,D Block,Classroom,2
+08-09-2026,D Block,Electricity,0
+08-09-2026,D Block,Maintenance,2
+08-09-2026,D Block,Facilities,1
+08-09-2026,Cafeteria,Network,0
+08-09-2026,Cafeteria,Classroom,3
+08-09-2026,Cafeteria,Electricity,3
+08-09-2026,Cafeteria,Maintenance,2
+08-09-2026,Cafeteria,Facilities,2
+08-09-2026,Main Stage Area,Network,4
+08-09-2026,Main Stage Area,Classroom,0
+08-09-2026,Main Stage Area,Electricity,0
+08-09-2026,Main Stage Area,Maintenance,1
+08-09-2026,Main Stage Area,Facilities,1
+08-09-2026,C Block Auditorium 1,Network,1
+08-09-2026,C Block Auditorium 1,Classroom,1
+08-09-2026,C Block Auditorium 1,Electricity,1
+08-09-2026,C Block Auditorium 1,Maintenance,2
+08-09-2026,C Block Auditorium 1,Facilities,1
+08-09-2026,C Block Auditorium 2,Network,2
+08-09-2026,C Block Auditorium 2,Classroom,1
+08-09-2026,C Block Auditorium 2,Electricity,0
+08-09-2026,C Block Auditorium 2,Maintenance,2
+08-09-2026,C Block Auditorium 2,Facilities,1
+08-09-2026,Cricket Nets,Network,1
+08-09-2026,Cricket Nets,Classroom,2
+08-09-2026,Cricket Nets,Electricity,1
+08-09-2026,Cricket Nets,Maintenance,0
+08-09-2026,Cricket Nets,Facilities,2
+08-09-2026,Basketball Court,Network,0
+08-09-2026,Basketball Court,Classroom,0
+08-09-2026,Basketball Court,Electricity,2
+08-09-2026,Basketball Court,Maintenance,3
+08-09-2026,Basketball Court,Facilities,0
+09-09-2026,AI Block,Network,1
+09-09-2026,AI Block,Classroom,2
+09-09-2026,AI Block,Electricity,1
+09-09-2026,AI Block,Maintenance,1
+09-09-2026,AI Block,Facilities,3
+09-09-2026,A Block,Network,2
+09-09-2026,A Block,Classroom,3
+09-09-2026,A Block,Electricity,0
+09-09-2026,A Block,Maintenance,2
+09-09-2026,A Block,Facilities,2
+09-09-2026,B Block,Network,1
+09-09-2026,B Block,Classroom,2
+09-09-2026,B Block,Electricity,1
+09-09-2026,B Block,Maintenance,1
+09-09-2026,B Block,Facilities,4
+09-09-2026,C Block,Network,11
+09-09-2026,C Block,Classroom,2
+09-09-2026,C Block,Electricity,1
+09-09-2026,C Block,Maintenance,0
+09-09-2026,C Block,Facilities,2
+09-09-2026,D Block,Network,2
+09-09-2026,D Block,Classroom,2
+09-09-2026,D Block,Electricity,2
+09-09-2026,D Block,Maintenance,2
+09-09-2026,D Block,Facilities,2
+09-09-2026,Cafeteria,Network,0
+09-09-2026,Cafeteria,Classroom,1
+09-09-2026,Cafeteria,Electricity,1
+09-09-2026,Cafeteria,Maintenance,8
+09-09-2026,Cafeteria,Facilities,3
+09-09-2026,Main Stage Area,Network,0
+09-09-2026,Main Stage Area,Classroom,1
+09-09-2026,Main Stage Area,Electricity,0
+09-09-2026,Main Stage Area,Maintenance,1
+09-09-2026,Main Stage Area,Facilities,3
+09-09-2026,C Block Auditorium 1,Network,1
+09-09-2026,C Block Auditorium 1,Classroom,2
+09-09-2026,C Block Auditorium 1,Electricity,0
+09-09-2026,C Block Auditorium 1,Maintenance,1
+09-09-2026,C Block Auditorium 1,Facilities,0
+09-09-2026,C Block Auditorium 2,Network,0
+09-09-2026,C Block Auditorium 2,Classroom,0
+09-09-2026,C Block Auditorium 2,Electricity,1
+09-09-2026,C Block Auditorium 2,Maintenance,1
+09-09-2026,C Block Auditorium 2,Facilities,1
+09-09-2026,Cricket Nets,Network,1
+09-09-2026,Cricket Nets,Classroom,1
+09-09-2026,Cricket Nets,Electricity,2
+09-09-2026,Cricket Nets,Maintenance,1
+09-09-2026,Cricket Nets,Facilities,0
+09-09-2026,Basketball Court,Network,0
+09-09-2026,Basketball Court,Classroom,0
+09-09-2026,Basketball Court,Electricity,0
+09-09-2026,Basketball Court,Maintenance,2
+09-09-2026,Basketball Court,Facilities,1
+10-09-2026,AI Block,Network,1
+10-09-2026,AI Block,Classroom,1
+10-09-2026,AI Block,Electricity,1
+10-09-2026,AI Block,Maintenance,3
+10-09-2026,AI Block,Facilities,1
+10-09-2026,A Block,Network,2
+10-09-2026,A Block,Classroom,1
+10-09-2026,A Block,Electricity,4
+10-09-2026,A Block,Maintenance,1
+10-09-2026,A Block,Facilities,1
+10-09-2026,B Block,Network,3
+10-09-2026,B Block,Classroom,1
+10-09-2026,B Block,Electricity,3
+10-09-2026,B Block,Maintenance,1
+10-09-2026,B Block,Facilities,3
+10-09-2026,C Block,Network,10
+10-09-2026,C Block,Classroom,3
+10-09-2026,C Block,Electricity,2
+10-09-2026,C Block,Maintenance,3
+10-09-2026,C Block,Facilities,4
+10-09-2026,D Block,Network,2
+10-09-2026,D Block,Classroom,4
+10-09-2026,D Block,Electricity,4
+10-09-2026,D Block,Maintenance,3
+10-09-2026,D Block,Facilities,0
+10-09-2026,Cafeteria,Network,1
+10-09-2026,Cafeteria,Classroom,6
+10-09-2026,Cafeteria,Electricity,2
+10-09-2026,Cafeteria,Maintenance,4
+10-09-2026,Cafeteria,Facilities,1
+10-09-2026,Main Stage Area,Network,0
+10-09-2026,Main Stage Area,Classroom,3
+10-09-2026,Main Stage Area,Electricity,1
+10-09-2026,Main Stage Area,Maintenance,2
+10-09-2026,Main Stage Area,Facilities,0
+10-09-2026,C Block Auditorium 1,Network,0
+10-09-2026,C Block Auditorium 1,Classroom,1
+10-09-2026,C Block Auditorium 1,Electricity,2
+10-09-2026,C Block Auditorium 1,Maintenance,5
+10-09-2026,C Block Auditorium 1,Facilities,0
+10-09-2026,C Block Auditorium 2,Network,3
+10-09-2026,C Block Auditorium 2,Classroom,1
+10-09-2026,C Block Auditorium 2,Electricity,1
+10-09-2026,C Block Auditorium 2,Maintenance,2
+10-09-2026,C Block Auditorium 2,Facilities,2
+10-09-2026,Cricket Nets,Network,1
+10-09-2026,Cricket Nets,Classroom,2
+10-09-2026,Cricket Nets,Electricity,0
+10-09-2026,Cricket Nets,Maintenance,1
+10-09-2026,Cricket Nets,Facilities,1
+10-09-2026,Basketball Court,Network,2
+10-09-2026,Basketball Court,Classroom,4
+10-09-2026,Basketball Court,Electricity,0
+10-09-2026,Basketball Court,Maintenance,0
+10-09-2026,Basketball Court,Facilities,1
+11-09-2026,AI Block,Network,1
+11-09-2026,AI Block,Classroom,4
+11-09-2026,AI Block,Electricity,1
+11-09-2026,AI Block,Maintenance,1
+11-09-2026,AI Block,Facilities,2
+11-09-2026,A Block,Network,3
+11-09-2026,A Block,Classroom,2
+11-09-2026,A Block,Electricity,1
+11-09-2026,A Block,Maintenance,2
+11-09-2026,A Block,Facilities,1
+11-09-2026,B Block,Network,1
+11-09-2026,B Block,Classroom,1
+11-09-2026,B Block,Electricity,0
+11-09-2026,B Block,Maintenance,3
+11-09-2026,B Block,Facilities,1
+11-09-2026,C Block,Network,10
+11-09-2026,C Block,Classroom,6
+11-09-2026,C Block,Electricity,0
+11-09-2026,C Block,Maintenance,1
+11-09-2026,C Block,Facilities,1
+11-09-2026,D Block,Network,4
+11-09-2026,D Block,Classroom,3
+11-09-2026,D Block,Electricity,3
+11-09-2026,D Block,Maintenance,2
+11-09-2026,D Block,Facilities,0
+11-09-2026,Cafeteria,Network,3
+11-09-2026,Cafeteria,Classroom,2
+11-09-2026,Cafeteria,Electricity,1
+11-09-2026,Cafeteria,Maintenance,5
+11-09-2026,Cafeteria,Facilities,1
+11-09-2026,Main Stage Area,Network,1
+11-09-2026,Main Stage Area,Classroom,2
+11-09-2026,Main Stage Area,Electricity,0
+11-09-2026,Main Stage Area,Maintenance,1
+11-09-2026,Main Stage Area,Facilities,2
+11-09-2026,C Block Auditorium 1,Network,0
+11-09-2026,C Block Auditorium 1,Classroom,4
+11-09-2026,C Block Auditorium 1,Electricity,1
+11-09-2026,C Block Auditorium 1,Maintenance,3
+11-09-2026,C Block Auditorium 1,Facilities,2
+11-09-2026,C Block Auditorium 2,Network,0
+11-09-2026,C Block Auditorium 2,Classroom,0
+11-09-2026,C Block Auditorium 2,Electricity,0
+11-09-2026,C Block Auditorium 2,Maintenance,2
+11-09-2026,C Block Auditorium 2,Facilities,1
+11-09-2026,Cricket Nets,Network,2
+11-09-2026,Cricket Nets,Classroom,3
+11-09-2026,Cricket Nets,Electricity,2
+11-09-2026,Cricket Nets,Maintenance,1
+11-09-2026,Cricket Nets,Facilities,1
+11-09-2026,Basketball Court,Network,0
+11-09-2026,Basketball Court,Classroom,2
+11-09-2026,Basketball Court,Electricity,3
+11-09-2026,Basketball Court,Maintenance,2
+11-09-2026,Basketball Court,Facilities,5
+12-09-2026,AI Block,Network,1
+12-09-2026,AI Block,Classroom,3
+12-09-2026,AI Block,Electricity,0
+12-09-2026,AI Block,Maintenance,0
+12-09-2026,AI Block,Facilities,3
+12-09-2026,A Block,Network,1
+12-09-2026,A Block,Classroom,2
+12-09-2026,A Block,Electricity,2
+12-09-2026,A Block,Maintenance,2
+12-09-2026,A Block,Facilities,0
+12-09-2026,B Block,Network,2
+12-09-2026,B Block,Classroom,3
+12-09-2026,B Block,Electricity,1
+12-09-2026,B Block,Maintenance,4
+12-09-2026,B Block,Facilities,4
+12-09-2026,C Block,Network,11
+12-09-2026,C Block,Classroom,2
+12-09-2026,C Block,Electricity,1
+12-09-2026,C Block,Maintenance,0
+12-09-2026,C Block,Facilities,2
+12-09-2026,D Block,Network,1
+12-09-2026,D Block,Classroom,1
+12-09-2026,D Block,Electricity,0
+12-09-2026,D Block,Maintenance,4
+12-09-2026,D Block,Facilities,1
+12-09-2026,Cafeteria,Network,1
+12-09-2026,Cafeteria,Classroom,2
+12-09-2026,Cafeteria,Electricity,5
+12-09-2026,Cafeteria,Maintenance,4
+12-09-2026,Cafeteria,Facilities,2
+12-09-2026,Main Stage Area,Network,1
+12-09-2026,Main Stage Area,Classroom,3
+12-09-2026,Main Stage Area,Electricity,1
+12-09-2026,Main Stage Area,Maintenance,2
+12-09-2026,Main Stage Area,Facilities,2
+12-09-2026,C Block Auditorium 1,Network,0
+12-09-2026,C Block Auditorium 1,Classroom,1
+12-09-2026,C Block Auditorium 1,Electricity,0
+12-09-2026,C Block Auditorium 1,Maintenance,3
+12-09-2026,C Block Auditorium 1,Facilities,2
+12-09-2026,C Block Auditorium 2,Network,1
+12-09-2026,C Block Auditorium 2,Classroom,1
+12-09-2026,C Block Auditorium 2,Electricity,2
+12-09-2026,C Block Auditorium 2,Maintenance,2
+12-09-2026,C Block Auditorium 2,Facilities,0
+12-09-2026,Cricket Nets,Network,0
+12-09-2026,Cricket Nets,Classroom,1
+12-09-2026,Cricket Nets,Electricity,0
+12-09-2026,Cricket Nets,Maintenance,2
+12-09-2026,Cricket Nets,Facilities,0
+12-09-2026,Basketball Court,Network,1
+12-09-2026,Basketball Court,Classroom,2
+12-09-2026,Basketball Court,Electricity,0
+12-09-2026,Basketball Court,Maintenance,0
+12-09-2026,Basketball Court,Facilities,1
+13-09-2026,AI Block,Network,2
+13-09-2026,AI Block,Classroom,1
+13-09-2026,AI Block,Electricity,1
+13-09-2026,AI Block,Maintenance,2
+13-09-2026,AI Block,Facilities,1
+13-09-2026,A Block,Network,2
+13-09-2026,A Block,Classroom,1
+13-09-2026,A Block,Electricity,0
+13-09-2026,A Block,Maintenance,5
+13-09-2026,A Block,Facilities,1
+13-09-2026,B Block,Network,2
+13-09-2026,B Block,Classroom,3
+13-09-2026,B Block,Electricity,2
+13-09-2026,B Block,Maintenance,2
+13-09-2026,B Block,Facilities,2
+13-09-2026,C Block,Network,14
+13-09-2026,C Block,Classroom,0
+13-09-2026,C Block,Electricity,1
+13-09-2026,C Block,Maintenance,4
+13-09-2026,C Block,Facilities,0
+13-09-2026,D Block,Network,3
+13-09-2026,D Block,Classroom,0
+13-09-2026,D Block,Electricity,0
+13-09-2026,D Block,Maintenance,2
+13-09-2026,D Block,Facilities,2
+13-09-2026,Cafeteria,Network,2
+13-09-2026,Cafeteria,Classroom,2
+13-09-2026,Cafeteria,Electricity,2
+13-09-2026,Cafeteria,Maintenance,4
+13-09-2026,Cafeteria,Facilities,3
+13-09-2026,Main Stage Area,Network,2
+13-09-2026,Main Stage Area,Classroom,0
+13-09-2026,Main Stage Area,Electricity,1
+13-09-2026,Main Stage Area,Maintenance,0
+13-09-2026,Main Stage Area,Facilities,1
+13-09-2026,C Block Auditorium 1,Network,0
+13-09-2026,C Block Auditorium 1,Classroom,4
+13-09-2026,C Block Auditorium 1,Electricity,0
+13-09-2026,C Block Auditorium 1,Maintenance,1
+13-09-2026,C Block Auditorium 1,Facilities,1
+13-09-2026,C Block Auditorium 2,Network,1
+13-09-2026,C Block Auditorium 2,Classroom,5
+13-09-2026,C Block Auditorium 2,Electricity,0
+13-09-2026,C Block Auditorium 2,Maintenance,0
+13-09-2026,C Block Auditorium 2,Facilities,0
+13-09-2026,Cricket Nets,Network,0
+13-09-2026,Cricket Nets,Classroom,0
+13-09-2026,Cricket Nets,Electricity,1
+13-09-2026,Cricket Nets,Maintenance,0
+13-09-2026,Cricket Nets,Facilities,0
+13-09-2026,Basketball Court,Network,2
+13-09-2026,Basketball Court,Classroom,1
+13-09-2026,Basketball Court,Electricity,0
+13-09-2026,Basketball Court,Maintenance,3
+13-09-2026,Basketball Court,Facilities,2
+14-09-2026,AI Block,Network,3
+14-09-2026,AI Block,Classroom,2
+14-09-2026,AI Block,Electricity,0
+14-09-2026,AI Block,Maintenance,0
+14-09-2026,AI Block,Facilities,0
+14-09-2026,A Block,Network,0
+14-09-2026,A Block,Classroom,2
+14-09-2026,A Block,Electricity,2
+14-09-2026,A Block,Maintenance,3
+14-09-2026,A Block,Facilities,3
+14-09-2026,B Block,Network,3
+14-09-2026,B Block,Classroom,0
+14-09-2026,B Block,Electricity,3
+14-09-2026,B Block,Maintenance,1
+14-09-2026,B Block,Facilities,4
+14-09-2026,C Block,Network,10
+14-09-2026,C Block,Classroom,0
+14-09-2026,C Block,Electricity,1
+14-09-2026,C Block,Maintenance,2
+14-09-2026,C Block,Facilities,0
+14-09-2026,D Block,Network,1
+14-09-2026,D Block,Classroom,5
+14-09-2026,D Block,Electricity,1
+14-09-2026,D Block,Maintenance,4
+14-09-2026,D Block,Facilities,1
+14-09-2026,Cafeteria,Network,1
+14-09-2026,Cafeteria,Classroom,2
+14-09-2026,Cafeteria,Electricity,2
+14-09-2026,Cafeteria,Maintenance,3
+14-09-2026,Cafeteria,Facilities,1
+14-09-2026,Main Stage Area,Network,1
+14-09-2026,Main Stage Area,Classroom,0
+14-09-2026,Main Stage Area,Electricity,1
+14-09-2026,Main Stage Area,Maintenance,2
+14-09-2026,Main Stage Area,Facilities,2
+14-09-2026,C Block Auditorium 1,Network,0
+14-09-2026,C Block Auditorium 1,Classroom,0
+14-09-2026,C Block Auditorium 1,Electricity,2
+14-09-2026,C Block Auditorium 1,Maintenance,3
+14-09-2026,C Block Auditorium 1,Facilities,2
+14-09-2026,C Block Auditorium 2,Network,1
+14-09-2026,C Block Auditorium 2,Classroom,0
+14-09-2026,C Block Auditorium 2,Electricity,1
+14-09-2026,C Block Auditorium 2,Maintenance,1
+14-09-2026,C Block Auditorium 2,Facilities,1
+14-09-2026,Cricket Nets,Network,1
+14-09-2026,Cricket Nets,Classroom,1
+14-09-2026,Cricket Nets,Electricity,4
+14-09-2026,Cricket Nets,Maintenance,0
+14-09-2026,Cricket Nets,Facilities,1
+14-09-2026,Basketball Court,Network,0
+14-09-2026,Basketball Court,Classroom,2
+14-09-2026,Basketball Court,Electricity,1
+14-09-2026,Basketball Court,Maintenance,0
+14-09-2026,Basketball Court,Facilities,1
+15-09-2026,AI Block,Network,0
+15-09-2026,AI Block,Classroom,3
+15-09-2026,AI Block,Electricity,1
+15-09-2026,AI Block,Maintenance,4
+15-09-2026,AI Block,Facilities,2
+15-09-2026,A Block,Network,4
+15-09-2026,A Block,Classroom,2
+15-09-2026,A Block,Electricity,1
+15-09-2026,A Block,Maintenance,2
+15-09-2026,A Block,Facilities,2
+15-09-2026,B Block,Network,2
+15-09-2026,B Block,Classroom,3
+15-09-2026,B Block,Electricity,1
+15-09-2026,B Block,Maintenance,2
+15-09-2026,B Block,Facilities,2
+15-09-2026,C Block,Network,12
+15-09-2026,C Block,Classroom,3
+15-09-2026,C Block,Electricity,2
+15-09-2026,C Block,Maintenance,0
+15-09-2026,C Block,Facilities,0
+15-09-2026,D Block,Network,1
+15-09-2026,D Block,Classroom,1
+15-09-2026,D Block,Electricity,2
+15-09-2026,D Block,Maintenance,1
+15-09-2026,D Block,Facilities,1
+15-09-2026,Cafeteria,Network,1
+15-09-2026,Cafeteria,Classroom,3
+15-09-2026,Cafeteria,Electricity,1
+15-09-2026,Cafeteria,Maintenance,2
+15-09-2026,Cafeteria,Facilities,0
+15-09-2026,Main Stage Area,Network,0
+15-09-2026,Main Stage Area,Classroom,0
+15-09-2026,Main Stage Area,Electricity,0
+15-09-2026,Main Stage Area,Maintenance,1
+15-09-2026,Main Stage Area,Facilities,0
+15-09-2026,C Block Auditorium 1,Network,2
+15-09-2026,C Block Auditorium 1,Classroom,1
+15-09-2026,C Block Auditorium 1,Electricity,3
+15-09-2026,C Block Auditorium 1,Maintenance,4
+15-09-2026,C Block Auditorium 1,Facilities,0
+15-09-2026,C Block Auditorium 2,Network,1
+15-09-2026,C Block Auditorium 2,Classroom,2
+15-09-2026,C Block Auditorium 2,Electricity,0
+15-09-2026,C Block Auditorium 2,Maintenance,2
+15-09-2026,C Block Auditorium 2,Facilities,2
+15-09-2026,Cricket Nets,Network,2
+15-09-2026,Cricket Nets,Classroom,1
+15-09-2026,Cricket Nets,Electricity,1
+15-09-2026,Cricket Nets,Maintenance,2
+15-09-2026,Cricket Nets,Facilities,1
+15-09-2026,Basketball Court,Network,1
+15-09-2026,Basketball Court,Classroom,2
+15-09-2026,Basketball Court,Electricity,0
+15-09-2026,Basketball Court,Maintenance,2
+15-09-2026,Basketball Court,Facilities,0

@@ -1,0 +1,991 @@
+date,location,period,total_students,present_students,attendance_percentage
+17-08-2026,AI Block,Morning,180,159,88.09
+17-08-2026,AI Block,Afternoon,180,151,83.7
+17-08-2026,AI Block,Evening,180,147,81.42
+17-08-2026,A Block,Morning,220,194,88.35
+17-08-2026,A Block,Afternoon,220,179,81.48
+17-08-2026,A Block,Evening,220,170,77.48
+17-08-2026,B Block,Morning,210,184,87.47
+17-08-2026,B Block,Afternoon,210,174,82.69
+17-08-2026,B Block,Evening,210,160,75.97
+17-08-2026,C Block,Morning,200,174,87.19
+17-08-2026,C Block,Afternoon,200,164,81.98
+17-08-2026,C Block,Evening,200,156,77.98
+17-08-2026,D Block,Morning,160,127,79.53
+17-08-2026,D Block,Afternoon,160,115,71.79
+17-08-2026,D Block,Evening,160,109,68.21
+17-08-2026,Cafeteria,Morning,120,86,71.76
+17-08-2026,Cafeteria,Afternoon,120,81,67.77
+17-08-2026,Cafeteria,Evening,120,80,66.69
+17-08-2026,Main Stage Area,Morning,100,66,66
+17-08-2026,Main Stage Area,Afternoon,100,62,61.89
+17-08-2026,Main Stage Area,Evening,100,64,64.22
+17-08-2026,C Block Auditorium 1,Morning,150,112,74.5
+17-08-2026,C Block Auditorium 1,Afternoon,150,108,72.15
+17-08-2026,C Block Auditorium 1,Evening,150,97,64.87
+17-08-2026,C Block Auditorium 2,Morning,150,111,73.8
+17-08-2026,C Block Auditorium 2,Afternoon,150,108,72.24
+17-08-2026,C Block Auditorium 2,Evening,150,98,65.47
+17-08-2026,Cricket Nets,Morning,60,43,71.83
+17-08-2026,Cricket Nets,Afternoon,60,40,66.68
+17-08-2026,Cricket Nets,Evening,60,38,63.36
+17-08-2026,Basketball Court,Morning,80,57,71.68
+17-08-2026,Basketball Court,Afternoon,80,59,74.08
+17-08-2026,Basketball Court,Evening,80,53,65.97
+18-08-2026,AI Block,Morning,180,152,84.67
+18-08-2026,AI Block,Afternoon,180,154,85.81
+18-08-2026,AI Block,Evening,180,139,77.31
+18-08-2026,A Block,Morning,220,188,85.46
+18-08-2026,A Block,Afternoon,220,171,77.69
+18-08-2026,A Block,Evening,220,165,75.08
+18-08-2026,B Block,Morning,210,177,84.43
+18-08-2026,B Block,Afternoon,210,174,82.62
+18-08-2026,B Block,Evening,210,162,77.38
+18-08-2026,C Block,Morning,200,171,85.75
+18-08-2026,C Block,Afternoon,200,165,82.34
+18-08-2026,C Block,Evening,200,151,75.75
+18-08-2026,D Block,Morning,160,124,77.42
+18-08-2026,D Block,Afternoon,160,120,74.99
+18-08-2026,D Block,Evening,160,119,74.33
+18-08-2026,Cafeteria,Morning,120,89,73.76
+18-08-2026,Cafeteria,Afternoon,120,79,66.12
+18-08-2026,Cafeteria,Evening,120,80,66.71
+18-08-2026,Main Stage Area,Morning,100,67,67.15
+18-08-2026,Main Stage Area,Afternoon,100,64,63.51
+18-08-2026,Main Stage Area,Evening,100,62,62.35
+18-08-2026,C Block Auditorium 1,Morning,150,116,77.27
+18-08-2026,C Block Auditorium 1,Afternoon,150,111,74.05
+18-08-2026,C Block Auditorium 1,Evening,150,99,66.15
+18-08-2026,C Block Auditorium 2,Morning,150,111,74.32
+18-08-2026,C Block Auditorium 2,Afternoon,150,109,72.73
+18-08-2026,C Block Auditorium 2,Evening,150,105,70.15
+18-08-2026,Cricket Nets,Morning,60,42,69.95
+18-08-2026,Cricket Nets,Afternoon,60,41,67.59
+18-08-2026,Cricket Nets,Evening,60,37,61.57
+18-08-2026,Basketball Court,Morning,80,56,70.37
+18-08-2026,Basketball Court,Afternoon,80,57,71.79
+18-08-2026,Basketball Court,Evening,80,55,68.98
+19-08-2026,AI Block,Morning,180,156,86.84
+19-08-2026,AI Block,Afternoon,180,155,86.21
+19-08-2026,AI Block,Evening,180,145,80.8
+19-08-2026,A Block,Morning,220,184,83.58
+19-08-2026,A Block,Afternoon,220,182,82.8
+19-08-2026,A Block,Evening,220,179,81.38
+19-08-2026,B Block,Morning,210,176,83.92
+19-08-2026,B Block,Afternoon,210,177,84.44
+19-08-2026,B Block,Evening,210,150,71.24
+19-08-2026,C Block,Morning,200,176,87.81
+19-08-2026,C Block,Afternoon,200,166,83.19
+19-08-2026,C Block,Evening,200,157,78.34
+19-08-2026,D Block,Morning,160,127,79.2
+19-08-2026,D Block,Afternoon,160,115,71.63
+19-08-2026,D Block,Evening,160,114,71.52
+19-08-2026,Cafeteria,Morning,120,89,73.79
+19-08-2026,Cafeteria,Afternoon,120,88,73.25
+19-08-2026,Cafeteria,Evening,120,78,64.86
+19-08-2026,Main Stage Area,Morning,100,66,66.22
+19-08-2026,Main Stage Area,Afternoon,100,64,63.9
+19-08-2026,Main Stage Area,Evening,100,63,63.01
+19-08-2026,C Block Auditorium 1,Morning,150,114,75.72
+19-08-2026,C Block Auditorium 1,Afternoon,150,106,70.83
+19-08-2026,C Block Auditorium 1,Evening,150,104,69.13
+19-08-2026,C Block Auditorium 2,Morning,150,113,75.21
+19-08-2026,C Block Auditorium 2,Afternoon,150,111,74.13
+19-08-2026,C Block Auditorium 2,Evening,150,100,66.46
+19-08-2026,Cricket Nets,Morning,60,42,70.28
+19-08-2026,Cricket Nets,Afternoon,60,40,67.14
+19-08-2026,Cricket Nets,Evening,60,36,60.78
+19-08-2026,Basketball Court,Morning,80,59,73.65
+19-08-2026,Basketball Court,Afternoon,80,56,70.57
+19-08-2026,Basketball Court,Evening,80,53,66.01
+20-08-2026,AI Block,Morning,180,156,86.48
+20-08-2026,AI Block,Afternoon,180,146,80.89
+20-08-2026,AI Block,Evening,180,142,79.07
+20-08-2026,A Block,Morning,220,185,84.25
+20-08-2026,A Block,Afternoon,220,177,80.23
+20-08-2026,A Block,Evening,220,171,77.65
+20-08-2026,B Block,Morning,210,178,84.89
+20-08-2026,B Block,Afternoon,210,179,85.15
+20-08-2026,B Block,Evening,210,163,77.38
+20-08-2026,C Block,Morning,200,173,86.57
+20-08-2026,C Block,Afternoon,200,166,82.84
+20-08-2026,C Block,Evening,200,150,74.78
+20-08-2026,D Block,Morning,160,126,78.94
+20-08-2026,D Block,Afternoon,160,122,76.13
+20-08-2026,D Block,Evening,160,124,77.42
+20-08-2026,Cafeteria,Morning,120,87,72.58
+20-08-2026,Cafeteria,Afternoon,120,85,70.66
+20-08-2026,Cafeteria,Evening,120,79,65.92
+20-08-2026,Main Stage Area,Morning,100,65,65.43
+20-08-2026,Main Stage Area,Afternoon,100,68,67.51
+20-08-2026,Main Stage Area,Evening,100,63,62.65
+20-08-2026,C Block Auditorium 1,Morning,150,115,76.74
+20-08-2026,C Block Auditorium 1,Afternoon,150,105,70
+20-08-2026,C Block Auditorium 1,Evening,150,107,71.09
+20-08-2026,C Block Auditorium 2,Morning,150,108,71.92
+20-08-2026,C Block Auditorium 2,Afternoon,150,110,73.29
+20-08-2026,C Block Auditorium 2,Evening,150,109,72.82
+20-08-2026,Cricket Nets,Morning,60,41,68.82
+20-08-2026,Cricket Nets,Afternoon,60,40,66.75
+20-08-2026,Cricket Nets,Evening,60,39,64.22
+20-08-2026,Basketball Court,Morning,80,58,71.89
+20-08-2026,Basketball Court,Afternoon,80,53,66.59
+20-08-2026,Basketball Court,Evening,80,53,66.15
+21-08-2026,AI Block,Morning,180,152,84.66
+21-08-2026,AI Block,Afternoon,180,153,85.04
+21-08-2026,AI Block,Evening,180,140,77.98
+21-08-2026,A Block,Morning,220,195,88.41
+21-08-2026,A Block,Afternoon,220,177,80.28
+21-08-2026,A Block,Evening,220,170,77.29
+21-08-2026,B Block,Morning,210,180,85.79
+21-08-2026,B Block,Afternoon,210,164,78.29
+21-08-2026,B Block,Evening,210,163,77.5
+21-08-2026,C Block,Morning,200,178,88.88
+21-08-2026,C Block,Afternoon,200,159,79.46
+21-08-2026,C Block,Evening,200,159,79.41
+21-08-2026,D Block,Morning,160,127,79.57
+21-08-2026,D Block,Afternoon,160,124,77.72
+21-08-2026,D Block,Evening,160,111,69.28
+21-08-2026,Cafeteria,Morning,120,84,70.09
+21-08-2026,Cafeteria,Afternoon,120,85,71.15
+21-08-2026,Cafeteria,Evening,120,80,66.65
+21-08-2026,Main Stage Area,Morning,100,69,68.55
+21-08-2026,Main Stage Area,Afternoon,100,66,65.76
+21-08-2026,Main Stage Area,Evening,100,60,59.5
+21-08-2026,C Block Auditorium 1,Morning,150,113,75.51
+21-08-2026,C Block Auditorium 1,Afternoon,150,109,72.64
+21-08-2026,C Block Auditorium 1,Evening,150,100,66.43
+21-08-2026,C Block Auditorium 2,Morning,150,119,79.1
+21-08-2026,C Block Auditorium 2,Afternoon,150,110,73.04
+21-08-2026,C Block Auditorium 2,Evening,150,98,65.38
+21-08-2026,Cricket Nets,Morning,60,43,72.44
+21-08-2026,Cricket Nets,Afternoon,60,40,65.86
+21-08-2026,Cricket Nets,Evening,60,39,65.73
+21-08-2026,Basketball Court,Morning,80,60,75.55
+21-08-2026,Basketball Court,Afternoon,80,55,68.19
+21-08-2026,Basketball Court,Evening,80,54,68.12
+22-08-2026,AI Block,Morning,180,158,87.91
+22-08-2026,AI Block,Afternoon,180,154,85.81
+22-08-2026,AI Block,Evening,180,152,84.17
+22-08-2026,A Block,Morning,220,186,84.46
+22-08-2026,A Block,Afternoon,220,177,80.34
+22-08-2026,A Block,Evening,220,167,76.04
+22-08-2026,B Block,Morning,210,173,82.21
+22-08-2026,B Block,Afternoon,210,170,80.83
+22-08-2026,B Block,Evening,210,163,77.75
+22-08-2026,C Block,Morning,200,173,86.61
+22-08-2026,C Block,Afternoon,200,170,84.82
+22-08-2026,C Block,Evening,200,158,79.03
+22-08-2026,D Block,Morning,160,132,82.2
+22-08-2026,D Block,Afternoon,160,121,75.42
+22-08-2026,D Block,Evening,160,125,77.98
+22-08-2026,Cafeteria,Morning,120,89,74.38
+22-08-2026,Cafeteria,Afternoon,120,82,68.11
+22-08-2026,Cafeteria,Evening,120,76,63.64
+22-08-2026,Main Stage Area,Morning,100,69,69.06
+22-08-2026,Main Stage Area,Afternoon,100,65,64.51
+22-08-2026,Main Stage Area,Evening,100,63,62.57
+22-08-2026,C Block Auditorium 1,Morning,150,114,76.04
+22-08-2026,C Block Auditorium 1,Afternoon,150,108,71.84
+22-08-2026,C Block Auditorium 1,Evening,150,99,66.14
+22-08-2026,C Block Auditorium 2,Morning,150,108,71.67
+22-08-2026,C Block Auditorium 2,Afternoon,150,107,71.02
+22-08-2026,C Block Auditorium 2,Evening,150,105,69.88
+22-08-2026,Cricket Nets,Morning,60,43,71.47
+22-08-2026,Cricket Nets,Afternoon,60,39,65.26
+22-08-2026,Cricket Nets,Evening,60,39,64.38
+22-08-2026,Basketball Court,Morning,80,59,73.85
+22-08-2026,Basketball Court,Afternoon,80,54,68.06
+22-08-2026,Basketball Court,Evening,80,53,66.34
+23-08-2026,AI Block,Morning,180,157,87.13
+23-08-2026,AI Block,Afternoon,180,147,81.49
+23-08-2026,AI Block,Evening,180,145,80.79
+23-08-2026,A Block,Morning,220,190,86.23
+23-08-2026,A Block,Afternoon,220,186,84.38
+23-08-2026,A Block,Evening,220,177,80.32
+23-08-2026,B Block,Morning,210,170,80.97
+23-08-2026,B Block,Afternoon,210,166,78.94
+23-08-2026,B Block,Evening,210,164,78.13
+23-08-2026,C Block,Morning,200,174,87.13
+23-08-2026,C Block,Afternoon,200,168,84.13
+23-08-2026,C Block,Evening,200,175,87.48
+23-08-2026,D Block,Morning,160,128,80.26
+23-08-2026,D Block,Afternoon,160,126,78.5
+23-08-2026,D Block,Evening,160,119,74.1
+23-08-2026,Cafeteria,Morning,120,89,74.43
+23-08-2026,Cafeteria,Afternoon,120,83,69.31
+23-08-2026,Cafeteria,Evening,120,81,67.67
+23-08-2026,Main Stage Area,Morning,100,66,66.3
+23-08-2026,Main Stage Area,Afternoon,100,64,64.48
+23-08-2026,Main Stage Area,Evening,100,60,59.93
+23-08-2026,C Block Auditorium 1,Morning,150,113,75.18
+23-08-2026,C Block Auditorium 1,Afternoon,150,116,77.09
+23-08-2026,C Block Auditorium 1,Evening,150,96,63.89
+23-08-2026,C Block Auditorium 2,Morning,150,115,76.51
+23-08-2026,C Block Auditorium 2,Afternoon,150,103,68.45
+23-08-2026,C Block Auditorium 2,Evening,150,100,66.96
+23-08-2026,Cricket Nets,Morning,60,44,73.4
+23-08-2026,Cricket Nets,Afternoon,60,41,68.14
+23-08-2026,Cricket Nets,Evening,60,37,61.63
+23-08-2026,Basketball Court,Morning,80,57,71.43
+23-08-2026,Basketball Court,Afternoon,80,57,71.5
+23-08-2026,Basketball Court,Evening,80,52,64.39
+24-08-2026,AI Block,Morning,180,157,87.48
+24-08-2026,AI Block,Afternoon,180,151,84.1
+24-08-2026,AI Block,Evening,180,141,78.57
+24-08-2026,A Block,Morning,220,197,89.72
+24-08-2026,A Block,Afternoon,220,183,83.39
+24-08-2026,A Block,Evening,220,162,73.54
+24-08-2026,B Block,Morning,210,177,84.41
+24-08-2026,B Block,Afternoon,210,167,79.54
+24-08-2026,B Block,Evening,210,166,78.88
+24-08-2026,C Block,Morning,200,169,84.26
+24-08-2026,C Block,Afternoon,200,165,82.75
+24-08-2026,C Block,Evening,200,160,80.11
+24-08-2026,D Block,Morning,160,129,80.9
+24-08-2026,D Block,Afternoon,160,117,73.36
+24-08-2026,D Block,Evening,160,114,71.26
+24-08-2026,Cafeteria,Morning,120,86,71.96
+24-08-2026,Cafeteria,Afternoon,120,82,68.56
+24-08-2026,Cafeteria,Evening,120,84,69.88
+24-08-2026,Main Stage Area,Morning,100,69,68.89
+24-08-2026,Main Stage Area,Afternoon,100,62,62.23
+24-08-2026,Main Stage Area,Evening,100,63,63.02
+24-08-2026,C Block Auditorium 1,Morning,150,120,79.67
+24-08-2026,C Block Auditorium 1,Afternoon,150,111,74.27
+24-08-2026,C Block Auditorium 1,Evening,150,97,64.66
+24-08-2026,C Block Auditorium 2,Morning,150,111,73.93
+24-08-2026,C Block Auditorium 2,Afternoon,150,112,74.79
+24-08-2026,C Block Auditorium 2,Evening,150,100,66.44
+24-08-2026,Cricket Nets,Morning,60,43,71.98
+24-08-2026,Cricket Nets,Afternoon,60,42,69.7
+24-08-2026,Cricket Nets,Evening,60,37,61.96
+24-08-2026,Basketball Court,Morning,80,58,72.87
+24-08-2026,Basketball Court,Afternoon,80,50,62.87
+24-08-2026,Basketball Court,Evening,80,51,63.75
+25-08-2026,AI Block,Morning,180,156,86.44
+25-08-2026,AI Block,Afternoon,180,146,81.25
+25-08-2026,AI Block,Evening,180,150,83.59
+25-08-2026,A Block,Morning,220,180,81.85
+25-08-2026,A Block,Afternoon,220,178,81.03
+25-08-2026,A Block,Evening,220,172,78.29
+25-08-2026,B Block,Morning,210,183,87.17
+25-08-2026,B Block,Afternoon,210,163,77.84
+25-08-2026,B Block,Evening,210,167,79.56
+25-08-2026,C Block,Morning,200,172,86.02
+25-08-2026,C Block,Afternoon,200,162,80.84
+25-08-2026,C Block,Evening,200,160,80.02
+25-08-2026,D Block,Morning,160,127,79.44
+25-08-2026,D Block,Afternoon,160,119,74.68
+25-08-2026,D Block,Evening,160,115,72.15
+25-08-2026,Cafeteria,Morning,120,87,72.15
+25-08-2026,Cafeteria,Afternoon,120,84,70.25
+25-08-2026,Cafeteria,Evening,120,81,67.46
+25-08-2026,Main Stage Area,Morning,100,71,71.49
+25-08-2026,Main Stage Area,Afternoon,100,62,62.28
+25-08-2026,Main Stage Area,Evening,100,66,65.69
+25-08-2026,C Block Auditorium 1,Morning,150,106,70.71
+25-08-2026,C Block Auditorium 1,Afternoon,150,107,71.67
+25-08-2026,C Block Auditorium 1,Evening,150,104,69.29
+25-08-2026,C Block Auditorium 2,Morning,150,113,75.62
+25-08-2026,C Block Auditorium 2,Afternoon,150,106,70.63
+25-08-2026,C Block Auditorium 2,Evening,150,101,67.54
+25-08-2026,Cricket Nets,Morning,60,42,69.92
+25-08-2026,Cricket Nets,Afternoon,60,40,66.7
+25-08-2026,Cricket Nets,Evening,60,40,65.87
+25-08-2026,Basketball Court,Morning,80,59,73.79
+25-08-2026,Basketball Court,Afternoon,80,55,68.48
+25-08-2026,Basketball Court,Evening,80,54,67.98
+26-08-2026,AI Block,Morning,180,158,87.68
+26-08-2026,AI Block,Afternoon,180,154,85.79
+26-08-2026,AI Block,Evening,180,146,81.39
+26-08-2026,A Block,Morning,220,183,83.18
+26-08-2026,A Block,Afternoon,220,178,80.77
+26-08-2026,A Block,Evening,220,175,79.64
+26-08-2026,B Block,Morning,210,179,85.34
+26-08-2026,B Block,Afternoon,210,170,80.95
+26-08-2026,B Block,Evening,210,162,77.26
+26-08-2026,C Block,Morning,200,178,88.81
+26-08-2026,C Block,Afternoon,200,163,81.7
+26-08-2026,C Block,Evening,200,160,80.2
+26-08-2026,D Block,Morning,160,126,78.56
+26-08-2026,D Block,Afternoon,160,121,75.52
+26-08-2026,D Block,Evening,160,119,74.42
+26-08-2026,Cafeteria,Morning,120,90,74.82
+26-08-2026,Cafeteria,Afternoon,120,86,71.79
+26-08-2026,Cafeteria,Evening,120,83,68.87
+26-08-2026,Main Stage Area,Morning,100,68,68.05
+26-08-2026,Main Stage Area,Afternoon,100,67,66.5
+26-08-2026,Main Stage Area,Evening,100,60,60.32
+26-08-2026,C Block Auditorium 1,Morning,150,114,75.71
+26-08-2026,C Block Auditorium 1,Afternoon,150,108,71.71
+26-08-2026,C Block Auditorium 1,Evening,150,102,68.21
+26-08-2026,C Block Auditorium 2,Morning,150,114,76.31
+26-08-2026,C Block Auditorium 2,Afternoon,150,105,70.2
+26-08-2026,C Block Auditorium 2,Evening,150,109,72.6
+26-08-2026,Cricket Nets,Morning,60,41,68.79
+26-08-2026,Cricket Nets,Afternoon,60,39,65.33
+26-08-2026,Cricket Nets,Evening,60,40,66.55
+26-08-2026,Basketball Court,Morning,80,60,74.74
+26-08-2026,Basketball Court,Afternoon,80,57,71.37
+26-08-2026,Basketball Court,Evening,80,54,67.38
+27-08-2026,AI Block,Morning,180,157,86.97
+27-08-2026,AI Block,Afternoon,180,148,82.03
+27-08-2026,AI Block,Evening,180,144,80.17
+27-08-2026,A Block,Morning,220,184,83.51
+27-08-2026,A Block,Afternoon,220,185,84.15
+27-08-2026,A Block,Evening,220,171,77.68
+27-08-2026,B Block,Morning,210,173,82.18
+27-08-2026,B Block,Afternoon,210,169,80.29
+27-08-2026,B Block,Evening,210,164,77.91
+27-08-2026,C Block,Morning,200,170,84.76
+27-08-2026,C Block,Afternoon,200,162,81.19
+27-08-2026,C Block,Evening,200,159,79.54
+27-08-2026,D Block,Morning,160,127,79.54
+27-08-2026,D Block,Afternoon,160,120,74.88
+27-08-2026,D Block,Evening,160,114,70.96
+27-08-2026,Cafeteria,Morning,120,88,73.51
+27-08-2026,Cafeteria,Afternoon,120,80,66.81
+27-08-2026,Cafeteria,Evening,120,75,62.9
+27-08-2026,Main Stage Area,Morning,100,66,66.42
+27-08-2026,Main Stage Area,Afternoon,100,65,64.53
+27-08-2026,Main Stage Area,Evening,100,62,61.68
+27-08-2026,C Block Auditorium 1,Morning,150,117,78.25
+27-08-2026,C Block Auditorium 1,Afternoon,150,111,73.89
+27-08-2026,C Block Auditorium 1,Evening,150,101,67.65
+27-08-2026,C Block Auditorium 2,Morning,150,112,74.96
+27-08-2026,C Block Auditorium 2,Afternoon,150,105,69.79
+27-08-2026,C Block Auditorium 2,Evening,150,102,67.96
+27-08-2026,Cricket Nets,Morning,60,42,70.36
+27-08-2026,Cricket Nets,Afternoon,60,41,68.71
+27-08-2026,Cricket Nets,Evening,60,37,62.18
+27-08-2026,Basketball Court,Morning,80,59,74.14
+27-08-2026,Basketball Court,Afternoon,80,59,73.37
+27-08-2026,Basketball Court,Evening,80,53,65.76
+28-08-2026,AI Block,Morning,180,158,87.88
+28-08-2026,AI Block,Afternoon,180,154,85.52
+28-08-2026,AI Block,Evening,180,142,79.12
+28-08-2026,A Block,Morning,220,188,85.49
+28-08-2026,A Block,Afternoon,220,180,82.03
+28-08-2026,A Block,Evening,220,172,78.21
+28-08-2026,B Block,Morning,210,173,82.3
+28-08-2026,B Block,Afternoon,210,170,81.05
+28-08-2026,B Block,Evening,210,164,78.1
+28-08-2026,C Block,Morning,200,178,89.19
+28-08-2026,C Block,Afternoon,200,170,85.11
+28-08-2026,C Block,Evening,200,167,83.74
+28-08-2026,D Block,Morning,160,124,77.31
+28-08-2026,D Block,Afternoon,160,125,77.92
+28-08-2026,D Block,Evening,160,116,72.4
+28-08-2026,Cafeteria,Morning,120,93,77.82
+28-08-2026,Cafeteria,Afternoon,120,82,68.22
+28-08-2026,Cafeteria,Evening,120,77,64.15
+28-08-2026,Main Stage Area,Morning,100,67,66.68
+28-08-2026,Main Stage Area,Afternoon,100,60,60.33
+28-08-2026,Main Stage Area,Evening,100,60,59.84
+28-08-2026,C Block Auditorium 1,Morning,150,110,73.33
+28-08-2026,C Block Auditorium 1,Afternoon,150,108,72.33
+28-08-2026,C Block Auditorium 1,Evening,150,103,68.75
+28-08-2026,C Block Auditorium 2,Morning,150,119,79.13
+28-08-2026,C Block Auditorium 2,Afternoon,150,111,74.09
+28-08-2026,C Block Auditorium 2,Evening,150,100,66.73
+28-08-2026,Cricket Nets,Morning,60,41,69.02
+28-08-2026,Cricket Nets,Afternoon,60,41,69.08
+28-08-2026,Cricket Nets,Evening,60,37,61.1
+28-08-2026,Basketball Court,Morning,80,62,77.03
+28-08-2026,Basketball Court,Afternoon,80,58,72.59
+28-08-2026,Basketball Court,Evening,80,52,64.97
+29-08-2026,AI Block,Morning,180,150,83.23
+29-08-2026,AI Block,Afternoon,180,157,86.98
+29-08-2026,AI Block,Evening,180,144,79.75
+29-08-2026,A Block,Morning,220,193,87.72
+29-08-2026,A Block,Afternoon,220,173,78.49
+29-08-2026,A Block,Evening,220,169,76.68
+29-08-2026,B Block,Morning,210,176,84.01
+29-08-2026,B Block,Afternoon,210,170,81.1
+29-08-2026,B Block,Evening,210,160,76.01
+29-08-2026,C Block,Morning,200,175,87.37
+29-08-2026,C Block,Afternoon,200,161,80.65
+29-08-2026,C Block,Evening,200,157,78.69
+29-08-2026,D Block,Morning,160,127,79.26
+29-08-2026,D Block,Afternoon,160,123,77.13
+29-08-2026,D Block,Evening,160,118,73.57
+29-08-2026,Cafeteria,Morning,120,85,70.53
+29-08-2026,Cafeteria,Afternoon,120,80,66.62
+29-08-2026,Cafeteria,Evening,120,83,68.81
+29-08-2026,Main Stage Area,Morning,100,69,68.73
+29-08-2026,Main Stage Area,Afternoon,100,63,63.35
+29-08-2026,Main Stage Area,Evening,100,64,64.41
+29-08-2026,C Block Auditorium 1,Morning,150,113,75.25
+29-08-2026,C Block Auditorium 1,Afternoon,150,112,74.59
+29-08-2026,C Block Auditorium 1,Evening,150,102,68.15
+29-08-2026,C Block Auditorium 2,Morning,150,119,79.53
+29-08-2026,C Block Auditorium 2,Afternoon,150,114,75.86
+29-08-2026,C Block Auditorium 2,Evening,150,101,67.45
+29-08-2026,Cricket Nets,Morning,60,44,73.14
+29-08-2026,Cricket Nets,Afternoon,60,42,69.42
+29-08-2026,Cricket Nets,Evening,60,40,67.01
+29-08-2026,Basketball Court,Morning,80,57,70.88
+29-08-2026,Basketball Court,Afternoon,80,57,71.51
+29-08-2026,Basketball Court,Evening,80,55,68.33
+30-08-2026,AI Block,Morning,180,150,83.13
+30-08-2026,AI Block,Afternoon,180,147,81.4
+30-08-2026,AI Block,Evening,180,136,75.51
+30-08-2026,A Block,Morning,220,186,84.41
+30-08-2026,A Block,Afternoon,220,184,83.58
+30-08-2026,A Block,Evening,220,179,81.31
+30-08-2026,B Block,Morning,210,177,84.16
+30-08-2026,B Block,Afternoon,210,178,84.58
+30-08-2026,B Block,Evening,210,155,73.96
+30-08-2026,C Block,Morning,200,165,82.25
+30-08-2026,C Block,Afternoon,200,166,82.88
+30-08-2026,C Block,Evening,200,160,79.84
+30-08-2026,D Block,Morning,160,126,78.93
+30-08-2026,D Block,Afternoon,160,114,71.45
+30-08-2026,D Block,Evening,160,115,71.8
+30-08-2026,Cafeteria,Morning,120,84,70.13
+30-08-2026,Cafeteria,Afternoon,120,86,71.47
+30-08-2026,Cafeteria,Evening,120,80,66.81
+30-08-2026,Main Stage Area,Morning,100,66,65.93
+30-08-2026,Main Stage Area,Afternoon,100,64,63.87
+30-08-2026,Main Stage Area,Evening,100,59,58.67
+30-08-2026,C Block Auditorium 1,Morning,150,112,74.86
+30-08-2026,C Block Auditorium 1,Afternoon,150,111,74.1
+30-08-2026,C Block Auditorium 1,Evening,150,99,65.83
+30-08-2026,C Block Auditorium 2,Morning,150,114,76.11
+30-08-2026,C Block Auditorium 2,Afternoon,150,106,70.83
+30-08-2026,C Block Auditorium 2,Evening,150,99,66.26
+30-08-2026,Cricket Nets,Morning,60,42,70.76
+30-08-2026,Cricket Nets,Afternoon,60,39,65.72
+30-08-2026,Cricket Nets,Evening,60,38,62.78
+30-08-2026,Basketball Court,Morning,80,56,70.36
+30-08-2026,Basketball Court,Afternoon,80,59,74.32
+30-08-2026,Basketball Court,Evening,80,53,66.08
+31-08-2026,AI Block,Morning,180,154,85.46
+31-08-2026,AI Block,Afternoon,180,152,84.47
+31-08-2026,AI Block,Evening,180,144,79.75
+31-08-2026,A Block,Morning,220,186,84.51
+31-08-2026,A Block,Afternoon,220,183,83.35
+31-08-2026,A Block,Evening,220,175,79.67
+31-08-2026,B Block,Morning,210,174,82.83
+31-08-2026,B Block,Afternoon,210,167,79.73
+31-08-2026,B Block,Evening,210,160,76.39
+31-08-2026,C Block,Morning,200,162,80.94
+31-08-2026,C Block,Afternoon,200,159,79.67
+31-08-2026,C Block,Evening,200,164,82.01
+31-08-2026,D Block,Morning,160,132,82.62
+31-08-2026,D Block,Afternoon,160,121,75.45
+31-08-2026,D Block,Evening,160,117,73.27
+31-08-2026,Cafeteria,Morning,120,88,73.68
+31-08-2026,Cafeteria,Afternoon,120,92,76.77
+31-08-2026,Cafeteria,Evening,120,82,68.46
+31-08-2026,Main Stage Area,Morning,100,68,67.72
+31-08-2026,Main Stage Area,Afternoon,100,63,62.9
+31-08-2026,Main Stage Area,Evening,100,57,57.47
+31-08-2026,C Block Auditorium 1,Morning,150,113,75.45
+31-08-2026,C Block Auditorium 1,Afternoon,150,106,70.34
+31-08-2026,C Block Auditorium 1,Evening,150,97,64.87
+31-08-2026,C Block Auditorium 2,Morning,150,110,73.58
+31-08-2026,C Block Auditorium 2,Afternoon,150,104,69.62
+31-08-2026,C Block Auditorium 2,Evening,150,108,71.71
+31-08-2026,Cricket Nets,Morning,60,44,72.94
+31-08-2026,Cricket Nets,Afternoon,60,41,67.98
+31-08-2026,Cricket Nets,Evening,60,40,67.26
+31-08-2026,Basketball Court,Morning,80,59,73.17
+31-08-2026,Basketball Court,Afternoon,80,54,68.11
+31-08-2026,Basketball Court,Evening,80,55,69.35
+01-09-2026,AI Block,Morning,180,159,88.19
+01-09-2026,AI Block,Afternoon,180,147,81.72
+01-09-2026,AI Block,Evening,180,143,79.58
+01-09-2026,A Block,Morning,220,183,83.07
+01-09-2026,A Block,Afternoon,220,174,78.96
+01-09-2026,A Block,Evening,220,176,80.04
+01-09-2026,B Block,Morning,210,185,88.2
+01-09-2026,B Block,Afternoon,210,164,77.92
+01-09-2026,B Block,Evening,210,164,78.24
+01-09-2026,C Block,Morning,200,169,84.57
+01-09-2026,C Block,Afternoon,200,164,81.93
+01-09-2026,C Block,Evening,200,155,77.7
+01-09-2026,D Block,Morning,160,123,77.1
+01-09-2026,D Block,Afternoon,160,122,76.11
+01-09-2026,D Block,Evening,160,112,70.17
+01-09-2026,Cafeteria,Morning,120,88,73.6
+01-09-2026,Cafeteria,Afternoon,120,84,69.89
+01-09-2026,Cafeteria,Evening,120,79,65.47
+01-09-2026,Main Stage Area,Morning,100,66,66
+01-09-2026,Main Stage Area,Afternoon,100,64,63.73
+01-09-2026,Main Stage Area,Evening,100,63,62.66
+01-09-2026,C Block Auditorium 1,Morning,150,114,76.1
+01-09-2026,C Block Auditorium 1,Afternoon,150,105,69.85
+01-09-2026,C Block Auditorium 1,Evening,150,102,68.22
+01-09-2026,C Block Auditorium 2,Morning,150,115,76.65
+01-09-2026,C Block Auditorium 2,Afternoon,150,102,68.33
+01-09-2026,C Block Auditorium 2,Evening,150,104,69.2
+01-09-2026,Cricket Nets,Morning,60,42,69.54
+01-09-2026,Cricket Nets,Afternoon,60,42,69.26
+01-09-2026,Cricket Nets,Evening,60,37,62.32
+01-09-2026,Basketball Court,Morning,80,55,69.03
+01-09-2026,Basketball Court,Afternoon,80,53,66.42
+01-09-2026,Basketball Court,Evening,80,53,66.11
+02-09-2026,AI Block,Morning,180,158,87.57
+02-09-2026,AI Block,Afternoon,180,148,82.01
+02-09-2026,AI Block,Evening,180,147,81.4
+02-09-2026,A Block,Morning,220,179,81.34
+02-09-2026,A Block,Afternoon,220,180,81.85
+02-09-2026,A Block,Evening,220,166,75.34
+02-09-2026,B Block,Morning,210,173,82.57
+02-09-2026,B Block,Afternoon,210,170,81.1
+02-09-2026,B Block,Evening,210,158,75.11
+02-09-2026,C Block,Morning,200,170,85.15
+02-09-2026,C Block,Afternoon,200,170,85.21
+02-09-2026,C Block,Evening,200,155,77.73
+02-09-2026,D Block,Morning,160,129,80.84
+02-09-2026,D Block,Afternoon,160,118,73.51
+02-09-2026,D Block,Evening,160,117,73.17
+02-09-2026,Cafeteria,Morning,120,91,76.17
+02-09-2026,Cafeteria,Afternoon,120,77,64.56
+02-09-2026,Cafeteria,Evening,120,77,64.25
+02-09-2026,Main Stage Area,Morning,100,69,69.27
+02-09-2026,Main Stage Area,Afternoon,100,65,64.55
+02-09-2026,Main Stage Area,Evening,100,62,61.82
+02-09-2026,C Block Auditorium 1,Morning,150,111,73.67
+02-09-2026,C Block Auditorium 1,Afternoon,150,108,72.19
+02-09-2026,C Block Auditorium 1,Evening,150,101,67.66
+02-09-2026,C Block Auditorium 2,Morning,150,116,77.57
+02-09-2026,C Block Auditorium 2,Afternoon,150,109,72.56
+02-09-2026,C Block Auditorium 2,Evening,150,103,68.74
+02-09-2026,Cricket Nets,Morning,60,42,70.09
+02-09-2026,Cricket Nets,Afternoon,60,40,66.93
+02-09-2026,Cricket Nets,Evening,60,38,63.05
+02-09-2026,Basketball Court,Morning,80,59,73.87
+02-09-2026,Basketball Court,Afternoon,80,55,69.07
+02-09-2026,Basketball Court,Evening,80,53,66.64
+03-09-2026,AI Block,Morning,180,165,91.57
+03-09-2026,AI Block,Afternoon,180,155,85.92
+03-09-2026,AI Block,Evening,180,143,79.28
+03-09-2026,A Block,Morning,220,193,87.64
+03-09-2026,A Block,Afternoon,220,178,81.1
+03-09-2026,A Block,Evening,220,162,73.52
+03-09-2026,B Block,Morning,210,172,81.78
+03-09-2026,B Block,Afternoon,210,161,76.88
+03-09-2026,B Block,Evening,210,160,76.23
+03-09-2026,C Block,Morning,200,172,86.04
+03-09-2026,C Block,Afternoon,200,173,86.69
+03-09-2026,C Block,Evening,200,159,79.72
+03-09-2026,D Block,Morning,160,126,78.52
+03-09-2026,D Block,Afternoon,160,125,77.82
+03-09-2026,D Block,Evening,160,107,67.14
+03-09-2026,Cafeteria,Morning,120,88,73.52
+03-09-2026,Cafeteria,Afternoon,120,86,71.7
+03-09-2026,Cafeteria,Evening,120,75,62.75
+03-09-2026,Main Stage Area,Morning,100,71,70.52
+03-09-2026,Main Stage Area,Afternoon,100,66,65.74
+03-09-2026,Main Stage Area,Evening,100,60,60.09
+03-09-2026,C Block Auditorium 1,Morning,150,115,76.39
+03-09-2026,C Block Auditorium 1,Afternoon,150,115,77
+03-09-2026,C Block Auditorium 1,Evening,150,103,68.4
+03-09-2026,C Block Auditorium 2,Morning,150,113,75.55
+03-09-2026,C Block Auditorium 2,Afternoon,150,106,70.99
+03-09-2026,C Block Auditorium 2,Evening,150,99,66.13
+03-09-2026,Cricket Nets,Morning,60,44,72.83
+03-09-2026,Cricket Nets,Afternoon,60,40,66.12
+03-09-2026,Cricket Nets,Evening,60,38,64.16
+03-09-2026,Basketball Court,Morning,80,58,71.95
+03-09-2026,Basketball Court,Afternoon,80,57,71.05
+03-09-2026,Basketball Court,Evening,80,53,66.73
+04-09-2026,AI Block,Morning,180,161,89.28
+04-09-2026,AI Block,Afternoon,180,149,82.88
+04-09-2026,AI Block,Evening,180,143,79.41
+04-09-2026,A Block,Morning,220,182,82.85
+04-09-2026,A Block,Afternoon,220,178,81.02
+04-09-2026,A Block,Evening,220,173,78.83
+04-09-2026,B Block,Morning,210,180,85.67
+04-09-2026,B Block,Afternoon,210,166,78.97
+04-09-2026,B Block,Evening,210,166,78.91
+04-09-2026,C Block,Morning,200,178,88.98
+04-09-2026,C Block,Afternoon,200,168,83.91
+04-09-2026,C Block,Evening,200,166,83.13
+04-09-2026,D Block,Morning,160,124,77.3
+04-09-2026,D Block,Afternoon,160,117,73.26
+04-09-2026,D Block,Evening,160,109,68.09
+04-09-2026,Cafeteria,Morning,120,92,76.29
+04-09-2026,Cafeteria,Afternoon,120,86,71.44
+04-09-2026,Cafeteria,Evening,120,79,65.88
+04-09-2026,Main Stage Area,Morning,100,69,68.62
+04-09-2026,Main Stage Area,Afternoon,100,63,62.52
+04-09-2026,Main Stage Area,Evening,100,66,66.38
+04-09-2026,C Block Auditorium 1,Morning,150,113,75.28
+04-09-2026,C Block Auditorium 1,Afternoon,150,108,72.24
+04-09-2026,C Block Auditorium 1,Evening,150,104,69.6
+04-09-2026,C Block Auditorium 2,Morning,150,114,76.06
+04-09-2026,C Block Auditorium 2,Afternoon,150,109,72.49
+04-09-2026,C Block Auditorium 2,Evening,150,99,66.26
+04-09-2026,Cricket Nets,Morning,60,43,72.04
+04-09-2026,Cricket Nets,Afternoon,60,43,72.14
+04-09-2026,Cricket Nets,Evening,60,40,66.96
+04-09-2026,Basketball Court,Morning,80,61,76.51
+04-09-2026,Basketball Court,Afternoon,80,55,68.88
+04-09-2026,Basketball Court,Evening,80,51,63.82
+05-09-2026,AI Block,Morning,180,156,86.72
+05-09-2026,AI Block,Afternoon,180,151,84.12
+05-09-2026,AI Block,Evening,180,148,82.41
+05-09-2026,A Block,Morning,220,179,81.28
+05-09-2026,A Block,Afternoon,220,188,85.37
+05-09-2026,A Block,Evening,220,171,77.65
+05-09-2026,B Block,Morning,210,174,83.06
+05-09-2026,B Block,Afternoon,210,165,78.77
+05-09-2026,B Block,Evening,210,154,73.36
+05-09-2026,C Block,Morning,200,176,87.81
+05-09-2026,C Block,Afternoon,200,166,83.16
+05-09-2026,C Block,Evening,200,152,76.16
+05-09-2026,D Block,Morning,160,122,76.15
+05-09-2026,D Block,Afternoon,160,120,75.26
+05-09-2026,D Block,Evening,160,121,75.67
+05-09-2026,Cafeteria,Morning,120,87,72.43
+05-09-2026,Cafeteria,Afternoon,120,80,66.69
+05-09-2026,Cafeteria,Evening,120,79,65.46
+05-09-2026,Main Stage Area,Morning,100,67,67.4
+05-09-2026,Main Stage Area,Afternoon,100,59,59.07
+05-09-2026,Main Stage Area,Evening,100,61,60.88
+05-09-2026,C Block Auditorium 1,Morning,150,112,74.49
+05-09-2026,C Block Auditorium 1,Afternoon,150,110,73.53
+05-09-2026,C Block Auditorium 1,Evening,150,108,72.07
+05-09-2026,C Block Auditorium 2,Morning,150,116,77.48
+05-09-2026,C Block Auditorium 2,Afternoon,150,107,71.41
+05-09-2026,C Block Auditorium 2,Evening,150,98,65.57
+05-09-2026,Cricket Nets,Morning,60,46,76.66
+05-09-2026,Cricket Nets,Afternoon,60,41,68.13
+05-09-2026,Cricket Nets,Evening,60,38,64.03
+05-09-2026,Basketball Court,Morning,80,58,72.95
+05-09-2026,Basketball Court,Afternoon,80,56,70.44
+05-09-2026,Basketball Court,Evening,80,53,65.68
+06-09-2026,AI Block,Morning,180,154,85.74
+06-09-2026,AI Block,Afternoon,180,149,82.8
+06-09-2026,AI Block,Evening,180,144,79.93
+06-09-2026,A Block,Morning,220,184,83.8
+06-09-2026,A Block,Afternoon,220,177,80.43
+06-09-2026,A Block,Evening,220,172,78.23
+06-09-2026,B Block,Morning,210,175,83.44
+06-09-2026,B Block,Afternoon,210,177,84.31
+06-09-2026,B Block,Evening,210,149,71.17
+06-09-2026,C Block,Morning,200,177,88.4
+06-09-2026,C Block,Afternoon,200,171,85.74
+06-09-2026,C Block,Evening,200,149,74.44
+06-09-2026,D Block,Morning,160,125,78.25
+06-09-2026,D Block,Afternoon,160,120,75.18
+06-09-2026,D Block,Evening,160,110,68.9
+06-09-2026,Cafeteria,Morning,120,86,71.29
+06-09-2026,Cafeteria,Afternoon,120,81,67.56
+06-09-2026,Cafeteria,Evening,120,84,69.85
+06-09-2026,Main Stage Area,Morning,100,70,70.06
+06-09-2026,Main Stage Area,Afternoon,100,68,67.8
+06-09-2026,Main Stage Area,Evening,100,63,62.59
+06-09-2026,C Block Auditorium 1,Morning,150,109,72.52
+06-09-2026,C Block Auditorium 1,Afternoon,150,106,70.85
+06-09-2026,C Block Auditorium 1,Evening,150,104,69.08
+06-09-2026,C Block Auditorium 2,Morning,150,108,72.31
+06-09-2026,C Block Auditorium 2,Afternoon,150,110,73.57
+06-09-2026,C Block Auditorium 2,Evening,150,101,67.47
+06-09-2026,Cricket Nets,Morning,60,42,70.18
+06-09-2026,Cricket Nets,Afternoon,60,42,69.56
+06-09-2026,Cricket Nets,Evening,60,39,64.98
+06-09-2026,Basketball Court,Morning,80,58,72.21
+06-09-2026,Basketball Court,Afternoon,80,58,72.55
+06-09-2026,Basketball Court,Evening,80,51,63.62
+07-09-2026,AI Block,Morning,180,159,88.36
+07-09-2026,AI Block,Afternoon,180,154,85.3
+07-09-2026,AI Block,Evening,180,143,79.32
+07-09-2026,A Block,Morning,220,189,85.72
+07-09-2026,A Block,Afternoon,220,174,79.25
+07-09-2026,A Block,Evening,220,176,80.03
+07-09-2026,B Block,Morning,210,176,83.59
+07-09-2026,B Block,Afternoon,210,168,79.85
+07-09-2026,B Block,Evening,210,167,79.31
+07-09-2026,C Block,Morning,200,169,84.45
+07-09-2026,C Block,Afternoon,200,160,79.9
+07-09-2026,C Block,Evening,200,151,75.58
+07-09-2026,D Block,Morning,160,129,80.33
+07-09-2026,D Block,Afternoon,160,117,73.18
+07-09-2026,D Block,Evening,160,121,75.86
+07-09-2026,Cafeteria,Morning,120,82,68.42
+07-09-2026,Cafeteria,Afternoon,120,88,73.73
+07-09-2026,Cafeteria,Evening,120,80,66.46
+07-09-2026,Main Stage Area,Morning,100,68,67.79
+07-09-2026,Main Stage Area,Afternoon,100,64,63.8
+07-09-2026,Main Stage Area,Evening,100,62,61.88
+07-09-2026,C Block Auditorium 1,Morning,150,112,74.92
+07-09-2026,C Block Auditorium 1,Afternoon,150,112,74.43
+07-09-2026,C Block Auditorium 1,Evening,150,102,68.25
+07-09-2026,C Block Auditorium 2,Morning,150,113,75.33
+07-09-2026,C Block Auditorium 2,Afternoon,150,107,71.2
+07-09-2026,C Block Auditorium 2,Evening,150,102,67.87
+07-09-2026,Cricket Nets,Morning,60,43,71.68
+07-09-2026,Cricket Nets,Afternoon,60,39,64.24
+07-09-2026,Cricket Nets,Evening,60,37,61.03
+07-09-2026,Basketball Court,Morning,80,60,74.64
+07-09-2026,Basketball Court,Afternoon,80,56,70.38
+07-09-2026,Basketball Court,Evening,80,52,65.6
+08-09-2026,AI Block,Morning,180,157,87.04
+08-09-2026,AI Block,Afternoon,180,153,84.76
+08-09-2026,AI Block,Evening,180,142,78.81
+08-09-2026,A Block,Morning,220,183,83.29
+08-09-2026,A Block,Afternoon,220,181,82.43
+08-09-2026,A Block,Evening,220,167,75.85
+08-09-2026,B Block,Morning,210,178,84.9
+08-09-2026,B Block,Afternoon,210,162,77.25
+08-09-2026,B Block,Evening,210,166,79.26
+08-09-2026,C Block,Morning,200,162,81.04
+08-09-2026,C Block,Afternoon,200,155,77.56
+08-09-2026,C Block,Evening,200,136,68.16
+08-09-2026,D Block,Morning,160,132,82.66
+08-09-2026,D Block,Afternoon,160,125,78.23
+08-09-2026,D Block,Evening,160,109,67.95
+08-09-2026,Cafeteria,Morning,120,84,70.18
+08-09-2026,Cafeteria,Afternoon,120,82,68.63
+08-09-2026,Cafeteria,Evening,120,79,66.06
+08-09-2026,Main Stage Area,Morning,100,69,69.14
+08-09-2026,Main Stage Area,Afternoon,100,63,63.4
+08-09-2026,Main Stage Area,Evening,100,61,61.41
+08-09-2026,C Block Auditorium 1,Morning,150,110,73.34
+08-09-2026,C Block Auditorium 1,Afternoon,150,106,70.65
+08-09-2026,C Block Auditorium 1,Evening,150,97,64.91
+08-09-2026,C Block Auditorium 2,Morning,150,109,72.97
+08-09-2026,C Block Auditorium 2,Afternoon,150,104,69.03
+08-09-2026,C Block Auditorium 2,Evening,150,99,65.85
+08-09-2026,Cricket Nets,Morning,60,44,73.32
+08-09-2026,Cricket Nets,Afternoon,60,40,65.91
+08-09-2026,Cricket Nets,Evening,60,42,69.79
+08-09-2026,Basketball Court,Morning,80,59,74.09
+08-09-2026,Basketball Court,Afternoon,80,56,70.41
+08-09-2026,Basketball Court,Evening,80,51,64.11
+09-09-2026,AI Block,Morning,180,159,88.54
+09-09-2026,AI Block,Afternoon,180,149,82.73
+09-09-2026,AI Block,Evening,180,144,80.27
+09-09-2026,A Block,Morning,220,199,90.63
+09-09-2026,A Block,Afternoon,220,180,81.79
+09-09-2026,A Block,Evening,220,177,80.53
+09-09-2026,B Block,Morning,210,173,82.45
+09-09-2026,B Block,Afternoon,210,170,80.92
+09-09-2026,B Block,Evening,210,170,80.9
+09-09-2026,C Block,Morning,200,157,78.62
+09-09-2026,C Block,Afternoon,200,162,80.99
+09-09-2026,C Block,Evening,200,135,67.56
+09-09-2026,D Block,Morning,160,124,77.76
+09-09-2026,D Block,Afternoon,160,124,77.39
+09-09-2026,D Block,Evening,160,119,74.14
+09-09-2026,Cafeteria,Morning,120,89,74.37
+09-09-2026,Cafeteria,Afternoon,120,80,66.55
+09-09-2026,Cafeteria,Evening,120,77,64.4
+09-09-2026,Main Stage Area,Morning,100,67,67.46
+09-09-2026,Main Stage Area,Afternoon,100,65,64.84
+09-09-2026,Main Stage Area,Evening,100,62,62.37
+09-09-2026,C Block Auditorium 1,Morning,150,113,75.39
+09-09-2026,C Block Auditorium 1,Afternoon,150,104,69.06
+09-09-2026,C Block Auditorium 1,Evening,150,103,68.84
+09-09-2026,C Block Auditorium 2,Morning,150,115,76.34
+09-09-2026,C Block Auditorium 2,Afternoon,150,110,73.23
+09-09-2026,C Block Auditorium 2,Evening,150,106,70.38
+09-09-2026,Cricket Nets,Morning,60,44,72.83
+09-09-2026,Cricket Nets,Afternoon,60,41,69.01
+09-09-2026,Cricket Nets,Evening,60,38,63.85
+09-09-2026,Basketball Court,Morning,80,55,69.35
+09-09-2026,Basketball Court,Afternoon,80,57,70.95
+09-09-2026,Basketball Court,Evening,80,53,66.46
+10-09-2026,AI Block,Morning,180,158,87.6
+10-09-2026,AI Block,Afternoon,180,146,81.19
+10-09-2026,AI Block,Evening,180,140,77.62
+10-09-2026,A Block,Morning,220,192,87.32
+10-09-2026,A Block,Afternoon,220,180,81.91
+10-09-2026,A Block,Evening,220,175,79.5
+10-09-2026,B Block,Morning,210,177,84.06
+10-09-2026,B Block,Afternoon,210,170,81.07
+10-09-2026,B Block,Evening,210,166,79.06
+10-09-2026,C Block,Morning,200,158,78.86
+10-09-2026,C Block,Afternoon,200,154,77.21
+10-09-2026,C Block,Evening,200,130,64.98
+10-09-2026,D Block,Morning,160,125,78.04
+10-09-2026,D Block,Afternoon,160,121,75.32
+10-09-2026,D Block,Evening,160,116,72.49
+10-09-2026,Cafeteria,Morning,120,86,71.95
+10-09-2026,Cafeteria,Afternoon,120,87,72.76
+10-09-2026,Cafeteria,Evening,120,77,64.03
+10-09-2026,Main Stage Area,Morning,100,68,67.59
+10-09-2026,Main Stage Area,Afternoon,100,64,64.03
+10-09-2026,Main Stage Area,Evening,100,64,64.18
+10-09-2026,C Block Auditorium 1,Morning,150,113,75.43
+10-09-2026,C Block Auditorium 1,Afternoon,150,111,74.27
+10-09-2026,C Block Auditorium 1,Evening,150,97,64.73
+10-09-2026,C Block Auditorium 2,Morning,150,113,75.59
+10-09-2026,C Block Auditorium 2,Afternoon,150,111,73.96
+10-09-2026,C Block Auditorium 2,Evening,150,102,68.18
+10-09-2026,Cricket Nets,Morning,60,44,73.34
+10-09-2026,Cricket Nets,Afternoon,60,40,66.86
+10-09-2026,Cricket Nets,Evening,60,40,67.1
+10-09-2026,Basketball Court,Morning,80,62,78.06
+10-09-2026,Basketball Court,Afternoon,80,55,69.2
+10-09-2026,Basketball Court,Evening,80,52,65.02
+11-09-2026,AI Block,Morning,180,162,90.2
+11-09-2026,AI Block,Afternoon,180,157,87.48
+11-09-2026,AI Block,Evening,180,142,78.85
+11-09-2026,A Block,Morning,220,185,84.08
+11-09-2026,A Block,Afternoon,220,179,81.38
+11-09-2026,A Block,Evening,220,165,75.04
+11-09-2026,B Block,Morning,210,172,81.98
+11-09-2026,B Block,Afternoon,210,165,78.79
+11-09-2026,B Block,Evening,210,158,75.31
+11-09-2026,C Block,Morning,200,160,79.92
+11-09-2026,C Block,Afternoon,200,155,77.52
+11-09-2026,C Block,Evening,200,139,69.41
+11-09-2026,D Block,Morning,160,123,76.8
+11-09-2026,D Block,Afternoon,160,125,78.17
+11-09-2026,D Block,Evening,160,114,71.53
+11-09-2026,Cafeteria,Morning,120,87,72.89
+11-09-2026,Cafeteria,Afternoon,120,86,71.48
+11-09-2026,Cafeteria,Evening,120,76,63.53
+11-09-2026,Main Stage Area,Morning,100,69,68.84
+11-09-2026,Main Stage Area,Afternoon,100,65,65.37
+11-09-2026,Main Stage Area,Evening,100,62,62.08
+11-09-2026,C Block Auditorium 1,Morning,150,113,75.64
+11-09-2026,C Block Auditorium 1,Afternoon,150,116,77.4
+11-09-2026,C Block Auditorium 1,Evening,150,100,66.6
+11-09-2026,C Block Auditorium 2,Morning,150,111,73.83
+11-09-2026,C Block Auditorium 2,Afternoon,150,106,70.63
+11-09-2026,C Block Auditorium 2,Evening,150,100,66.78
+11-09-2026,Cricket Nets,Morning,60,42,69.6
+11-09-2026,Cricket Nets,Afternoon,60,42,70.62
+11-09-2026,Cricket Nets,Evening,60,40,67.13
+11-09-2026,Basketball Court,Morning,80,57,71.74
+11-09-2026,Basketball Court,Afternoon,80,55,68.17
+11-09-2026,Basketball Court,Evening,80,54,67.04
+12-09-2026,AI Block,Morning,180,154,85.79
+12-09-2026,AI Block,Afternoon,180,154,85.39
+12-09-2026,AI Block,Evening,180,145,80.45
+12-09-2026,A Block,Morning,220,180,81.67
+12-09-2026,A Block,Afternoon,220,188,85.4
+12-09-2026,A Block,Evening,220,180,81.95
+12-09-2026,B Block,Morning,210,174,82.65
+12-09-2026,B Block,Afternoon,210,168,80.15
+12-09-2026,B Block,Evening,210,163,77.63
+12-09-2026,C Block,Morning,200,161,80.74
+12-09-2026,C Block,Afternoon,200,157,78.45
+12-09-2026,C Block,Evening,200,141,70.42
+12-09-2026,D Block,Morning,160,126,78.61
+12-09-2026,D Block,Afternoon,160,119,74.24
+12-09-2026,D Block,Evening,160,110,68.97
+12-09-2026,Cafeteria,Morning,120,86,71.39
+12-09-2026,Cafeteria,Afternoon,120,84,69.93
+12-09-2026,Cafeteria,Evening,120,84,69.95
+12-09-2026,Main Stage Area,Morning,100,67,66.86
+12-09-2026,Main Stage Area,Afternoon,100,65,65.49
+12-09-2026,Main Stage Area,Evening,100,61,60.96
+12-09-2026,C Block Auditorium 1,Morning,150,116,77.61
+12-09-2026,C Block Auditorium 1,Afternoon,150,116,77.56
+12-09-2026,C Block Auditorium 1,Evening,150,100,66.83
+12-09-2026,C Block Auditorium 2,Morning,150,111,73.92
+12-09-2026,C Block Auditorium 2,Afternoon,150,111,74.3
+12-09-2026,C Block Auditorium 2,Evening,150,104,69.5
+12-09-2026,Cricket Nets,Morning,60,45,75.06
+12-09-2026,Cricket Nets,Afternoon,60,42,69.28
+12-09-2026,Cricket Nets,Evening,60,38,63.21
+12-09-2026,Basketball Court,Morning,80,59,74.3
+12-09-2026,Basketball Court,Afternoon,80,58,72.44
+12-09-2026,Basketball Court,Evening,80,54,67.81
+13-09-2026,AI Block,Morning,180,159,88.12
+13-09-2026,AI Block,Afternoon,180,155,86.35
+13-09-2026,AI Block,Evening,180,149,82.57
+13-09-2026,A Block,Morning,220,194,88.04
+13-09-2026,A Block,Afternoon,220,184,83.43
+13-09-2026,A Block,Evening,220,171,77.63
+13-09-2026,B Block,Morning,210,177,84.32
+13-09-2026,B Block,Afternoon,210,176,83.65
+13-09-2026,B Block,Evening,210,158,75.2
+13-09-2026,C Block,Morning,200,162,80.81
+13-09-2026,C Block,Afternoon,200,152,76.13
+13-09-2026,C Block,Evening,200,132,66.06
+13-09-2026,D Block,Morning,160,131,81.81
+13-09-2026,D Block,Afternoon,160,122,76.42
+13-09-2026,D Block,Evening,160,115,72.1
+13-09-2026,Cafeteria,Morning,120,84,70.01
+13-09-2026,Cafeteria,Afternoon,120,86,71.64
+13-09-2026,Cafeteria,Evening,120,81,67.42
+13-09-2026,Main Stage Area,Morning,100,73,72.76
+13-09-2026,Main Stage Area,Afternoon,100,64,64.32
+13-09-2026,Main Stage Area,Evening,100,61,61.48
+13-09-2026,C Block Auditorium 1,Morning,150,113,75.55
+13-09-2026,C Block Auditorium 1,Afternoon,150,113,75.47
+13-09-2026,C Block Auditorium 1,Evening,150,102,67.79
+13-09-2026,C Block Auditorium 2,Morning,150,113,75.61
+13-09-2026,C Block Auditorium 2,Afternoon,150,110,73.34
+13-09-2026,C Block Auditorium 2,Evening,150,103,68.41
+13-09-2026,Cricket Nets,Morning,60,42,70.02
+13-09-2026,Cricket Nets,Afternoon,60,41,68.43
+13-09-2026,Cricket Nets,Evening,60,40,66.36
+13-09-2026,Basketball Court,Morning,80,57,70.74
+13-09-2026,Basketball Court,Afternoon,80,56,70.29
+13-09-2026,Basketball Court,Evening,80,52,64.46
+14-09-2026,AI Block,Morning,180,161,89.63
+14-09-2026,AI Block,Afternoon,180,145,80.65
+14-09-2026,AI Block,Evening,180,142,78.77
+14-09-2026,A Block,Morning,220,189,85.83
+14-09-2026,A Block,Afternoon,220,188,85.44
+14-09-2026,A Block,Evening,220,171,77.86
+14-09-2026,B Block,Morning,210,174,82.78
+14-09-2026,B Block,Afternoon,210,179,85.14
+14-09-2026,B Block,Evening,210,155,73.81
+14-09-2026,C Block,Morning,200,150,75.16
+14-09-2026,C Block,Afternoon,200,156,77.97
+14-09-2026,C Block,Evening,200,130,64.9
+14-09-2026,D Block,Morning,160,123,76.75
+14-09-2026,D Block,Afternoon,160,124,77.56
+14-09-2026,D Block,Evening,160,116,72.54
+14-09-2026,Cafeteria,Morning,120,86,71.76
+14-09-2026,Cafeteria,Afternoon,120,81,67.18
+14-09-2026,Cafeteria,Evening,120,82,67.92
+14-09-2026,Main Stage Area,Morning,100,69,69.43
+14-09-2026,Main Stage Area,Afternoon,100,65,64.78
+14-09-2026,Main Stage Area,Evening,100,65,65.06
+14-09-2026,C Block Auditorium 1,Morning,150,109,72.65
+14-09-2026,C Block Auditorium 1,Afternoon,150,103,68.64
+14-09-2026,C Block Auditorium 1,Evening,150,100,66.48
+14-09-2026,C Block Auditorium 2,Morning,150,112,74.9
+14-09-2026,C Block Auditorium 2,Afternoon,150,109,72.54
+14-09-2026,C Block Auditorium 2,Evening,150,101,67.47
+14-09-2026,Cricket Nets,Morning,60,43,71.77
+14-09-2026,Cricket Nets,Afternoon,60,39,65.25
+14-09-2026,Cricket Nets,Evening,60,40,67.18
+14-09-2026,Basketball Court,Morning,80,58,72.82
+14-09-2026,Basketball Court,Afternoon,80,58,72.46
+14-09-2026,Basketball Court,Evening,80,53,66.75
+15-09-2026,AI Block,Morning,180,158,88
+15-09-2026,AI Block,Afternoon,180,153,85.25
+15-09-2026,AI Block,Evening,180,146,80.98
+15-09-2026,A Block,Morning,220,190,86.41
+15-09-2026,A Block,Afternoon,220,187,84.92
+15-09-2026,A Block,Evening,220,173,78.43
+15-09-2026,B Block,Morning,210,180,85.56
+15-09-2026,B Block,Afternoon,210,170,80.8
+15-09-2026,B Block,Evening,210,168,80.17
+15-09-2026,C Block,Morning,200,157,78.51
+15-09-2026,C Block,Afternoon,200,162,80.96
+15-09-2026,C Block,Evening,200,132,65.91
+15-09-2026,D Block,Morning,160,121,75.85
+15-09-2026,D Block,Afternoon,160,122,76.28
+15-09-2026,D Block,Evening,160,113,70.5
+15-09-2026,Cafeteria,Morning,120,90,74.85
+15-09-2026,Cafeteria,Afternoon,120,82,68.56
+15-09-2026,Cafeteria,Evening,120,78,65.02
+15-09-2026,Main Stage Area,Morning,100,64,63.84
+15-09-2026,Main Stage Area,Afternoon,100,64,64
+15-09-2026,Main Stage Area,Evening,100,56,55.67
+15-09-2026,C Block Auditorium 1,Morning,150,107,71.52
+15-09-2026,C Block Auditorium 1,Afternoon,150,111,73.67
+15-09-2026,C Block Auditorium 1,Evening,150,105,69.73
+15-09-2026,C Block Auditorium 2,Morning,150,114,75.94
+15-09-2026,C Block Auditorium 2,Afternoon,150,105,69.87
+15-09-2026,C Block Auditorium 2,Evening,150,102,67.9
+15-09-2026,Cricket Nets,Morning,60,43,70.99
+15-09-2026,Cricket Nets,Afternoon,60,39,65.45
+15-09-2026,Cricket Nets,Evening,60,40,67.31
+15-09-2026,Basketball Court,Morning,80,60,74.93
+15-09-2026,Basketball Court,Afternoon,80,56,69.51
+15-09-2026,Basketball Court,Evening,80,53,66.06
