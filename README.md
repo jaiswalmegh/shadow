@@ -95,7 +95,7 @@ SHADOW/
 ### 1. Clone the Repository
 
 ```bash
-git 
+git https://github.com/jaiswalmegh/shadow
 cd shadow
 ```
 
